@@ -5,14 +5,14 @@
 ### Instrutores
 
 * **Professor** 
-  * Leopoldo Motta Teixeira (@leopoldomt - lmt@cin)
+  * Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
 * **Monitores** 
-  * Caio Rocha Pereira (@crp3 --- crp3@cin)
-  * Emanuel Victor (@evfgs --- evfgs@cin)
-  * Gabriel Henrique Daniel da Silva (@gabrielh10 --- ghds@cin)
-  * Jailson da Costa Dias (@jailson-dias --- jcd2@cin)
-  * Jose Murilo Sodre da Mota Filho (@jmsmf --- jmsmf@cin)
-  * Pedro Lins de Araujo Lima (@plal --- plal@cin)
+  * Caio Rocha Pereira ([@crp3](https://github.com/crp3) --- crp3@cin)
+  * Emanuel Victor ([@evfgs](https://github.com/evfgs) --- evfgs@cin)
+  * Gabriel Henrique Daniel da Silva ([@gabrielh10](https://github.com/gabrielh10) --- ghds@cin)
+  * Jailson da Costa Dias ([@jailson-dias](https://github.com/jailson-dias) --- jcd2@cin)
+  * Jose Murilo Sodre da Mota Filho ([@jmsmf](https://github.com/jmsmf) --- jmsmf@cin)
+  * Pedro Lins de Araujo Lima ([@plal](https://github.com/plal) --- plal@cin)
   
 ### Horário e Local de Aulas
 
@@ -71,6 +71,9 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
   - Trabalhos **“CTRL-C + CTRL-V”** terão nota **zero** (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
 
 ### Plano de Ensino
+
+**Atenção!** 
+*Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
 | # | Data | Assunto | Recursos |
 |:---:|:----:|:----------------------|:--------:|
