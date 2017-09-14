@@ -47,7 +47,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 ### Recursos
 
 - [Slack](http://if688.slack.com)
-- [Google Classroom (sdbhetu)](http://classroom.google.com)
+- [Google Classroom](http://classroom.google.com) - Código: sdbhetu
 
 #### Ferramentas
 
@@ -56,14 +56,14 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 
 ### Avaliação
 
-* (N1+N2)/2, onde:
-  * N1 = Prova1 (70%) + Exercícios (30%)
-    * Prova1 = Teste com [assunto](#) dado até o momento
-    * Exercícios = Tarefas passadas durante primeira unidade
-  * N2 = Prova2 (70%) + Exercícios (30%)
-    * Prova2 = Teste com [assunto](#) dado a partir de Prova1 
-    * Exercícios = Tarefas passadas durante segunda unidade
-* Final: Teste com todo o [assunto](#) da matéria
+* (`N1`+`N2`)/2, onde:
+  * `N1` = `Prova1` (70%) + `Exercicios1` (30%)
+    * `Prova1` = Teste com [assunto dado até o momento
+    * `Exercicios1` = Tarefas passadas durante primeira unidade
+  * `N2` = `Prova2` (70%) + `Exercicios2` (30%)
+    * `Prova2` = Teste com [assunto dado a partir de Prova1 
+    * `Exercicios2` = Tarefas passadas durante segunda unidade
+* `Final`: Teste com todo o assunto da matéria
 
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
@@ -72,42 +72,42 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 
 ### Plano de Ensino
 
-| no. | Data |  [assunto](#)               | Recursos | Exercício |
-|:---:|:----:|:----------------------:|:--------:|:---------:|
-| 01 | 09.08.17 (qua) | [Introdução, admin](https://drive.google.com/open?id=0BwgdwrP1_WSjRkpST0FrZ3dwTFU) | --- |
-| 02 | 11.08.17 (sex) | [Conceitos Básicos](https://drive.google.com/open?id=0BwgdwrP1_WSjdGNyQnQxNE4wNm8) | --- |
-| 03 | 16.08.17 (qua) | [Tradução Dirigida por Sintaxe](https://drive.google.com/open?id=0BwgdwrP1_WSjUHJjV0taMVlDYmM) | --- |
-| 04 | 18.08.17 (sex) | [Análise Léxica](https://drive.google.com/open?id=0BwgdwrP1_WSjbXFBUkcxTnR0TXM) | --- |
-| 05 | 23.08.17 (qua) | [JFlex & Introdução a Análise Sintática](https://drive.google.com/open?id=0BwgdwrP1_WSjRjlJcmswcWd4Y0U) | --- |
-| 06 | 25.08.17 (sex) | Exercício Análise Léxica | --- |
-| 07 | 30.08.17 (qua) | [LL(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjVTZVS1lnckdFcUU) | --- |
-| 08 | 01.09.17 (sex) | [Bottom-up parsing - LR(0)](https://drive.google.com/open?id=0BwgdwrP1_WSjQ0NYM0dDSzRpTjA) | --- |
-| 09 | 06.09.17 (qua) | [LR(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjcENuMEJUZ2FSNTg) | --- |
-| 10 | 08.09.17 (sex) | Exercício LL(1) parsing | --- |
-| 11 | 13.09.17 (qua) | [Análise Semântica - ASTs e Escopo](https://drive.google.com/open?id=0BwgdwrP1_WSjUlFuVDAxNDZIcEE) | --- |
-| 12 | 15.09.17 (sex) | [Automatizando Análise Sintática (ANTLR)](#) | --- |
-| 13 | 20.09.17 (qua) | [Análise Semântica - Type Checking](#) | --- |
-| 14 | 22.09.17 (sex) | [Implementando Análise Semântica com Visitors](#) | --- |
-| 15 | 27.09.17 (qua) | [Análise Semântica - Type Checking](#) | --- |
-| 16 | 29.09.17 (sex) | [Análise Semântica + Revisão](#) | --- |
-| 17 | 04.10.17 (qua) | 1 Exercício Escolar | --- |
-| 18 | 06.10.17 (sex) | [Representações Intermediárias de Código](#) | --- |
-| 19 | 11.10.17 (qua) | [Representações Intermediárias de Código](#) | --- |
-| 20 | 13.10.17 (sex) | [Representações Intermediárias de Código](#) | --- |
-| 21 | 18.10.17 (qua) | [Análise e Otimização de Código](#) | --- |
-| 22 | 20.10.17 (sex) | [Análise e Otimização de Código](#) | --- |
-| 23 | 25.10.17 (qua) | [Análise e Otimização de Código](#) | --- |
-| 24 | 27.10.17 (sex) | [Análise e Otimização de Código](#) | --- |
-| 25 | 01.11.17 (qua) | [Análise e Otimização de Código](#) | --- |
-| 26 | 03.11.17 (sex) | [Análise e Otimização de Código](#) | --- |
-| 27 | 08.11.17 (qua) | [Ambientes de Execução](#) | --- |
-| 28 | 10.11.17 (sex) | [Ambientes de Execução](#) | --- |
-| -- | 15.11.17 (qua) | FERIADO | --- | --- |
-| 29 | 17.11.17 (sex) | [Ambientes de Execução](#) | --- |
-| 30 | 22.11.17 (qua) | [Geração de Código](#) | --- |
-| 31 | 24.11.17 (sex) | [Geração de Código](#) | --- |
-| 32 | 29.11.17 (qua) | [Geração de Código](#) | --- |
-| 33 | 01.12.17 (sex) | 2 Exercício Escolar | --- |
-| 34 | 06.12.17 (qua) | Segunda Chamada | --- |
-| -- | 08.12.17 (sex) | FERIADO | --- |
-| 35 | 13.12.17 (qua) | Prova Final | --- |
+| # | Data |  Assunto               | Recursos |
+|:---:|:----:|:----------------------|:--------:|
+| 01 | 09.08.17 (qua) | [Introdução, admin](https://drive.google.com/open?id=0BwgdwrP1_WSjRkpST0FrZ3dwTFU)  | --- |
+| 02 | 11.08.17 (sex) | [Conceitos Básicos](https://drive.google.com/open?id=0BwgdwrP1_WSjdGNyQnQxNE4wNm8)  | --- |
+| 03 | 16.08.17 (qua) | [Tradução Dirigida por Sintaxe](https://drive.google.com/open?id=0BwgdwrP1_WSjUHJjV0taMVlDYmM)  | --- |
+| 04 | 18.08.17 (sex) | [Análise Léxica](https://drive.google.com/open?id=0BwgdwrP1_WSjbXFBUkcxTnR0TXM)  | --- |
+| 05 | 23.08.17 (qua) | [JFlex & Introdução a Análise Sintática](https://drive.google.com/open?id=0BwgdwrP1_WSjRjlJcmswcWd4Y0U)  | --- |
+| 06 | 25.08.17 (sex) | Exercício Análise Léxica  | --- |
+| 07 | 30.08.17 (qua) | [LL(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjVTZVS1lnckdFcUU)  | --- |
+| 08 | 01.09.17 (sex) | [Bottom-up parsing - LR(0)](https://drive.google.com/open?id=0BwgdwrP1_WSjQ0NYM0dDSzRpTjA)  | --- |
+| 09 | 06.09.17 (qua) | [LR(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjcENuMEJUZ2FSNTg)  | --- |
+| 10 | 08.09.17 (sex) | Exercício LL(1) parsing  | --- |
+| 11 | 13.09.17 (qua) | [Análise Semântica - ASTs e Escopo](https://drive.google.com/open?id=0BwgdwrP1_WSjUlFuVDAxNDZIcEE)  | --- |
+| 12 | 15.09.17 (sex) | Automatizando Análise Sintática (ANTLR)  | --- |
+| 13 | 20.09.17 (qua) | Análise Semântica - Type Checking  | --- |
+| 14 | 22.09.17 (sex) | Implementando Análise Semântica com Visitors  | --- |
+| 15 | 27.09.17 (qua) | Análise Semântica - Type Checking  | --- |
+| 16 | 29.09.17 (sex) | Análise Semântica + Revisão  | --- |
+| 17 | 04.10.17 (qua) | **1 Exercício Escolar**  | --- |
+| 18 | 06.10.17 (sex) | Representações Intermediárias de Código  | --- |
+| 19 | 11.10.17 (qua) | Representações Intermediárias de Código  | --- |
+| 20 | 13.10.17 (sex) | Representações Intermediárias de Código  | --- |
+| 21 | 18.10.17 (qua) | Análise e Otimização de Código  | --- |
+| 22 | 20.10.17 (sex) | Análise e Otimização de Código  | --- |
+| 23 | 25.10.17 (qua) | Análise e Otimização de Código  | --- |
+| 24 | 27.10.17 (sex) | Análise e Otimização de Código  | --- |
+| 25 | 01.11.17 (qua) | Análise e Otimização de Código  | --- |
+| 26 | 03.11.17 (sex) | Análise e Otimização de Código  | --- |
+| 27 | 08.11.17 (qua) | Ambientes de Execução  | --- |
+| 28 | 10.11.17 (sex) | Ambientes de Execução  | --- |
+| -- | 15.11.17 (qua) | **FERIADO**  | --- | --- |
+| 29 | 17.11.17 (sex) | Ambientes de Execução  | --- |
+| 30 | 22.11.17 (qua) | Geração de Código  | --- |
+| 31 | 24.11.17 (sex) | Geração de Código  | --- |
+| 32 | 29.11.17 (qua) | Geração de Código  | --- |
+| 33 | 01.12.17 (sex) | **2 Exercício Escolar**  | --- |
+| 34 | 06.12.17 (qua) | **Segunda Chamada**  | --- |
+| -- | 08.12.17 (sex) | **FERIADO**  | --- |
+| 35 | 13.12.17 (qua) | **Prova Final**  | --- |
