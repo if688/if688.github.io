@@ -5,14 +5,14 @@
 ### Instrutores
 
 * **Professor** 
-  * Leopoldo Motta Teixeira (@leopoldomt | lmt@cin)
+  * Leopoldo Motta Teixeira (@leopoldomt - lmt@cin)
 * **Monitores** 
-  * Caio Rocha Pereira, (@crp3 | crp3@cin)
-  * Emanuel Victor, (@evfgs | evfgs@cin)
-  * Gabriel Henrique Daniel da Silva, (@gabrielh10 | ghds@cin)
-  * Jailson da Costa Dias, (@jailson-dias | jcd2@cin)
-  * Jose Murilo Sodre da Mota Filho, (@jmsmf | jmsmf@cin)
-  * Pedro Lins de Araujo Lima, (@plal | plal@cin)
+  * Caio Rocha Pereira (@crp3 --- crp3@cin)
+  * Emanuel Victor (@evfgs --- evfgs@cin)
+  * Gabriel Henrique Daniel da Silva (@gabrielh10 --- ghds@cin)
+  * Jailson da Costa Dias (@jailson-dias --- jcd2@cin)
+  * Jose Murilo Sodre da Mota Filho (@jmsmf --- jmsmf@cin)
+  * Pedro Lins de Araujo Lima (@plal --- plal@cin)
   
 ### Horário e Local de Aulas
 
@@ -72,7 +72,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 
 ### Plano de Ensino
 
-| # | Data |  Assunto               | Recursos |
+| # | Data | Assunto | Recursos |
 |:---:|:----:|:----------------------|:--------:|
 | 01 | 09.08.17 (qua) | [Introdução, admin](https://drive.google.com/open?id=0BwgdwrP1_WSjRkpST0FrZ3dwTFU)  | --- |
 | 02 | 11.08.17 (sex) | [Conceitos Básicos](https://drive.google.com/open?id=0BwgdwrP1_WSjdGNyQnQxNE4wNm8)  | --- |
