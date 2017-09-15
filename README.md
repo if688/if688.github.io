@@ -88,8 +88,8 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 09 | 06.09.17 (qua) | [LR(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjcENuMEJUZ2FSNTg)  | --- |
 | 10 | 08.09.17 (sex) | Exercício LL(1) parsing  | --- |
 | 11 | 13.09.17 (qua) | [Análise Semântica - ASTs e Escopo](https://drive.google.com/open?id=0BwgdwrP1_WSjUlFuVDAxNDZIcEE)  | --- |
-| 12 | 15.09.17 (sex) | Automatizando Análise Sintática (ANTLR)  | --- |
-| 13 | 20.09.17 (qua) | Análise Semântica - Type Checking  | --- |
+| 12 | 15.09.17 (sex) | Análise Semântica - Type Checking  | --- |
+| 13 | 20.09.17 (qua) | Automatizando Análise Sintática (ANTLR)  | --- |
 | 14 | 22.09.17 (sex) | Implementando Análise Semântica com Visitors  | --- |
 | 15 | 27.09.17 (qua) | Análise Semântica - Type Checking  | --- |
 | 16 | 29.09.17 (sex) | Análise Semântica + Revisão  | --- |
@@ -105,7 +105,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 26 | 03.11.17 (sex) | Análise e Otimização de Código  | --- |
 | 27 | 08.11.17 (qua) | Ambientes de Execução  | --- |
 | 28 | 10.11.17 (sex) | Ambientes de Execução  | --- |
-| -- | 15.11.17 (qua) | **FERIADO**  | --- | --- |
+| -- | 15.11.17 (qua) | **FERIADO**  | --- |
 | 29 | 17.11.17 (sex) | Ambientes de Execução  | --- |
 | 30 | 22.11.17 (qua) | Geração de Código  | --- |
 | 31 | 24.11.17 (sex) | Geração de Código  | --- |
