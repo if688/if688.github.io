@@ -88,11 +88,11 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 09 | 06.09.17 (qua) | [LR(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjcENuMEJUZ2FSNTg)  | --- |
 | 10 | 08.09.17 (sex) | Exercício LL(1) parsing  | --- |
 | 11 | 13.09.17 (qua) | [Análise Semântica - ASTs e Escopo](https://drive.google.com/open?id=0BwgdwrP1_WSjUlFuVDAxNDZIcEE)  | --- |
-| 12 | 15.09.17 (sex) | Análise Semântica - Type Checking  | --- |
-| 13 | 20.09.17 (qua) | Automatizando Análise Sintática (ANTLR)  | --- |
-| 14 | 22.09.17 (sex) | Implementando Análise Semântica com Visitors  | --- |
-| 15 | 27.09.17 (qua) | Análise Semântica - Type Checking  | --- |
-| 16 | 29.09.17 (sex) | Análise Semântica + Revisão  | --- |
+| 12 | 15.09.17 (sex) | [Análise Semântica - Type Checking](https://drive.google.com/open?id=0BwgdwrP1_WSjZTNYWG1TbldwcTg)  | --- |
+| 13 | 20.09.17 (qua) | Automatizando Análise Sintática com ANTLR  | --- |
+| 14 | 22.09.17 (sex) | Exercício - Implementando Parsers com ANTLR  | --- |
+| 15 | 27.09.17 (qua) | Implementando Análise Semântica com Visitors  | --- |
+| 16 | 29.09.17 (sex) | Exercício - Type Checking + Revisão  | --- |
 | 17 | 04.10.17 (qua) | **1 Exercício Escolar**  | --- |
 | 18 | 06.10.17 (sex) | Representações Intermediárias de Código  | --- |
 | 19 | 11.10.17 (qua) | Representações Intermediárias de Código  | --- |
