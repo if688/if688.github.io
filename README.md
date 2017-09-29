@@ -93,8 +93,8 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 14 | 22.09.17 (sex) | Exercício - Implementando Parsers com ANTLR  | --- |
 | 15 | 27.09.17 (qua) | Implementando Análise Semântica com Visitors  | --- |
 | 16 | 29.09.17 (sex) | Exercício - Type Checking + Revisão  | --- |
-| 17 | 04.10.17 (qua) | **1 Exercício Escolar**  | --- |
-| 18 | 06.10.17 (sex) | Representações Intermediárias de Código  | --- |
+| 17 | 04.10.17 (qua) | Revisão  | --- |
+| 18 | 06.10.17 (sex) | **1 Exercício Escolar**  | --- |
 | 19 | 11.10.17 (qua) | Representações Intermediárias de Código  | --- |
 | 20 | 13.10.17 (sex) | Representações Intermediárias de Código  | --- |
 | 21 | 18.10.17 (qua) | Análise e Otimização de Código  | --- |
