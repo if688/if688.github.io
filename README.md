@@ -89,20 +89,20 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 10 | 08.09.17 (sex) | Exercício LL(1) parsing  | --- |
 | 11 | 13.09.17 (qua) | [Análise Semântica - ASTs e Escopo](https://drive.google.com/open?id=0BwgdwrP1_WSjUlFuVDAxNDZIcEE)  | --- |
 | 12 | 15.09.17 (sex) | [Análise Semântica - Type Checking](https://drive.google.com/open?id=0BwgdwrP1_WSjZTNYWG1TbldwcTg)  | --- |
-| 13 | 20.09.17 (qua) | Automatizando Análise Sintática com ANTLR  | --- |
+| 13 | 20.09.17 (qua) | [Automatizando Análise Sintática com ANTLR](https://docs.google.com/a/cin.ufpe.br/presentation/d/1HayLkMRa-0MPNfwOtbdvhzFy8dSUDOtbMcuXxJGhmdQ/edit?usp=sharing)  | --- |
 | 14 | 22.09.17 (sex) | Exercício - Implementando Parsers com ANTLR  | --- |
 | 15 | 27.09.17 (qua) | Implementando Análise Semântica com Visitors  | --- |
 | 16 | 29.09.17 (sex) | Exercício - Type Checking + Revisão  | --- |
 | 17 | 04.10.17 (qua) | Revisão  | --- |
 | 18 | 06.10.17 (sex) | **1 Exercício Escolar**  | --- |
-| 19 | 11.10.17 (qua) | Representações Intermediárias de Código  | --- |
-| 20 | 13.10.17 (sex) | Representações Intermediárias de Código  | --- |
-| 21 | 18.10.17 (qua) | Análise e Otimização de Código  | --- |
-| 22 | 20.10.17 (sex) | Análise e Otimização de Código  | --- |
+| 19 | 11.10.17 (qua) | [Representações Intermediárias de Código - código de 3 endereços](https://drive.google.com/open?id=0BwgdwrP1_WSjbnZvR2s1RElobDA)  | --- |
+| 20 | 13.10.17 (sex) | Exercício Type Checking  | --- |
+| 21 | 18.10.17 (qua) | [Representações Intermediárias de Código - Control-Flow Graphs](https://drive.google.com/open?id=0BwgdwrP1_WSjRWJXeFIwaGxhdTg)  | --- |
+| 22 | 20.10.17 (sex) | [Introdução a Análise e Otimização de Código - Otimizações Locais](https://drive.google.com/open?id=0BwgdwrP1_WSjaHRCdWM4YmxSRUk)  | --- |
 | 23 | 25.10.17 (qua) | Análise e Otimização de Código  | --- |
 | 24 | 27.10.17 (sex) | Análise e Otimização de Código  | --- |
 | 25 | 01.11.17 (qua) | Análise e Otimização de Código  | --- |
-| 26 | 03.11.17 (sex) | Análise e Otimização de Código  | --- |
+| 26 | 03.11.17 (sex) | Exercício Análise e Otimização  | --- |
 | 27 | 08.11.17 (qua) | Ambientes de Execução  | --- |
 | 28 | 10.11.17 (sex) | Ambientes de Execução  | --- |
 | -- | 15.11.17 (qua) | **FERIADO**  | --- |
