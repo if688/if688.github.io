@@ -99,8 +99,8 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 20 | 13.10.17 (sex) | Exercício Type Checking  | --- |
 | 21 | 18.10.17 (qua) | [Representações Intermediárias de Código - Control-Flow Graphs](https://drive.google.com/open?id=0BwgdwrP1_WSjRWJXeFIwaGxhdTg)  | --- |
 | 22 | 20.10.17 (sex) | [Introdução a Análise e Otimização de Código - Otimizações Locais](https://drive.google.com/open?id=0BwgdwrP1_WSjaHRCdWM4YmxSRUk)  | --- |
-| 23 | 25.10.17 (qua) | Análise e Otimização de Código  | --- |
-| 24 | 27.10.17 (sex) | Análise e Otimização de Código  | --- |
+| 23 | 25.10.17 (qua) | [Introdução a Otimizações Globais - _Constant Propagation_](https://drive.google.com/open?id=0BwgdwrP1_WSjLUk2RXZYT0JLcDA)  | --- |
+| 24 | 27.10.17 (sex) | [Análise de Fluxo de Dados _backwards_ - _Liveness_](https://drive.google.com/open?id=0BwgdwrP1_WSjUjZPSnlWV3JRbzQ)  | --- |
 | 25 | 01.11.17 (qua) | Análise e Otimização de Código  | --- |
 | 26 | 03.11.17 (sex) | Exercício Análise e Otimização  | --- |
 | 27 | 08.11.17 (qua) | Ambientes de Execução  | --- |
