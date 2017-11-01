@@ -101,7 +101,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 22 | 20.10.17 (sex) | [Introdução a Análise e Otimização de Código - Otimizações Locais](https://drive.google.com/open?id=0BwgdwrP1_WSjaHRCdWM4YmxSRUk)  | --- |
 | 23 | 25.10.17 (qua) | [Introdução a Otimizações Globais - _Constant Propagation_](https://drive.google.com/open?id=0BwgdwrP1_WSjLUk2RXZYT0JLcDA)  | --- |
 | 24 | 27.10.17 (sex) | [Análise de Fluxo de Dados _backwards_ - _Liveness_](https://drive.google.com/open?id=0BwgdwrP1_WSjUjZPSnlWV3JRbzQ)  | --- |
-| 25 | 01.11.17 (qua) | Análise e Otimização de Código  | --- |
+| 25 | 01.11.17 (qua) | [Análise e Otimização de Código - _Dominance_](https://drive.google.com/open?id=0BwgdwrP1_WSjSDhrT3U0YVpxa1U)  | --- |
 | 26 | 03.11.17 (sex) | Exercício Análise e Otimização  | --- |
 | 27 | 08.11.17 (qua) | Ambientes de Execução  | --- |
 | 28 | 10.11.17 (sex) | Ambientes de Execução  | --- |
