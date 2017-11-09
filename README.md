@@ -103,7 +103,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 24 | 27.10.17 (sex) | [Análise de Fluxo de Dados _backwards_ - _Liveness_](https://drive.google.com/open?id=0BwgdwrP1_WSjUjZPSnlWV3JRbzQ)  | --- |
 | 25 | 01.11.17 (qua) | [Análise e Otimização de Código - _Dominance_](https://drive.google.com/open?id=0BwgdwrP1_WSjSDhrT3U0YVpxa1U)  | --- |
 | 26 | 03.11.17 (sex) | Exercício Análise e Otimização  | --- |
-| 27 | 08.11.17 (qua) | Ambientes de Execução  | --- |
+| 27 | 08.11.17 (qua) | [Ambientes de Execução - Pilha](https://drive.google.com/open?id=17pxprzOtb4qqS152v0-2lUk9gJSFWT52)  | --- |
 | 28 | 10.11.17 (sex) | Ambientes de Execução  | --- |
 | -- | 15.11.17 (qua) | **FERIADO**  | --- |
 | 29 | 17.11.17 (sex) | Ambientes de Execução  | --- |
