@@ -104,12 +104,12 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 25 | 01.11.17 (qua) | [Análise e Otimização de Código - _Dominance_](https://drive.google.com/open?id=0BwgdwrP1_WSjSDhrT3U0YVpxa1U)  | --- |
 | 26 | 03.11.17 (sex) | Exercício Análise e Otimização  | --- |
 | 27 | 08.11.17 (qua) | [Ambientes de Execução - Pilha](https://drive.google.com/open?id=17pxprzOtb4qqS152v0-2lUk9gJSFWT52)  | --- |
-| 28 | 10.11.17 (sex) | Ambientes de Execução  | --- |
+| 28 | 10.11.17 (sex) | [Ambientes de Execução - Heap](https://drive.google.com/open?id=18NzPMIETELsB8uUpzvkuzTEUYDor3sPu)  | --- |
 | -- | 15.11.17 (qua) | **FERIADO**  | --- |
-| 29 | 17.11.17 (sex) | Ambientes de Execução  | --- |
+| 29 | 17.11.17 (sex) | [Geração de Código - Seleção de Instruções](https://drive.google.com/open?id=1YEHDoydqjXNu-KkgT4ORNtCjTeYpnLWG)  | --- |
 | 30 | 22.11.17 (qua) | Geração de Código  | --- |
 | 31 | 24.11.17 (sex) | Geração de Código  | --- |
-| 32 | 29.11.17 (qua) | Geração de Código  | --- |
+| 32 | 29.11.17 (qua) | Tirar Dúvidas  | --- |
 | 33 | 01.12.17 (sex) | **2 Exercício Escolar**  | --- |
 | 34 | 06.12.17 (qua) | **Segunda Chamada**  | --- |
 | -- | 08.12.17 (sex) | **FERIADO**  | --- |
