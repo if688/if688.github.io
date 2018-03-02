@@ -7,17 +7,15 @@
 * **Professor** 
   * Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
 * **Monitores** 
-  * Caio Rocha Pereira ([@crp3](https://github.com/crp3) --- crp3@cin)
   * Emanuel Victor ([@evfgs](https://github.com/evfgs) --- evfgs@cin)
   * Gabriel Henrique Daniel da Silva ([@gabrielh10](https://github.com/gabrielh10) --- ghds@cin)
   * Jailson da Costa Dias ([@jailson-dias](https://github.com/jailson-dias) --- jcd2@cin)
   * Jose Murilo Sodre da Mota Filho ([@jmsmf](https://github.com/jmsmf) --- jmsmf@cin)
-  * Pedro Lins de Araujo Lima ([@plal](https://github.com/plal) --- plal@cin)
   
 ### Horário e Local de Aulas
 
-* Quarta (13h-15h), E112 
-* Sexta (15h-17h), grad 3.
+* Terça (8h-10h), grad 4
+* Sexta (10h-12h), grad 4
 
 ### Ementa
 
@@ -47,20 +45,15 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 ### Recursos
 
 - [Slack](http://if688.slack.com)
-- [Google Classroom](http://classroom.google.com) - Código: sdbhetu
-
-#### Ferramentas
-
-* [JFlex](http://jflex.de)
-* [ANTLR](http://www.antlr.org)
+- [Google Classroom](http://classroom.google.com) - Código: mpg9k1
 
 ### Avaliação
 
 * (`N1`+`N2`)/2, onde:
-  * `N1` = `Prova1` (70%) + `Exercicios1` (30%)
+  * `N1` = `Prova1` (60%) + `Exercicios1` (40%)
     * `Prova1` = Teste com [assunto dado até o momento
     * `Exercicios1` = Tarefas passadas durante primeira unidade
-  * `N2` = `Prova2` (70%) + `Exercicios2` (30%)
+  * `N2` = `Prova2` (60%) + `Exercicios2` (40%)
     * `Prova2` = Teste com [assunto dado a partir de Prova1 
     * `Exercicios2` = Tarefas passadas durante segunda unidade
 * `Final`: Teste com todo o assunto da matéria
@@ -75,42 +68,43 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 **Atenção!** 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| # | Data | Assunto | Recursos |
-|:---:|:----:|:----------------------|:--------:|
-| 01 | 09.08.17 (qua) | [Introdução, admin](https://drive.google.com/open?id=0BwgdwrP1_WSjRkpST0FrZ3dwTFU)  | --- |
-| 02 | 11.08.17 (sex) | [Conceitos Básicos](https://drive.google.com/open?id=0BwgdwrP1_WSjdGNyQnQxNE4wNm8)  | --- |
-| 03 | 16.08.17 (qua) | [Tradução Dirigida por Sintaxe](https://drive.google.com/open?id=0BwgdwrP1_WSjUHJjV0taMVlDYmM)  | --- |
-| 04 | 18.08.17 (sex) | [Análise Léxica](https://drive.google.com/open?id=0BwgdwrP1_WSjbXFBUkcxTnR0TXM)  | --- |
-| 05 | 23.08.17 (qua) | [JFlex & Introdução a Análise Sintática](https://drive.google.com/open?id=0BwgdwrP1_WSjRjlJcmswcWd4Y0U)  | --- |
-| 06 | 25.08.17 (sex) | Exercício Análise Léxica  | --- |
-| 07 | 30.08.17 (qua) | [LL(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjVTZVS1lnckdFcUU)  | --- |
-| 08 | 01.09.17 (sex) | [Bottom-up parsing - LR(0)](https://drive.google.com/open?id=0BwgdwrP1_WSjQ0NYM0dDSzRpTjA)  | --- |
-| 09 | 06.09.17 (qua) | [LR(1) parsing](https://drive.google.com/open?id=0BwgdwrP1_WSjcENuMEJUZ2FSNTg)  | --- |
-| 10 | 08.09.17 (sex) | Exercício LL(1) parsing  | --- |
-| 11 | 13.09.17 (qua) | [Análise Semântica - ASTs e Escopo](https://drive.google.com/open?id=0BwgdwrP1_WSjUlFuVDAxNDZIcEE)  | --- |
-| 12 | 15.09.17 (sex) | [Análise Semântica - Type Checking](https://drive.google.com/open?id=0BwgdwrP1_WSjZTNYWG1TbldwcTg)  | --- |
-| 13 | 20.09.17 (qua) | [Automatizando Análise Sintática com ANTLR](https://docs.google.com/a/cin.ufpe.br/presentation/d/1HayLkMRa-0MPNfwOtbdvhzFy8dSUDOtbMcuXxJGhmdQ/edit?usp=sharing)  | --- |
-| 14 | 22.09.17 (sex) | Exercício - Implementando Parsers com ANTLR  | --- |
-| 15 | 27.09.17 (qua) | Implementando Análise Semântica com Visitors  | --- |
-| 16 | 29.09.17 (sex) | Exercício - Type Checking + Revisão  | --- |
-| 17 | 04.10.17 (qua) | Revisão  | --- |
-| 18 | 06.10.17 (sex) | **1 Exercício Escolar**  | --- |
-| 19 | 11.10.17 (qua) | [Representações Intermediárias de Código - código de 3 endereços](https://drive.google.com/open?id=0BwgdwrP1_WSjbnZvR2s1RElobDA)  | --- |
-| 20 | 13.10.17 (sex) | Exercício Type Checking  | --- |
-| 21 | 18.10.17 (qua) | [Representações Intermediárias de Código - Control-Flow Graphs](https://drive.google.com/open?id=0BwgdwrP1_WSjRWJXeFIwaGxhdTg)  | --- |
-| 22 | 20.10.17 (sex) | [Introdução a Análise e Otimização de Código - Otimizações Locais](https://drive.google.com/open?id=0BwgdwrP1_WSjaHRCdWM4YmxSRUk)  | --- |
-| 23 | 25.10.17 (qua) | [Introdução a Otimizações Globais - _Constant Propagation_](https://drive.google.com/open?id=0BwgdwrP1_WSjLUk2RXZYT0JLcDA)  | --- |
-| 24 | 27.10.17 (sex) | [Análise de Fluxo de Dados _backwards_ - _Liveness_](https://drive.google.com/open?id=0BwgdwrP1_WSjUjZPSnlWV3JRbzQ)  | --- |
-| 25 | 01.11.17 (qua) | [Análise e Otimização de Código - _Dominance_](https://drive.google.com/open?id=0BwgdwrP1_WSjSDhrT3U0YVpxa1U)  | --- |
-| 26 | 03.11.17 (sex) | Exercício Análise e Otimização  | --- |
-| 27 | 08.11.17 (qua) | [Ambientes de Execução - Pilha](https://drive.google.com/open?id=17pxprzOtb4qqS152v0-2lUk9gJSFWT52)  | --- |
-| 28 | 10.11.17 (sex) | [Ambientes de Execução - Heap](https://drive.google.com/open?id=18NzPMIETELsB8uUpzvkuzTEUYDor3sPu)  | --- |
-| -- | 15.11.17 (qua) | **FERIADO**  | --- |
-| 29 | 17.11.17 (sex) | [Geração de Código - Seleção de Instruções](https://drive.google.com/open?id=1YEHDoydqjXNu-KkgT4ORNtCjTeYpnLWG)  | --- |
-| 30 | 22.11.17 (qua) | [Geração de Código - Alocação de Registradores](https://drive.google.com/open?id=1UMSL4a_cFscx1ULjxD8OZFSjfdVG5rSH)  | --- |
-| 31 | 24.11.17 (sex) | Tirar Dúvidas  | --- |
-| 32 | 29.11.17 (qua) | Tirar Dúvidas  | --- |
-| 33 | 01.12.17 (sex) | **2 Exercício Escolar**  | --- |
-| 34 | 06.12.17 (qua) | **Segunda Chamada**  | --- |
-| -- | 08.12.17 (sex) | **FERIADO**  | --- |
-| 35 | 13.12.17 (qua) | **Prova Final**  | --- |
+| # | Data | Assunto |
+|:---:|:----:|:----------------------|
+| 01 | 27.02.17 (ter) | [Introdução, admin](2018.1/2018-02-27.md) |
+| 02 | 02.03.17 (sex) | [Conceitos Básicos](#) |
+| -- | 06.03.17 (ter) | **FERIADO - Revolução Pernambucana** |
+| 03 | 09.03.17 (sex) | [Tradução Dirigida por Sintaxe e Introdução a Análise Léxica](#) |
+| 04 | 13.03.17 (ter) | [Análise Léxica (JFlex) e Introdução a Análise Sintática](#) |
+| 05 | 16.03.17 (sex) | [Top-Down parsing - LL(1) parsing](#) |
+| 06 | 20.03.17 (ter) | [Bottom-up parsing - LR(0)](#) |
+| 07 | 23.03.17 (sex) | [Bottom-up parsing - LR(1)](#) |
+| 08 | 27.03.17 (ter) | [Análise Semântica](#) |
+| -- | 30.03.17 (sex) | **FERIADO - Sexta-feira Santa** |
+| 09 | 03.04.17 (ter) | [Análise Semântica](#) |
+| 10 | 06.04.17 (sex) | [Análise Semântica](#) |
+| 11 | 10.04.17 (ter) | [Automatizando Análise Sintática com ANTLR](#) |
+| 12 | 13.04.17 (sex) | [Exercício - Implementando Parsers com ANTLR](#)  |
+| 13 | 17.04.17 (ter) | [Análise Semântica](#) |
+| 14 | 20.04.17 (sex) | [Análise Semântica](#) |
+| 15 | 24.04.17 (ter) | **1 Exercício Escolar** |
+| 16 | 27.04.17 (sex) | [Representações Intermediárias de Código](#) |
+| -- | 01.05.17 (ter) | **FERIADO - Dia do Trabalho** |
+| 17 | 04.05.17 (sex) | [Representações Intermediárias de Código](#) |
+| 18 | 08.05.17 (ter) | [Representações Intermediárias de Código](#) |
+| 19 | 11.05.17 (sex) | [Análise e Otimização de Código](#) |
+| 20 | 15.05.17 (ter) | [Análise e Otimização de Código](#) |
+| 21 | 18.05.17 (sex) | [Análise e Otimização de Código](#) |
+| 22 | 22.05.17 (ter) | [Análise e Otimização de Código](#) |
+| 23 | 25.05.17 (sex) | [Análise e Otimização de Código](#) |
+| 24 | 29.05.17 (ter) | [Ambientes de Execução](#) |
+| 25 | 01.06.17 (sex) | [Ambientes de Execução](#) |
+| 26 | 05.06.17 (ter) | [Ambientes de Execução](#) |
+| 27 | 08.06.17 (sex) | [Geração de Código](#) |
+| 28 | 12.06.17 (ter) | [Geração de Código](#) |
+| 29 | 15.06.17 (sex) | [Geração de Código](#) |
+| 30 | 19.06.17 (ter) | [Geração de Código](#) |
+| 31 | 22.06.17 (sex) | **2 Exercício Escolar**  |
+| 32 | 26.06.17 (ter) | Tirar Dúvidas |
+| 33 | 29.06.17 (sex) | **Segunda Chamada** |
+| 34 | 03.07.17 (ter) | Tirar Dúvidas |
+| 35 | 06.07.17 (sex) | **Prova Final**  |
