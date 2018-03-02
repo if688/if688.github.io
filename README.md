@@ -71,7 +71,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | # | Data | Assunto |
 |:---:|:----:|:----------------------|
 | 01 | 27.02.17 (ter) | [Introdução, admin](2018.1/2018-02-27.md) |
-| 02 | 02.03.17 (sex) | [Conceitos Básicos](#) |
+| 02 | 02.03.17 (sex) | [Conceitos Básicos](2018.1/2018-03-02.md) |
 | -- | 06.03.17 (ter) | **FERIADO - Revolução Pernambucana** |
 | 03 | 09.03.17 (sex) | [Tradução Dirigida por Sintaxe e Introdução a Análise Léxica](#) |
 | 04 | 13.03.17 (ter) | [Análise Léxica (JFlex) e Introdução a Análise Sintática](#) |
