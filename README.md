@@ -11,6 +11,7 @@
   * Gabriel Henrique Daniel da Silva ([@gabrielh10](https://github.com/gabrielh10) --- ghds@cin)
   * Jailson da Costa Dias ([@jailson-dias](https://github.com/jailson-dias) --- jcd2@cin)
   * Jose Murilo Sodre da Mota Filho ([@jmsmf](https://github.com/jmsmf) --- jmsmf@cin)
+  * Ramon Saboya Gomes ([@RamonSaboya](https://github.com/RamonSaboya) --- rsg3@cin)
   
 ### Horário e Local de Aulas
 
@@ -74,11 +75,11 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 02 | 02.03.17 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](2018.1/2018-03-02.md) |
 | -- | 06.03.17 (ter) | **FERIADO - Revolução Pernambucana** |
 | 03 | 09.03.17 (sex) | [Introdução a Análise Léxica](2018.1/2018-03-09.md) |
-| 04 | 13.03.17 (ter) | Análise Léxica (JFlex) e Introdução a Análise Sintática |
-| 05 | 16.03.17 (sex) | Top-Down parsing - LL(1) parsing |
-| 06 | 20.03.17 (ter) | Bottom-up parsing - LR(0) |
-| 07 | 23.03.17 (sex) | Bottom-up parsing - LR(1) |
-| 08 | 27.03.17 (ter) | Análise Semântica |
+| 04 | 13.03.17 (ter) | [Ferramentas para Análise Léxica (JFlex)](2018.1/2018-03-13.md) |
+| 05 | 16.03.17 (sex) | Introdução a Análise Sintática e Top-Down Parsing |
+| 06 | 20.03.17 (ter) | Top-Down parsing - LL(1) parsing |
+| 07 | 23.03.17 (sex) | Bottom-up parsing - LR(0) |
+| 08 | 27.03.17 (ter) | Bottom-up parsing - LR(1) |
 | -- | 30.03.17 (sex) | **FERIADO - Sexta-feira Santa** |
 | 09 | 03.04.17 (ter) | Análise Semântica |
 | 10 | 06.04.17 (sex) | Análise Semântica |
