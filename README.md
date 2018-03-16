@@ -69,43 +69,43 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 **Atenção!** 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| # | Data | Assunto |
+| # | Data | Assunto | |
 |:---:|:----:|:----------------------|
-| 01 | 27.02.17 (ter) | [Introdução, admin](2018.1/2018-02-27.md) |
-| 02 | 02.03.17 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](2018.1/2018-03-02.md) |
-| -- | 06.03.17 (ter) | **FERIADO - Revolução Pernambucana** |
-| 03 | 09.03.17 (sex) | [Introdução a Análise Léxica](2018.1/2018-03-09.md) |
-| 04 | 13.03.17 (ter) | [Ferramentas para Análise Léxica (JFlex)](2018.1/2018-03-13.md) |
-| 05 | 16.03.17 (sex) | Introdução a Análise Sintática e Top-Down Parsing |
-| 06 | 20.03.17 (ter) | Top-Down parsing - LL(1) parsing |
-| 07 | 23.03.17 (sex) | Bottom-up parsing - LR(0) |
-| 08 | 27.03.17 (ter) | Bottom-up parsing - LR(1) |
-| -- | 30.03.17 (sex) | **FERIADO - Sexta-feira Santa** |
-| 09 | 03.04.17 (ter) | Análise Semântica |
-| 10 | 06.04.17 (sex) | Análise Semântica |
-| 11 | 10.04.17 (ter) | Automatizando Análise Sintática com ANTLR |
-| 12 | 13.04.17 (sex) | Exercício - Implementando Parsers com ANTLR |
-| 13 | 17.04.17 (ter) | Análise Semântica |
-| 14 | 20.04.17 (sex) | Análise Semântica |
-| 15 | 24.04.17 (ter) | **1 Exercício Escolar** |
-| 16 | 27.04.17 (sex) | Representações Intermediárias de Código |
-| -- | 01.05.17 (ter) | **FERIADO - Dia do Trabalho** |
-| 17 | 04.05.17 (sex) | Representações Intermediárias de Código |
-| 18 | 08.05.17 (ter) | Representações Intermediárias de Código |
-| 19 | 11.05.17 (sex) | Análise e Otimização de Código |
-| 20 | 15.05.17 (ter) | Análise e Otimização de Código |
-| 21 | 18.05.17 (sex) | Análise e Otimização de Código |
-| 22 | 22.05.17 (ter) | Análise e Otimização de Código |
-| 23 | 25.05.17 (sex) | Análise e Otimização de Código |
-| 24 | 29.05.17 (ter) | Ambientes de Execução |
-| 25 | 01.06.17 (sex) | Ambientes de Execução |
-| 26 | 05.06.17 (ter) | Ambientes de Execução |
-| 27 | 08.06.17 (sex) | Geração de Código |
-| 28 | 12.06.17 (ter) | Geração de Código |
-| 29 | 15.06.17 (sex) | Geração de Código |
-| 30 | 19.06.17 (ter) | Geração de Código |
-| 31 | 22.06.17 (sex) | **2 Exercício Escolar**  |
-| 32 | 26.06.17 (ter) | Tirar Dúvidas |
-| 33 | 29.06.17 (sex) | **Segunda Chamada** |
-| 34 | 03.07.17 (ter) | Tirar Dúvidas |
-| 35 | 06.07.17 (sex) | **Prova Final**  |
+| 01 | 27.02.18 (ter) | [Introdução, admin](2018.1/2018-02-27.md) | --- |
+| 02 | 02.03.18 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](2018.1/2018-03-02.md) | --- |
+| -- | 06.03.18 (ter) | **FERIADO - Revolução Pernambucana** | --- |
+| 03 | 09.03.18 (sex) | [Introdução a Análise Léxica](2018.1/2018-03-09.md) | --- |
+| 04 | 13.03.18 (ter) | [Ferramentas para Análise Léxica (JFlex)](2018.1/2018-03-13.md) | --- |
+| 05 | 16.03.18 (sex) | [Introdução a Análise Sintática e Top-Down Parsing](2018.1/2018-03-13.md) | [*Atividade 1 lançada*](2018.1/atividades/01-AutoJflexTest/) |
+| 06 | 20.03.18 (ter) | Top-Down parsing - LL(1) parsing | --- |
+| 07 | 23.03.18 (sex) | Bottom-up parsing - LR(0) | *Entrega Atividade 1* e *Atividade 2 lançada* |
+| 08 | 27.03.18 (ter) | Bottom-up parsing - LR(1) | --- |
+| -- | 30.03.18 (sex) | **FERIADO - Sexta-feira Santa** | --- |
+| 09 | 03.04.18 (ter) | Análise Semântica | *Entrega Atividade 2* |
+| 10 | 06.04.18 (sex) | Análise Semântica | --- |
+| 11 | 10.04.18 (ter) | Automatizando Análise Sintática com ANTLR | *Atividade 3 lançada* |
+| 12 | 13.04.18 (sex) | Exercício - Implementando Parsers com ANTLR | --- |
+| 13 | 17.04.18 (ter) | Análise Semântica | --- |
+| 14 | 20.04.18 (sex) | Análise Semântica | *Entrega Atividade 3* |
+| 15 | 24.04.18 (ter) | **1 Exercício Escolar** | --- |
+| 16 | 27.04.18 (sex) | Representações Intermediárias de Código | --- |
+| -- | 01.05.18 (ter) | **FERIADO - Dia do Trabalho** | --- |
+| 17 | 04.05.18 (sex) | Representações Intermediárias de Código | --- |
+| 18 | 08.05.18 (ter) | Representações Intermediárias de Código | --- |
+| 19 | 11.05.18 (sex) | Análise e Otimização de Código | --- |
+| 20 | 15.05.18 (ter) | Análise e Otimização de Código | --- |
+| 21 | 18.05.18 (sex) | Análise e Otimização de Código | --- |
+| 22 | 22.05.18 (ter) | Análise e Otimização de Código | --- |
+| 23 | 25.05.18 (sex) | Análise e Otimização de Código | --- |
+| 24 | 29.05.18 (ter) | Ambientes de Execução | --- |
+| 25 | 01.06.18 (sex) | Ambientes de Execução | --- |
+| 26 | 05.06.18 (ter) | Ambientes de Execução | --- |
+| 27 | 08.06.18 (sex) | Geração de Código | --- |
+| 28 | 12.06.18 (ter) | Geração de Código | --- |
+| 29 | 15.06.18 (sex) | Geração de Código | --- |
+| 30 | 19.06.18 (ter) | Geração de Código | --- |
+| 31 | 22.06.18 (sex) | **2 Exercício Escolar**  | --- |
+| 32 | 26.06.18 (ter) | Tirar Dúvidas | --- |
+| 33 | 29.06.18 (sex) | **Segunda Chamada** | --- |
+| 34 | 03.07.18 (ter) | Tirar Dúvidas | --- |
+| 35 | 06.07.18 (sex) | **Prova Final**  | --- |
