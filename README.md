@@ -69,7 +69,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 **Atenção!** 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| # | Data | Assunto | |
+| # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------|
 | 01 | 27.02.18 (ter) | [Introdução, admin](2018.1/2018-02-27.md) | --- |
 | 02 | 02.03.18 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](2018.1/2018-03-02.md) | --- |
