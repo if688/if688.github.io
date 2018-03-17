@@ -23,7 +23,7 @@ O único arquivo que deve ser enviado no Google Classroom é o arquivo fonte .jf
 
 ## ATENÇÃO!
 
-Você _não precisa_, *nem deve*, alterar nada do esqueleto de projeto dado além do arquivo `login.jflex` que conterá a sua implementação das suas regras léxicas e da classe Minijava que contém apenas sua "assinatura" e cuja implementação será gerada a partir de seu arquivo .jflex.
+Você _não precisa_, *nem deve*, alterar nada do esqueleto de projeto dado além do arquivo `exemplo.jflex` que conterá a sua implementação das suas regras léxicas e da classe Minijava que contém apenas sua "assinatura" e cuja implementação será gerada a partir de seu arquivo .jflex.
 
 Para mais detalhes de como começar a execução da atividade, observe o texto a seguir que contém o passo-a-passo de como configurar, implementar e testar seu analisador léxico. 
 

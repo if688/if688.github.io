@@ -76,7 +76,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | -- | 06.03.18 (ter) | **FERIADO - Revolução Pernambucana** | --- |
 | 03 | 09.03.18 (sex) | [Introdução a Análise Léxica](2018.1/2018-03-09.md) | --- |
 | 04 | 13.03.18 (ter) | [Ferramentas para Análise Léxica (JFlex)](2018.1/2018-03-13.md) | --- |
-| 05 | 16.03.18 (sex) | [Introdução a Análise Sintática e Top-Down Parsing](2018.1/2018-03-13.md) | [*Atividade 1 lançada*](2018.1/atividades/01-AutoJflexTest/) |
+| 05 | 16.03.18 (sex) | [Introdução a Análise Sintática e Top-Down Parsing](2018.1/2018-03-16.md) | [*Atividade 1 lançada*](2018.1/atividades/01-AutoJflexTest/) |
 | 06 | 20.03.18 (ter) | Top-Down parsing - LL(1) parsing | --- |
 | 07 | 23.03.18 (sex) | Bottom-up parsing - LR(0) | *Entrega Atividade 1* e *Atividade 2 lançada* |
 | 08 | 27.03.18 (ter) | Bottom-up parsing - LR(1) | --- |
