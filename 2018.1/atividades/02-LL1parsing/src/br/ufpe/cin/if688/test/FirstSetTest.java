@@ -70,7 +70,7 @@ public class FirstSetTest extends TestCase {
 		expected.get(B).add(c);
 		expected.get(start).add(a);
 		
-		assertEquals(first, expected);
+		assertEquals(expected, first);
 	
 	}
 	
@@ -146,7 +146,7 @@ public class FirstSetTest extends TestCase {
 		
 		expected.get(A).add(b);
 		
-		assertEquals(first, expected);		
+		assertEquals(expected, first);		
 	}
 	
 }
