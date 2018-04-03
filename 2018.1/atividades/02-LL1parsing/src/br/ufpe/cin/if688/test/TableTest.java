@@ -23,8 +23,8 @@ public class TableTest extends TestCase{
 		/*
 		 * Gramática de exemplo:
 		 *  A -> aB
-		 * 	B -> cC
-		 * 	C -> d
+		 *  B -> cC
+		 *  C -> d
 		 * 
 		 */
 		
@@ -79,7 +79,7 @@ public class TableTest extends TestCase{
 		expected.put(Bc, cC);
 		expected.put(Cd, d_);
 		
-		assertEquals(table, expected);	
+		assertEquals(expected, table);	
 	}
 	
 	public void testTableG2() throws NotLL1Exception {
@@ -174,7 +174,7 @@ public class TableTest extends TestCase{
 		expected.put(Kb, bcK);
 		expected.put(Bd, d_);
 		
-		assertEquals(table, expected);	
+		assertEquals(expected, table);	
 	}
 	
 	private LL1Key searchTable(Map<LL1Key, List<GeneralSymbol>> table, Nonterminal nonterminal, GeneralSymbol symbol) {
