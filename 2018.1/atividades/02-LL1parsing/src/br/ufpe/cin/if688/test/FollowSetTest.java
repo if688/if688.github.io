@@ -71,7 +71,7 @@ public class FollowSetTest extends TestCase{
 		expected.get(B).add(SpecialSymbol.EOF);
 		expected.get(start).add(SpecialSymbol.EOF);
 		
-		assertEquals(follow, expected);
+		assertEquals(expected, follow);
 	}
 	
 	public void testFollowSetG2() {
@@ -144,7 +144,7 @@ public class FollowSetTest extends TestCase{
 		expected.get(B).add(e);
 		expected.get(A).add(d);
 		
-		assertEquals(follow,expected);
+		assertEquals(expected, follow);
 	}
 	
 }
