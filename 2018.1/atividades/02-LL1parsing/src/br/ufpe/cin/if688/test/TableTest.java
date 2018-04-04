@@ -22,9 +22,9 @@ public class TableTest extends TestCase {
 	public void testTableG1() throws NotLL1Exception {
 		/*
 		 * Gramática de exemplo:
-		 * A -> aB
-		 * B -> cC
-		 * C -> d
+		 *  A -> aB
+		 *  B -> cC
+		 *  C -> d
 		 */
 
 		Nonterminal start = new Nonterminal("A");
@@ -78,7 +78,7 @@ public class TableTest extends TestCase {
 		expected.put(Bc, cC);
 		expected.put(Cd, d_);
 
-		assertEquals(expected, table);
+		assertEquals(expected, table);	
 	}
 
 	public void testTableG2() throws NotLL1Exception {

@@ -70,7 +70,6 @@ public class FirstSetTest extends TestCase {
 		expected.get(start).add(a);
 
 		assertEquals(expected, first);
-
 	}
 
 	public void testFirstSetG2() {
