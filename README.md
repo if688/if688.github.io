@@ -74,22 +74,23 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 01 | 27.02.18 (ter) | [Introdução, admin](2018.1/2018-02-27.md) | --- |
 | 02 | 02.03.18 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](2018.1/2018-03-02.md) | --- |
 | -- | 06.03.18 (ter) | **FERIADO - Revolução Pernambucana** | --- |
-| 03 | 09.03.18 (sex) | [Introdução a Análise Léxica](2018.1/2018-03-09.md) | --- |
+| 03 | 09.03.18 (sex) | [Intro Análise Léxica](2018.1/2018-03-09.md) | --- |
 | 04 | 13.03.18 (ter) | [Ferramentas para Análise Léxica (JFlex)](2018.1/2018-03-13.md) | --- |
-| 05 | 16.03.18 (sex) | [Introdução a Análise Sintática e Top-Down Parsing](2018.1/2018-03-16.md) | [*Atividade 1 lançada*](2018.1/atividades/01-AutoJflexTest/) |
+| 05 | 16.03.18 (sex) | [Intro Análise Sintática e Top-Down Parsing](2018.1/2018-03-16.md) | [*Atividade 1 lançada*](2018.1/atividades/01-AutoJflexTest/) |
 | 06 | 20.03.18 (ter) | [Top-Down parsing - LL(1) parsing](2018.1/2018-03-20.md) | --- |
 | 07 | 23.03.18 (sex) | [Bottom-up parsing - LR(0)](2018.1/2018-03-23.md) | *Deadline - Atividade 1* |
 | 08 | 27.03.18 (ter) | [Bottom-up parsing - LR(1)](2018.1/2018-03-27.md) | [*Atividade 2 lançada*](2018.1/atividades/02-LL1parsing/) |
 | -- | 30.03.18 (sex) | **FERIADO - Sexta-feira Santa** | --- |
-| 09 | 03.04.18 (ter) | Análise Semântica | --- |
-| 10 | 06.04.18 (sex) | Análise Semântica | *Deadline - Atividade 2* |
-| 11 | 10.04.18 (ter) | Automatizando Análise Sintática com ANTLR | *Atividade 3 lançada* |
-| 12 | 13.04.18 (sex) | Análise Semântica | --- |
-| 13 | 17.04.18 (ter) | Análise Semântica | --- |
-| 14 | 20.04.18 (sex) | Análise Semântica | *Deadline - Atividade 3* |
-| 15 | 24.04.18 (ter) | **1 Exercício Escolar** | --- |
+| 09 | 03.04.18 (ter) | [LALR Parsing e Intro Análise Semântica](2018.1/2018-04-03.md) | --- |
+| 10 | 06.04.18 (sex) | [ASTs e Padrão de Projeto Visitor](2018.1/2018-04-06.md) | --- |
+| 11 | 10.04.18 (ter) | Automatizando Análise Sintática com ANTLR | *Deadline - Atividade 2* |
+| -- | 11.04.18 (qua) | --- | *Atividade 3 lançada* |
+| 12 | 13.04.18 (sex) | Análise Semântica - Escopo | --- |
+| 13 | 17.04.18 (ter) | Análise Semântica - Type Checking | *Deadline - Atividade 3* |
+| 14 | 20.04.18 (sex) | Análise Semântica | --- |
+| 15 | 24.04.18 (ter) | **1 Exercício Escolar** | *Atividade 4 lançada* |
 | 16 | 27.04.18 (sex) | Representações Intermediárias de Código | --- |
-| -- | 01.05.18 (ter) | **FERIADO - Dia do Trabalho** | --- |
+| -- | 01.05.18 (ter) | **FERIADO - Dia do Trabalho** | *Deadline - Atividade 4* |
 | 17 | 04.05.18 (sex) | Representações Intermediárias de Código | --- |
 | 18 | 08.05.18 (ter) | Representações Intermediárias de Código | --- |
 | 19 | 11.05.18 (sex) | Análise e Otimização de Código | --- |
