@@ -22,9 +22,9 @@ public class TableTest extends TestCase {
 	public void testTableG1() throws NotLL1Exception {
 		/*
 		 * Gramática de exemplo:
-		 *  A -> aB
-		 *  B -> cC
-		 *  C -> d
+		 * A -> aB
+		 * B -> cC
+		 * C -> d
 		 */
 
 		Nonterminal start = new Nonterminal("A");
@@ -59,9 +59,9 @@ public class TableTest extends TestCase {
 		Map<LL1Key, List<GeneralSymbol>> table = Table.createTable(g);
 		Map<LL1Key, List<GeneralSymbol>> expected = new HashMap<LL1Key, List<GeneralSymbol>>();
 
-		LL1Key Aa = searchTable(table, start, a);
-		LL1Key Bc = searchTable(table, B, c);
-		LL1Key Cd = searchTable(table, C, d);
+		LL1Key Aa = new LL1Key(start, a);
+		LL1Key Bc = new LL1Key(B, c);
+		LL1Key Cd = new LL1Key(C, d);
 
 		ArrayList<GeneralSymbol> aB = new ArrayList<GeneralSymbol>();
 		aB.add(a);
@@ -78,7 +78,7 @@ public class TableTest extends TestCase {
 		expected.put(Bc, cC);
 		expected.put(Cd, d_);
 
-		assertEquals(expected, table);	
+		assertEquals(expected, table);
 	}
 
 	public void testTableG2() throws NotLL1Exception {
@@ -140,11 +140,11 @@ public class TableTest extends TestCase {
 		Map<LL1Key, List<GeneralSymbol>> table = Table.createTable(g);
 		Map<LL1Key, List<GeneralSymbol>> expected = new HashMap<LL1Key, List<GeneralSymbol>>();
 
-		LL1Key Ab = searchTable(table, A, b);
-		LL1Key Sa = searchTable(table, S, a);
-		LL1Key Kd = searchTable(table, K, d);
-		LL1Key Kb = searchTable(table, K, b);
-		LL1Key Bd = searchTable(table, B, d);
+		LL1Key Ab = new LL1Key(A, b);
+		LL1Key Sa = new LL1Key(S, a);
+		LL1Key Kd = new LL1Key(K, d);
+		LL1Key Kb = new LL1Key(K, b);
+		LL1Key Bd = new LL1Key(B, d);
 
 		List<GeneralSymbol> bK = new ArrayList<GeneralSymbol>();
 		bK.add(b);
@@ -257,19 +257,19 @@ public class TableTest extends TestCase {
 		Map<LL1Key, List<GeneralSymbol>> table = Table.createTable(g);
 		Map<LL1Key, List<GeneralSymbol>> expected = new HashMap<LL1Key, List<GeneralSymbol>>();
 
-		LL1Key Ei = searchTable(table, E, id);
-		LL1Key Eap = searchTable(table, E, ap);
-		LL1Key Am = searchTable(table, A, m);
-		LL1Key Afp = searchTable(table, A, fp);
-		LL1Key Aeof = searchTable(table, A, SpecialSymbol.EOF);
-		LL1Key Ti = searchTable(table, T, id);
-		LL1Key Tap = searchTable(table, T, ap);
-		LL1Key Bm = searchTable(table, B, m);
-		LL1Key Ba = searchTable(table, B, a);
-		LL1Key Bfp = searchTable(table, B, fp);
-		LL1Key Beof = searchTable(table, B, SpecialSymbol.EOF);
-		LL1Key Fi = searchTable(table, F, id);
-		LL1Key Fap = searchTable(table, F, ap);
+		LL1Key Ei = new LL1Key(E, id);
+		LL1Key Eap = new LL1Key(E, ap);
+		LL1Key Am = new LL1Key(A, m);
+		LL1Key Afp = new LL1Key(A, fp);
+		LL1Key Aeof = new LL1Key(A, SpecialSymbol.EOF);
+		LL1Key Ti = new LL1Key(T, id);
+		LL1Key Tap = new LL1Key(T, ap);
+		LL1Key Bm = new LL1Key(B, m);
+		LL1Key Ba = new LL1Key(B, a);
+		LL1Key Bfp = new LL1Key(B, fp);
+		LL1Key Beof = new LL1Key(B, SpecialSymbol.EOF);
+		LL1Key Fi = new LL1Key(F, id);
+		LL1Key Fap = new LL1Key(F, ap);
 
 		List<GeneralSymbol> TA = new ArrayList<GeneralSymbol>();
 		TA.add(T);
@@ -315,18 +315,6 @@ public class TableTest extends TestCase {
 		expected.put(Fap, pEp);
 
 		assertEquals(expected, table);
-	}
-
-	private LL1Key searchTable(Map<LL1Key, List<GeneralSymbol>> table, Nonterminal nonterminal, GeneralSymbol symbol) {
-		LL1Key key = new LL1Key(nonterminal, symbol);
-
-		for (LL1Key tableKey : table.keySet()) {
-			if (key.equals(tableKey)) {
-				return tableKey;
-			}
-		}
-
-		return null;
 	}
 
 }
