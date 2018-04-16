@@ -84,7 +84,7 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 09 | 03.04.18 (ter) | [LALR Parsing e Intro Análise Semântica](2018.1/2018-04-03.md) | --- |
 | 10 | 06.04.18 (sex) | [ASTs e Padrão de Projeto Visitor](2018.1/2018-04-06.md) | --- |
 | 11 | 10.04.18 (ter) | [Automatizando Análise Sintática com ANTLR](2018.1/2018-04-10.md) | *Deadline - Atividade 2* |
-| 12 | 13.04.18 (sex) | Análise Semântica - Escopo |  *Atividade 3 lançada* |
+| 12 | 13.04.18 (sex) | [Análise Semântica - Escopo](2018.1/2018-04-13.md) |  [*Atividade 3 lançada*](2018.1/atividades/03-SimpleInterpreter/) | |
 | 13 | 17.04.18 (ter) | Análise Semântica - Type Checking | --- |
 | 14 | 20.04.18 (sex) | Análise Semântica | --- |
 | 15 | 24.04.18 (ter) | **1 Exercício Escolar** | *Atividade 4 lançada* |
