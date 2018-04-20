@@ -147,4 +147,31 @@ public class Prog {
 								)
 					);
 
+		//b=32; print( b, (a=512; a/b) )
+		static Stm progEseqExp = new CompoundStm(
+			new AssignStm(
+						"b",
+						new NumExp(32)
+			),
+			new PrintStm(
+				new PairExpList(
+					new IdExp("b"),
+					new LastExpList(
+						new EseqExp(
+							new AssignStm(
+								"a", 
+								new NumExp(512)
+							),
+							new OpExp(
+								new IdExp("a"), 
+								OpExp.Div, 
+								new IdExp("b")
+							)
+						)
+					)
+				)
+			)
+		);
+
+
 }
