@@ -34,7 +34,7 @@ public class MaxArgsVisitor implements IVisitor<Integer> {
 
 	@Override
 	public Integer visit(PrintStm s) {
-		
+
 		return null;
 	}
 
@@ -83,6 +83,5 @@ public class MaxArgsVisitor implements IVisitor<Integer> {
 		// TODO Auto-generated method stub
 		return null;
 	}
-	
 
 }
