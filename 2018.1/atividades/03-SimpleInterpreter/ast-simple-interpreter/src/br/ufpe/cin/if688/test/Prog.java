@@ -133,4 +133,18 @@ public class Prog {
 								)
 						);
 
+//print( (a = 512,a) )
+			static Stm printEseqExp = new PrintStm(
+								new LastExpList(
+									new EseqExp(
+										new AssignStm(
+											"a", 
+											new NumExp(512)
+													
+										),
+										new IdExp("a")
+									)
+								)
+					);
+
 }
