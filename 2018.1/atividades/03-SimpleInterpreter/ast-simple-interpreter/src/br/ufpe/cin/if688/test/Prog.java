@@ -94,24 +94,27 @@ public class Prog {
 								)
 						);
 
-		// a=512+3; print(a)
-		static Stm prog2 = 
-						new CompoundStm(
-								new AssignStm(
-										"a", 
-										new OpExp(
-												new NumExp(512), 
-												OpExp.Plus, 
-												new NumExp(3)
-										)
-								), 
-								new PrintStm(
-										new LastExpList(
-												new IdExp("a")
-										)
-								)
-						);
-
+		//a=512+3; print(a-3)
+		static Stm prog2 = new CompoundStm(
+			new AssignStm(
+					"a", 
+					new OpExp(
+							new NumExp(512), 
+							OpExp.Plus, 
+							new NumExp(3)
+					)
+			), 
+			new PrintStm(
+					new LastExpList(
+							new OpExp(
+									new IdExp("a"), 
+									OpExp.Minus, 
+									new NumExp(3)
+							)
+					)
+			)
+		);
+		
 		// a=512+3; a=515+3;
 		static Stm prog3 = 
 						new CompoundStm(
