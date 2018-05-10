@@ -88,18 +88,17 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 13 | 17.04.18 (ter) | [Análise Semântica - Type Checking](2018.1/2018-04-17.md) | --- |
 | 14 | 20.04.18 (sex) | Exercícios e tirar dúvidas | --- |
 | 15 | 24.04.18 (ter) | **1 Exercício Escolar** | --- |
-| 16 | 27.04.18 (sex) | Exercícios _Visitors_ | *Deadline - Atividade 3* |
-| -- | 01.05.18 (ter) | **FERIADO - Dia do Trabalho** | *Atividade 4 lançada* |
-| 17 | 04.05.18 (sex) | Representações Intermediárias de Código | --- |
-| 18 | 08.05.18 (ter) | Representações Intermediárias de Código | *Deadline - Atividade 4* |
-| -- | 09.05.18 (qua) | --- | *Atividade 5 lançada* |
-| 19 | 11.05.18 (sex) | Análise e Otimização de Código | --- |
+| 16 | 27.04.18 (sex) | Discussão da Prova e Exercício _Visitors_ | *Deadline - Atividade 3* |
+| -- | 01.05.18 (ter) | **FERIADO - Dia do Trabalho** |  |
+| 17 | 04.05.18 (sex) | [Representações Intermediárias de Código - Código de 3 endereços](2018.1/2018-05-04.md) | --- |
+| 18 | 08.05.18 (ter) | [Representações Intermediárias de Código - _Control-flow Graphs_](2018.1/2018-05-08.md) |  |
+| 19 | 11.05.18 (sex) | _Static Single Assignment_ e Introdução à Análise de Código | *Atividade 4 lançada* |
 | 20 | 15.05.18 (ter) | Análise e Otimização de Código | --- |
-| 21 | 18.05.18 (sex) | Análise e Otimização de Código | *Deadline - Atividade 5* |
-| 22 | 22.05.18 (ter) | Análise e Otimização de Código | --- |
+| 21 | 18.05.18 (sex) | Análise e Otimização de Código | *Deadline - Atividade 4* |
+| 22 | 22.05.18 (ter) | Análise e Otimização de Código | *Atividade 5 lançada* |
 | 23 | 25.05.18 (sex) | Análise e Otimização de Código | --- |
 | 24 | 29.05.18 (ter) | Ambientes de Execução | --- |
-| 25 | 01.06.18 (sex) | Ambientes de Execução | --- |
+| 25 | 01.06.18 (sex) | Ambientes de Execução | *Deadline - Atividade 5* |
 | 26 | 05.06.18 (ter) | Ambientes de Execução | --- |
 | 27 | 08.06.18 (sex) | Geração de Código | --- |
 | 28 | 12.06.18 (ter) | Geração de Código | --- |
