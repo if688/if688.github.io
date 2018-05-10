@@ -9,7 +9,7 @@ public class NumExp extends Exp {
 		num = n;
 	}
 
-	public int getNum() {
+	public double getNum() {
 		return num;
 	}
 
