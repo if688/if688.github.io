@@ -92,9 +92,10 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | -- | 01.05.18 (ter) | **FERIADO - Dia do Trabalho** |  |
 | 17 | 04.05.18 (sex) | [Representações Intermediárias de Código - Código de 3 endereços](2018.1/2018-05-04.md) | --- |
 | 18 | 08.05.18 (ter) | [Representações Intermediárias de Código - _Control-flow Graphs_](2018.1/2018-05-08.md) |  |
-| 19 | 11.05.18 (sex) | _Static Single Assignment_ e Introdução à Análise de Código | *Atividade 4 lançada* |
-| 20 | 15.05.18 (ter) | Análise e Otimização de Código | --- |
-| 21 | 18.05.18 (sex) | Análise e Otimização de Código | *Deadline - Atividade 4* |
+| 19 | 11.05.18 (sex) | [_Static Single Assignment_ e Introdução à Análise de Código](2018.1/2018-05-11.md) | [*Atividade 4 lançada*](2018.1/atividades/04-MiniJavaAST/) |
+| 20 | 15.05.18 (ter) | *Atividade 4* | --- |
+| 21 | 18.05.18 (sex) | Análise e Otimização de Código | --- |
+| -- | 20.05.18 (dom) | --- | *Deadline - Atividade 4* |
 | 22 | 22.05.18 (ter) | Análise e Otimização de Código | *Atividade 5 lançada* |
 | 23 | 25.05.18 (sex) | Análise e Otimização de Código | --- |
 | 24 | 29.05.18 (ter) | Ambientes de Execução | --- |
