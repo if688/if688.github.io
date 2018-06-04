@@ -96,18 +96,19 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | 20 | 15.05.18 (ter) | *Atividade 4* | --- |
 | 21 | 18.05.18 (sex) | [Otimizações Globais e Análise de Fluxo de Dados _forward-flow_](2018.1/2018-05-18.md) | --- |
 | 22 | 22.05.18 (ter) | [_Liveness_ e Análises de Fluxo de Dados _backward-flow_](2018.1/2018-05-22.md) | --- |
-| 23 | 25.05.18 (sex) | Análise e Otimização de Código | --- |
-| -- | 20.05.18 (dom) | --- | *Deadline - Atividade 4* |
-| 24 | 29.05.18 (ter) | Ambientes de Execução | *Atividade 5 lançada* |
-| 25 | 01.06.18 (sex) | Ambientes de Execução | --- |
-| 26 | 05.06.18 (ter) | Ambientes de Execução | --- |
-| 27 | 08.06.18 (sex) | Geração de Código | --- |
-| -- | 10.06.18 (dom) | --- | *Deadline - Atividade 5* |
-| 28 | 12.06.18 (ter) | Geração de Código | --- |
-| 29 | 15.06.18 (sex) | Geração de Código | --- |
-| 30 | 19.06.18 (ter) | Geração de Código | --- |
-| 31 | 22.06.18 (sex) | **2 Exercício Escolar**  | --- |
-| 32 | 26.06.18 (ter) | Tirar Dúvidas | --- |
-| 33 | 29.06.18 (sex) | **Segunda Chamada** | --- |
-| 34 | 03.07.18 (ter) | Tirar Dúvidas | --- |
-| 35 | 06.07.18 (sex) | **Prova Final**  | --- |
+| -- | 25.05.18 (sex) | --- | *Deadline - Atividade 4* |
+| -- | 29.05.18 (ter) | *Atividades Acadêmicas Suspensas* |  |
+| 23 | 01.06.18 (sex) | [_Dominance_](2018.1/2018-06-01.md) | --- |
+| 24 | 05.06.18 (ter) | Ambientes de Execução | [*Atividade 5 lançada*](2018.1/atividades/05-TypeCheckerMiniJava/) |
+| 25 | 08.06.18 (sex) | Ambientes de Execução | --- |
+| 26 | 12.06.18 (ter) | Ambientes de Execução | --- |
+| 27 | 15.06.18 (sex) | Geração de Código | --- |
+| 28 | 19.06.18 (ter) | Geração de Código | --- |
+| -- | 21.06.18 (qui) | --- | *Deadline - Atividade 5* |
+| 29 | 22.06.18 (sex) | Geração de Código | --- |
+| 30 | 26.06.18 (ter) | Geração de Código | --- |
+| 31 | 29.06.18 (sex) | **2 Exercício Escolar** | --- |
+| 32 | 03.07.18 (ter) | Tirar Dúvidas | --- |
+| 33 | 06.07.18 (sex) | **Segunda Chamada**  | --- |
+| 34 | 10.07.18 (ter) | Tirar Dúvidas | --- |
+| 35 | 13.07.18 (sex) | **Prova Final**  | --- |
