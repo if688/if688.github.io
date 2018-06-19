@@ -99,13 +99,13 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 | -- | 25.05.18 (sex) | *Atividades Acadêmicas Suspensas* | *Deadline - Atividade 4* |
 | -- | 29.05.18 (ter) | *Atividades Acadêmicas Suspensas* | --- |
 | 23 | 01.06.18 (sex) | [_Dominance_](2018.1/2018-06-01.md) | --- |
-| 24 | 05.06.18 (ter) | [Ambientes de Execução](2018.1/2018-06-05.md) | [*Atividade 5 lançada*](2018.1/atividades/05-TypeCheckerMiniJava/) |
-| 25 | 08.06.18 (sex) | [Ambientes de Execução](2018.1/2018-06-08.md) | --- |
-| 26 | 12.06.18 (ter) | [Geração de Código](2018.1/2018-06-12.md) | --- |
-| 27 | 15.06.18 (sex) | [Geração de Código](2018.1/2018-06-15.md) | --- |
-| 28 | 19.06.18 (ter) | [Geração de Código](2018.1/2018-06-19.md) | --- |
+| 24 | 05.06.18 (ter) | [Ambientes de Execução - Pilha](2018.1/2018-06-05.md) | [*Atividade 5 lançada*](2018.1/atividades/05-TypeCheckerMiniJava/) |
+| 25 | 08.06.18 (sex) | [Ambientes de Execução - Heap](2018.1/2018-06-08.md) | --- |
+| 26 | 12.06.18 (ter) | [Geração de Código - Seleção de Instruções](2018.1/2018-06-12.md) | --- |
+| 27 | 15.06.18 (sex) | [Geração de Código - Alocação de Registradores em Blocos Básicos](2018.1/2018-06-15.md) | --- |
+| 28 | 19.06.18 (ter) | [Geração de Código - Alocação de Registradores usando _Liveness_](2018.1/2018-06-19.md) | --- |
 | 29 | 22.06.18 (sex) | *Jogo do Brasil* | *Deadline - Atividade 5* |
-| 30 | 26.06.18 (ter) | Geração de Código | --- |
+| 30 | 26.06.18 (ter) | Exercícios e tirar dúvidas | --- |
 | 31 | 29.06.18 (sex) | **2 Exercício Escolar** | --- |
 | 32 | 03.07.18 (ter) | Tirar Dúvidas | --- |
 | 33 | 06.07.18 (sex) | **Segunda Chamada**  | --- |
