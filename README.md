@@ -8,15 +8,14 @@
   * Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
 * **Monitores** 
   * Emanuel Victor ([@evfgs](https://github.com/evfgs) --- evfgs@cin)
-  * Gabriel Henrique Daniel da Silva ([@gabrielh10](https://github.com/gabrielh10) --- ghds@cin)
+  * Guilherme Gouveia Figueiredo Lima ([@Gui-Lima](https://github.com/Gui-Lima) --- ggfl@cin)
   * Jailson da Costa Dias ([@jailson-dias](https://github.com/jailson-dias) --- jcd2@cin)
   * Jose Murilo Sodre da Mota Filho ([@jmsmf](https://github.com/jmsmf) --- jmsmf@cin)
-  * Ramon Saboya Gomes ([@RamonSaboya](https://github.com/RamonSaboya) --- rsg3@cin)
   
 ### Horário e Local de Aulas
 
-* Terça (8h-10h), grad 4
-* Sexta (10h-12h), grad 4
+* Quarta (13h-15h), E-112
+* Sexta (15h-17h), grad 3
 
 ### Ementa
 
@@ -32,6 +31,7 @@ O conteúdo planejado inclui uma introdução aos princípios e técnicas de con
 ### Bibliografia Complementar
 - [Michael Scott. Programming Language Pragmatics. 3rd edition, Morgan Kaufmann, 2009](https://www.cs.rochester.edu/u/scott/pragmatics/3e/)
 - [Dick Grune & Ceriel J.H. Jacobs. Parsing Techniques. 2nd edition, Springer, 2008](https://dickgrune.com/Books/PTAPG_2nd_Edition/)
+- [Terence Parr. Language Implementation Patterns. 1st edition, Pragmatic Bookshelf, 2010](https://pragprog.com/book/tpdsl/language-implementation-patterns)
 - [Terence Parr. The Definitive ANTLR 4 Reference. 2nd edition, Pragmatic Bookshelf, 2013](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference)
 - [Ronald Mak. Writing Compilers and Interpreters: A Modern Software Engineering Approach Using Java. 1st edition, John Wiley & Sons, 2009](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470177071.html)
 
@@ -41,12 +41,12 @@ O objetivo da disciplina é fornecer fundamentos para desenvolvimento da compree
 
 ### Metodologia
 
-Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exercícios e tarefas de programação em sala de aula e para casa. 
+Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e tarefas de programação em sala de aula e para casa. 
 
 ### Recursos
 
 - [Slack](http://if688.slack.com)
-- [Google Classroom](http://classroom.google.com) - Código: mpg9k1
+- [Google Classroom](http://classroom.google.com) - Código: f3phap
 
 ### Avaliação
 
@@ -71,43 +71,40 @@ Na disciplina, combinaremos utilizada uma mistura de aulas tradicionais com exer
 
 | # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------:|:----------------------|
-| 01 | 27.02.18 (ter) | [Introdução, admin](2018.1/2018-02-27.md) | --- |
-| 02 | 02.03.18 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](2018.1/2018-03-02.md) | --- |
-| -- | 06.03.18 (ter) | **FERIADO - Revolução Pernambucana** | --- |
-| 03 | 09.03.18 (sex) | [Intro Análise Léxica](2018.1/2018-03-09.md) | --- |
-| 04 | 13.03.18 (ter) | [Ferramentas para Análise Léxica (JFlex)](2018.1/2018-03-13.md) | --- |
-| 05 | 16.03.18 (sex) | [Intro Análise Sintática e Top-Down Parsing](2018.1/2018-03-16.md) | [*Atividade 1 lançada*](2018.1/atividades/01-AutoJflexTest/) |
-| 06 | 20.03.18 (ter) | [Top-Down parsing - LL(1) parsing](2018.1/2018-03-20.md) | --- |
-| 07 | 23.03.18 (sex) | [Bottom-up parsing - LR(0)](2018.1/2018-03-23.md) | *Deadline - Atividade 1* |
-| 08 | 27.03.18 (ter) | [Bottom-up parsing - LR(1)](2018.1/2018-03-27.md) | [*Atividade 2 lançada*](2018.1/atividades/02-LL1parsing/) |
-| -- | 30.03.18 (sex) | **FERIADO - Sexta-feira Santa** | --- |
-| 09 | 03.04.18 (ter) | [LALR Parsing e Intro Análise Semântica](2018.1/2018-04-03.md) | --- |
-| 10 | 06.04.18 (sex) | [ASTs e Padrão de Projeto Visitor](2018.1/2018-04-06.md) | --- |
-| 11 | 10.04.18 (ter) | [Automatizando Análise Sintática com ANTLR](2018.1/2018-04-10.md) | *Deadline - Atividade 2* |
-| 12 | 13.04.18 (sex) | [Análise Semântica - Escopo](2018.1/2018-04-13.md) |  [*Atividade 3 lançada*](2018.1/atividades/03-SimpleInterpreter/) | |
-| 13 | 17.04.18 (ter) | [Análise Semântica - Type Checking](2018.1/2018-04-17.md) | --- |
-| 14 | 20.04.18 (sex) | Exercícios e tirar dúvidas | --- |
-| 15 | 24.04.18 (ter) | **1 Exercício Escolar** | --- |
-| 16 | 27.04.18 (sex) | Discussão da Prova e Exercício _Visitors_ | *Deadline - Atividade 3* |
-| -- | 01.05.18 (ter) | **FERIADO - Dia do Trabalho** |  |
-| 17 | 04.05.18 (sex) | [Representações Intermediárias de Código - Código de 3 endereços](2018.1/2018-05-04.md) | --- |
-| 18 | 08.05.18 (ter) | [Representações Intermediárias de Código - _Control-flow Graphs_](2018.1/2018-05-08.md) |  |
-| 19 | 11.05.18 (sex) | [_Static Single Assignment_ e Introdução à Análise de Código](2018.1/2018-05-11.md) | [*Atividade 4 lançada*](2018.1/atividades/04-MiniJavaAST/) |
-| 20 | 15.05.18 (ter) | *Atividade 4* | --- |
-| 21 | 18.05.18 (sex) | [Otimizações Globais e Análise de Fluxo de Dados _forward-flow_](2018.1/2018-05-18.md) | --- |
-| 22 | 22.05.18 (ter) | [_Liveness_ e Análises de Fluxo de Dados _backward-flow_](2018.1/2018-05-22.md) | --- |
-| -- | 25.05.18 (sex) | *Atividades Acadêmicas Suspensas* | *Deadline - Atividade 4* |
-| -- | 29.05.18 (ter) | *Atividades Acadêmicas Suspensas* | --- |
-| 23 | 01.06.18 (sex) | [_Dominance_](2018.1/2018-06-01.md) | --- |
-| 24 | 05.06.18 (ter) | [Ambientes de Execução - Pilha](2018.1/2018-06-05.md) | [*Atividade 5 lançada*](2018.1/atividades/05-TypeCheckerMiniJava/) |
-| 25 | 08.06.18 (sex) | [Ambientes de Execução - Heap](2018.1/2018-06-08.md) | --- |
-| 26 | 12.06.18 (ter) | [Geração de Código - Seleção de Instruções](2018.1/2018-06-12.md) | --- |
-| 27 | 15.06.18 (sex) | [Geração de Código - Alocação de Registradores em Blocos Básicos](2018.1/2018-06-15.md) | --- |
-| 28 | 19.06.18 (ter) | [Geração de Código - Alocação de Registradores usando _Liveness_](2018.1/2018-06-19.md) | --- |
-| 29 | 22.06.18 (sex) | *Jogo do Brasil* | *Deadline - Atividade 5* |
-| 30 | 26.06.18 (ter) | Exercícios e tirar dúvidas | --- |
-| 31 | 29.06.18 (sex) | **2 Exercício Escolar** | --- |
-| 32 | 03.07.18 (ter) | Tirar Dúvidas | --- |
-| 33 | 06.07.18 (sex) | **Segunda Chamada**  | --- |
-| 34 | 10.07.18 (ter) | Tirar Dúvidas | --- |
-| 35 | 13.07.18 (sex) | **Prova Final**  | --- |
+| 01 | 15.08.18 (qua) | [Introdução, admin](#) | --- |
+| 02 | 17.08.18 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](#) | --- |
+| 03 | 22.08.18 (qua) | [Análise Léxica](#) | --- |
+| 04 | 24.08.18 (sex) | [Análise Léxica](#) | --- |
+| 05 | 29.08.18 (qua) | [Análise Sintática](#) | --- |
+| 06 | 31.08.18 (sex) | [Análise Sintática](#) | --- |
+| 07 | 05.09.18 (qua) | [Análise Sintática](#) | --- |
+| -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
+| 08 | 12.09.18 (qua) | [Análise Sintática](#) | --- |
+| 09 | 14.09.18 (sex) | [Análise Sintática](#) | --- |
+| 10 | 19.09.18 (qua) | [Exercício](#) | --- |
+| 11 | 21.09.18 (sex) | [Análise Semântica](#) | --- |
+| 12 | 26.09.18 (qua) | [Análise Semântica](#) | --- |
+| 13 | 28.09.18 (sex) | [Análise Semântica](#) | --- |
+| 14 | 03.10.18 (qua) | [Análise Semântica](#) | --- |
+| 15 | 05.10.18 (sex) | [Análise Semântica](#) | --- |
+| 16 | 10.10.18 (qua) | **1 Exercício Escolar** | --- |
+| -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
+| 17 | 17.10.18 (qua) | [Representações Intermediárias de Código](#) | --- |
+| 18 | 19.10.18 (sex) | [Representações Intermediárias de Código](#) | --- |
+| 19 | 24.10.18 (qua) | [Análise e Otimização de Código](#) | --- |
+| 20 | 26.10.18 (sex) | [Análise e Otimização de Código](#) | --- |
+| 21 | 31.10.18 (qua) | [Análise e Otimização de Código](#) | --- |
+| -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
+| 22 | 07.11.18 (qua) | [Análise e Otimização de Código](#) | --- |
+| 23 | 09.11.18 (sex) | [Análise e Otimização de Código](#) | --- |
+| 24 | 14.11.18 (qua) | [Ambientes de Execução](#) | --- |
+| 25 | 16.11.18 (sex) | [Ambientes de Execução](#) | --- |
+| 26 | 21.11.18 (qua) | [Ambientes de Execução](#) | --- |
+| 27 | 23.11.18 (sex) | [Geração de Código](#) | --- |
+| 28 | 28.11.18 (qua) | [Geração de Código](#) | --- |
+| 29 | 30.11.18 (sex) | [Geração de Código](#) | --- |
+| 30 | 05.12.18 (qua) | **2 Exercício Escolar** | --- |
+| 31 | 07.12.18 (sex) | Tirar dúvidas | --- |
+| 32 | 12.12.18 (qua) | **Segunda Chamada**  | --- |
+| 33 | 14.12.18 (sex) | Tirar dúvidas | --- |
+| 34 | 19.12.18 (qua) | **Prova Final**  | --- |
