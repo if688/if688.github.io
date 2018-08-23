@@ -71,12 +71,12 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------:|:----------------------|
-| 01 | 15.08.18 (qua) | [Introdução, admin](#) | --- |
-| 02 | 17.08.18 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](#) | --- |
-| 03 | 22.08.18 (qua) | [Análise Léxica](#) | --- |
-| 04 | 24.08.18 (sex) | [Análise Léxica](#) | --- |
+| 01 | 15.08.18 (qua) | [Introdução, admin](2018-08-15.md) | --- |
+| 02 | 17.08.18 (sex) | [Conceitos Básicos e Tradução Dirigida por Sintaxe](2018-08-17.md) | --- |
+| 03 | 22.08.18 (qua) | [Análise Léxica](2018-08-22.md) | --- |
+| 04 | 24.08.18 (sex) | [Ferramentas para Análise Léxica (JFlex)](2018-08-24.md) | [*Atividade 1 lançada*](#) |
 | 05 | 29.08.18 (qua) | [Análise Sintática](#) | --- |
-| 06 | 31.08.18 (sex) | [Análise Sintática](#) | --- |
+| 06 | 31.08.18 (sex) | [Análise Sintática](#) | *Deadline para entrega - Atividade 1* |
 | 07 | 05.09.18 (qua) | [Análise Sintática](#) | --- |
 | -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
 | 08 | 12.09.18 (qua) | [Análise Sintática](#) | --- |
