@@ -80,8 +80,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 06 | 31.08.18 (sex) | [LL(1) Parsing](2018-08-31.md) | *Deadline para entrega - Atividade 1* |
 | 07 | 05.09.18 (qua) | [*Atividade 2*](atividades/02-FirstFollow) | --- |
 | -- | 07.09.18 (sex) | **FERIADO - Dia da Independência** | --- |
-| 08 | 12.09.18 (qua) | [Bottom-up Parsing LR(0)](#) | --- |
-| 09 | 14.09.18 (sex) | [Bottom-up Parsing LR(1) e LALR](#) | --- |
+| 08 | 12.09.18 (qua) | [Bottom-up Parsing LR(0)](2018-09-12.md) | --- |
+| 09 | 14.09.18 (sex) | [Bottom-up Parsing LR(1) e LALR](2018-09-14.md) | --- |
 | -- | 18.09.18 (ter) | --- | *Deadline para entrega - Atividade 2* |
 | 10 | 19.09.18 (qua) | [Ferramentas para geração de Analisadores Sintáticos](#) | --- |
 | 11 | 21.09.18 (sex) | [Análise Semântica](#) | --- |
