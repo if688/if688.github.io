@@ -84,10 +84,10 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 09 | 14.09.18 (sex) | [Bottom-up Parsing LR(1) e LALR](2018-09-14.md) | --- |
 | -- | 18.09.18 (ter) | --- | *Deadline para entrega - Atividade 2* |
 | 10 | 19.09.18 (qua) | [Ferramentas para geração de Analisadores Sintáticos](2018-09-19.md) | --- |
-| 11 | 21.09.18 (sex) | [Análise Semântica](2018-09-21.md) | --- |
-| 12 | 26.09.18 (qua) | [Análise Semântica](#) | --- |
-| 13 | 28.09.18 (sex) | [Análise Semântica](#) | --- |
-| 14 | 03.10.18 (qua) | [Análise Semântica](#) | --- |
+| 11 | 21.09.18 (sex) | [Introdução à Análise Semântica - Visitors](2018-09-21.md) | --- |
+| 12 | 26.09.18 (qua) | [Análise Semântica - Visitors](#) | --- |
+| 13 | 28.09.18 (sex) | [Análise Semântica - Escopo](#) | --- |
+| 14 | 03.10.18 (qua) | [Análise Semântica - Type Checking](#) | --- |
 | 15 | 05.10.18 (sex) | [Análise Semântica](#) | --- |
 | 16 | 10.10.18 (qua) | **1 Exercício Escolar** | --- |
 | -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
