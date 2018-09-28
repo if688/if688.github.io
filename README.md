@@ -86,11 +86,11 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 10 | 19.09.18 (qua) | [Ferramentas para geração de Analisadores Sintáticos](2018-09-19.md) | --- |
 | 11 | 21.09.18 (sex) | [Introdução à Análise Semântica - Visitors](2018-09-21.md) | --- |
 | 12 | 26.09.18 (qua) | [Análise Semântica - Escopo](2018-09-26.md) | --- |
-| 13 | 28.09.18 (sex) | [Análise Semântica - *Atividade 3 - Visitors*](#) | --- |
+| 13 | 28.09.18 (sex) | [Análise Semântica - *Atividade 3 - Visitors*](atividades/03-SimpleInterpreter) | --- |
 | 14 | 03.10.18 (qua) | [Análise Semântica - Type Checking](#) | --- |
 | 15 | 05.10.18 (sex) | [Análise Semântica - Type Checking](#) | --- |
 | 16 | 10.10.18 (qua) | **1 Exercício Escolar** | --- |
-| -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
+| -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | *Deadline para entrega - Atividade 3* |
 | 17 | 17.10.18 (qua) | [Representações Intermediárias de Código](#) | --- |
 | 18 | 19.10.18 (sex) | [Representações Intermediárias de Código](#) | --- |
 | 19 | 24.10.18 (qua) | [Análise e Otimização de Código](#) | --- |
