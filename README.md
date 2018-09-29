@@ -83,7 +83,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 08 | 12.09.18 (qua) | [Bottom-up Parsing LR(0)](2018-09-12.md) | --- |
 | 09 | 14.09.18 (sex) | [Bottom-up Parsing LR(1) e LALR](2018-09-14.md) | --- |
 | -- | 18.09.18 (ter) | --- | *Deadline para entrega - Atividade 2* |
-| 10 | 19.09.18 (qua) | [Ferramentas para geração de Analisadores Sintáticos](2018-09-19.md) | --- |
+| 10 | 19.09.18 (qua) | [Automatizando Análise Sintática com ANTLR](2018-09-19.md) | --- |
 | 11 | 21.09.18 (sex) | [Introdução à Análise Semântica - Visitors](2018-09-21.md) | --- |
 | 12 | 26.09.18 (qua) | [Análise Semântica - Escopo](2018-09-26.md) | --- |
 | 13 | 28.09.18 (sex) | [Análise Semântica - *Atividade 3 - Visitors*](atividades/03-SimpleInterpreter) | --- |
