@@ -92,19 +92,20 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 16 | 10.10.18 (qua) | **1 Exercício Escolar** | --- |
 | -- | 12.10.18 (sex) | **FERIADO - Dia de Nossa Senhora Aparecida** | --- |
 | -- | 16.10.18 (ter) | --- | *Deadline para entrega - Atividade 3* |
-| 17 | 17.10.18 (qua) | [Representações Intermediárias de Código](#) | --- |
-| 18 | 19.10.18 (sex) | [Representações Intermediárias de Código](#) | --- |
-| 19 | 24.10.18 (qua) | [Análise e Otimização de Código](#) | --- |
+| 17 | 17.10.18 (qua) | [Representações Intermediárias de Código](2018-10-17.md) | --- |
+| 18 | 19.10.18 (sex) | [Representações Intermediárias de Código](2018-10-19.md) | --- |
+| 19 | 24.10.18 (qua) | [Representações Intermediárias de Código - LLVM](#) | [*Atividade 4 lançada*](atividades/04-MiniJavaAST) |
 | 20 | 26.10.18 (sex) | [Análise e Otimização de Código](#) | --- |
 | 21 | 31.10.18 (qua) | [Análise e Otimização de Código](#) | --- |
 | -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
+| -- | 06.11.18 (ter) | --- | *Deadline para entrega - Atividade 4* |
 | 22 | 07.11.18 (qua) | [Análise e Otimização de Código](#) | --- |
 | 23 | 09.11.18 (sex) | [Análise e Otimização de Código](#) | --- |
 | 24 | 14.11.18 (qua) | [Ambientes de Execução](#) | --- |
 | 25 | 16.11.18 (sex) | [Ambientes de Execução](#) | --- |
-| 26 | 21.11.18 (qua) | [Ambientes de Execução](#) | --- |
+| 26 | 21.11.18 (qua) | [Geração de Código](#) | --- |
 | 27 | 23.11.18 (sex) | [Geração de Código](#) | --- |
-| 28 | 28.11.18 (qua) | [Geração de Código](#) | --- |
+| 28 | 28.11.18 (qua) | [Exercícios](#) | --- |
 | 29 | 30.11.18 (sex) | [Geração de Código](#) | --- |
 | 30 | 05.12.18 (qua) | **2 Exercício Escolar** | --- |
 | 31 | 07.12.18 (sex) | Tirar dúvidas | --- |
