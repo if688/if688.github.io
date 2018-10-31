@@ -96,10 +96,10 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 18 | 19.10.18 (sex) | [Representações Intermediárias de Código](2018-10-19.md) | --- |
 | 19 | 24.10.18 (qua) | [Representações Intermediárias de Código - LLVM](2018-10-24.md) | [*Atividade 4 lançada*](atividades/04-MiniJavaAST) |
 | 20 | 26.10.18 (sex) | [Otimização de Código Local](2018-10-26.md) | --- |
-| 21 | 31.10.18 (qua) | [Análise e Otimização de Código](#) | --- |
+| 21 | 31.10.18 (qua) | [Análise de Fluxo de Dados _Forward_ e Otimização de Código Global](2018-10-31.md) | --- |
 | -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
 | -- | 06.11.18 (ter) | --- | *Deadline para entrega - Atividade 4* |
-| 22 | 07.11.18 (qua) | [Análise e Otimização de Código](#) | --- |
+| 22 | 07.11.18 (qua) | [Análise de Fluxo de Dados _Backwards_](#) | --- |
 | 23 | 09.11.18 (sex) | [Análise e Otimização de Código](#) | --- |
 | 24 | 14.11.18 (qua) | [Ambientes de Execução](#) | --- |
 | 25 | 16.11.18 (sex) | [Ambientes de Execução](#) | --- |
