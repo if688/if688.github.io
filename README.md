@@ -98,9 +98,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 20 | 26.10.18 (sex) | [Otimização de Código Local](2018-10-26.md) | --- |
 | 21 | 31.10.18 (qua) | [Análise de Fluxo de Dados _Forward_ e Otimização de Código Global](2018-10-31.md) | --- |
 | -- | 02.11.18 (sex) | **FERIADO - Dia de Finados** | --- |
-| -- | 06.11.18 (ter) | --- | *Deadline para entrega - Atividade 4* |
-| 22 | 07.11.18 (qua) | [Análise de Fluxo de Dados _Backwards_](#) | --- |
-| 23 | 09.11.18 (sex) | [Análise e Otimização de Código](#) | --- |
+| 22 | 07.11.18 (qua) | [Análise de Fluxo de Dados _Backwards_](2018-11-07.md) | --- |
+| 23 | 09.11.18 (sex) | [Análise e Otimização de Código](#) | *Deadline para entrega - Atividade 4* |
 | 24 | 14.11.18 (qua) | [Ambientes de Execução](#) | --- |
 | 25 | 16.11.18 (sex) | [Ambientes de Execução](#) | --- |
 | 26 | 21.11.18 (qua) | [Geração de Código](#) | --- |
