@@ -102,10 +102,10 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 23 | 09.11.18 (sex) | [Análise e Otimização de Código](2018-11-09.md) | *Deadline para entrega - Atividade 4* |
 | 24 | 14.11.18 (qua) | [Ambientes de Execução - Pilha](2018-11-14.md) | --- |
 | 25 | 16.11.18 (sex) | [Geração de Código - Seleção de Instruções](2018-11-16.md) | [*Atividade 5 lançada*](atividades/05-TypeCheckerMiniJava) |
-| 26 | 21.11.18 (qua) | [Geração de Código](#) | --- |
-| 27 | 23.11.18 (sex) | [Geração de Código](#) | --- |
-| 28 | 28.11.18 (qua) | [Exercícios](#) | --- |
-| 29 | 30.11.18 (sex) | [Geração de Código](#) | *Deadline para entrega - Atividade 5* |
+| 26 | 21.11.18 (qua) | [Geração de Código - Alocação de Registradores](2018-11-21.md) | --- |
+| 27 | 23.11.18 (sex) | Tirar dúvidas | --- |
+| 28 | 28.11.18 (qua) | Usar horário da aula para concluir exercício 5 | --- |
+| 29 | 30.11.18 (sex) | Tirar dúvidas | *Deadline para entrega - Atividade 5* |
 | 30 | 05.12.18 (qua) | **2 Exercício Escolar** | --- |
 | 31 | 07.12.18 (sex) | Tirar dúvidas | --- |
 | 32 | 12.12.18 (qua) | **Segunda Chamada**  | --- |
