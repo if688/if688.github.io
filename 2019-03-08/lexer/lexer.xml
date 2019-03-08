@@ -1,0 +1,32 @@
+<project>
+
+    <taskdef classname="jflex.anttask.JFlexTask" name="jflex" classpath="lib/jflex-1.6.1.jar" />
+    
+	<jflex
+	    file="lexer/teste.jflex"
+	    destdir="src"
+	/>
+	
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="build/classes"/>
+        <javac srcdir="src" destdir="build/classes"/>
+    </target>
+
+    <target name="jar">
+        <mkdir dir="build/jar"/>
+        <jar destfile="build/jar/HelloWorld.jar" basedir="build/classes">
+            <manifest>
+                <attribute name="Main-Class" value="oata.HelloWorld"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="run">
+        <java jar="build/jar/HelloWorld.jar" fork="true"/>
+    </target>
+
+</project>
