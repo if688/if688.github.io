@@ -78,7 +78,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | -- | 05.03.19 (ter) | **FERIADO - Carnaval** | --- |
 | 05 | 08.03.19 (sex) | [Ferramentas para Análise Léxica (JFlex)](2019-03-08.md) | [*Atividade 1 lançada*](atividades/01-AutoJflexTest) |
 | 06 | 12.03.19 (ter) | [Introdução à Análise Sintática e Top-Down Parsing](2019-03-12.md) | --- |
-| 07 | 15.03.19 (sex) | [LL(1) Parsing](2019-03-15.md) | *Atividade 2 lançada* |
+| 07 | 15.03.19 (sex) | [LL(1) Parsing](2019-03-15.md) | [*Atividade 2 lançada*](atividades/02-FirstFollow) |
 | 08 | 19.03.19 (ter) | [Bottom-up Parsing LR(0)](2019-03-19.md) | *Deadline para entrega - Atividade 1* |
 | 09 | 22.03.19 (sex) | [Bottom-up Parsing LR(1) e LALR](2019-03-22.md) | --- |
 | 10 | 26.03.19 (ter) | [Introdução à Análise Semântica - Visitors](2019-03-26.md) | *Atividade 3 lançada* |
