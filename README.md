@@ -81,12 +81,14 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 07 | 15.03.19 (sex) | [LL(1) Parsing](2019-03-15.md) | [*Atividade 2 lançada*](atividades/02-FirstFollow) |
 | 08 | 19.03.19 (ter) | [Bottom-up Parsing LR(0)](2019-03-19.md) | *Deadline para entrega - Atividade 1* |
 | 09 | 22.03.19 (sex) | [Bottom-up Parsing LR(1) e LALR](2019-03-22.md) | --- |
-| 10 | 26.03.19 (ter) | [Introdução à Análise Semântica - Visitors](2019-03-26.md) | *Atividade 3 lançada* |
-| 11 | 29.03.19 (sex) | [Análise Semântica - Visitors](2019-03-29.md) | *Deadline para entrega - Atividade 2* |
-| 12 | 02.04.19 (ter) | [Análise Semântica - Escopo](2019-04-02.md) | --- |
-| 13 | 05.04.19 (sex) | [Análise Semântica - Type Checking](2019-04-05.md) | --- |
-| 14 | 09.04.19 (ter) | [Automatizando Análise Sintática com ANTLR](2019-04-09.md) | *Deadline para entrega - Atividade 3* |
+| 10 | 26.03.19 (ter) | [Bottom-up Parsing LALR & Introdução à Análise Semântica](2019-03-26.md) | --- |
+| 11 | 29.03.19 (sex) | [Análise Semântica - ASTs](2019-03-29.md) | --- |
+| -- | 31.03.19 (dom) | **---** | *Deadline para entrega - Atividade 2* |
+| 12 | 02.04.19 (ter) | [Análise Semântica - Visitors](2019-04-02.md) |  *Atividade 3 lançada* |
+| 13 | 05.04.19 (sex) | [Análise Semântica - Escopo & Type Checking](2019-04-05.md) | --- |
+| 14 | 09.04.19 (ter) | [Automatizando Análise Sintática com ANTLR](2019-04-09.md) | --- |
 | 15 | 12.04.19 (sex) | **1 Exercício Escolar** | --- |
+| -- | 15.04.19 (seg) | **---** | *Deadline para entrega - Atividade 3* |
 | 16 | 16.04.19 (ter) | [Representações Intermediárias de Código](2019-04-16.md) | *Atividade 4 lançada* |
 | -- | 19.04.19 (sex) | **FERIADO - Paixão de Cristo** | --- |
 | 17 | 23.04.19 (ter) | [Representações Intermediárias de Código](2019-04-23.md) | --- |
