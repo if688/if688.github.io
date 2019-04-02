@@ -6,11 +6,6 @@ O objetivo deste exercício é consolidar os conceitos de First, Follow e tabela
 
 O código que deve ser implementado está nas classes `br.ufpe.cin.if688.table.Table` e `br.ufpe.cin.if688.parsing.analysis.SetGenerator`, indicado com comentários. *Nenhum outro código deve ser modificado.* Apenas os métodos `getFirst(Grammar g)`, `getFollow(Grammar g, Map<Nonterminal, Set<GeneralSymbol>> first)` e `createTable(Grammar g)` devem ser modificados. 
 
-### Entrega no Classroom
-Para a entrega, faça um zip contendo apenas os dois arquivos modificados (`Table` e `SetGenerator`) e inclua como resposta no Google Classroom, lembrando de nomear o arquivo zip com seu login. Ou seja, no meu caso, seria lmt.zip. 
-
-Se desejar, pode enviar também um link de repositório github e um outro arquivo zip com o projeto inteiro, mas é importante que tenha um zip com seu login, contendo apenas estes dois arquivos modificados com a sua implementação.
-
 ### Entrega para o Iudex
 No Iudex tem toda a especificação, mas de maneira semelhante, faça um Zip com o Main, o Table e o SetGenerator. Selecione Java 8 e submeta esse Zip. Seu arquivo deve conter alguns prints (quatro, não precisa mais que isso) que devem ser:
 * Da Gramática

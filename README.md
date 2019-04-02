@@ -84,7 +84,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 10 | 26.03.19 (ter) | [Bottom-up Parsing LALR & Introdução à Análise Semântica](2019-03-26.md) | --- |
 | 11 | 29.03.19 (sex) | [Análise Semântica - ASTs](2019-03-29.md) | --- |
 | -- | 31.03.19 (dom) | **---** | *Deadline para entrega - Atividade 2* |
-| 12 | 02.04.19 (ter) | [Análise Semântica - Visitors](2019-04-02.md) |  *Atividade 3 lançada* |
+| 12 | 02.04.19 (ter) | [Análise Semântica - Visitors](2019-04-02.md) |  [*Atividade 3 lançada*](https://github.com/if688/if688.github.io/tree/master/atividades/03-SimpleInterpreter) |
 | 13 | 05.04.19 (sex) | [Análise Semântica - Escopo & Type Checking](2019-04-05.md) | --- |
 | 14 | 09.04.19 (ter) | [Automatizando Análise Sintática com ANTLR](2019-04-09.md) | --- |
 | 15 | 12.04.19 (sex) | **1 Exercício Escolar** | --- |
