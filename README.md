@@ -86,23 +86,23 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | -- | 31.03.19 (dom) | **---** | *Deadline para entrega - Atividade 2* |
 | 12 | 02.04.19 (ter) | [Análise Semântica - Visitors](2019-04-02.md) |  [*Atividade 3 lançada*](https://github.com/if688/if688.github.io/tree/master/atividades/03-SimpleInterpreter) |
 | 13 | 05.04.19 (sex) | [Análise Semântica - Escopo & Type Checking](2019-04-05.md) | --- |
-| 14 | 09.04.19 (ter) | [Automatizando Análise Sintática com ANTLR](2019-04-09.md) | --- |
+| 14 | 09.04.19 (ter) | *Revisão* | --- |
 | 15 | 12.04.19 (sex) | **1 Exercício Escolar** | --- |
 | -- | 15.04.19 (seg) | **---** | *Deadline para entrega - Atividade 3* |
-| 16 | 16.04.19 (ter) | [Representações Intermediárias de Código](2019-04-16.md) | *Atividade 4 lançada* |
+| -- | 16.04.19 (ter) | *Aula cancelada* |  |
 | -- | 19.04.19 (sex) | **FERIADO - Paixão de Cristo** | --- |
-| 17 | 23.04.19 (ter) | [Representações Intermediárias de Código](2019-04-23.md) | --- |
-| 18 | 26.04.19 (sex) | [Análise e Otimização de Código](2019-04-26.md) | --- |
-| 19 | 30.04.19 (ter) | [Análise e Otimização de Código](2019-04-30.md) | *Atividade 5 lançada* |
-| 20 | 03.05.19 (sex) | [Representações Intermediárias de Código - LLVM](2019-05-03.md) | *Deadline para entrega - Atividade 4* |
-| 21 | 07.05.19 (ter) | **Exercício - Atividade 5** | --- |
-| -- | 10.05.19 (sex) | **Exercício - Atividade 5** | --- |
-| 22 | 14.05.19 (ter) | [Análise e Otimização de Código](2019-05-14.md) | *Atividade 6 lançada* |
-| 23 | 17.05.19 (sex) | [Análise e Otimização de Código](2019-05-17.md) | *Deadline para entrega - Atividade 5* | |
+| 16 | 23.04.19 (ter) | [Representações Intermediárias de Código - Código de 3 Endereços](2019-04-23.md) | --- |
+| 17 | 26.04.19 (sex) | [_Control-flow graphs_ e Introdução à Análise e Otimização de Código](2019-04-26.md) | --- |
+| 18 | 30.04.19 (ter) | [Otimizações Locais e Globais](2019-04-30.md) | --- |
+| 29 | 03.05.19 (sex) | [Automatizando Análise Sintática com ANTLR](2019-04-09.md) | *Atividades 4 e 5 lançadas* |
+| 20 | 07.05.19 (ter) | **Exercício - Atividades 4 e 5** | --- |
+| 21 | 10.05.19 (sex) | [Representações Intermediárias de Código - LLVM](2019-05-10.md) | --- |
+| 22 | 14.05.19 (ter) | [Otimizações Globais](2019-05-14.md) |  |
+| 23 | 17.05.19 (sex) | [Análise e Otimização de Código](2019-05-17.md) | *Deadline para entrega - Atividade 4* | |
 | 24 | 21.05.19 (ter) | [Ambientes de Execução](2019-05-21.md) | --- |
-| 25 | 24.05.19 (sex) | [Ambientes de Execução](2019-05-24.md) | --- |
+| 25 | 24.05.19 (sex) | [Ambientes de Execução](2019-05-24.md) | *Atividade 6 lançada* |
 | 26 | 28.05.19 (ter) | [Ambientes de Execução](2019-05-28.md) | --- |
-| 27 | 31.05.19 (sex) | [Geração de Código](2019-05-31.md) | --- |
+| 27 | 31.05.19 (sex) | [Geração de Código](2019-05-31.md) | *Deadline para entrega - Atividade 5* |
 | 28 | 04.06.19 (ter) | [Geração de Código](2019-06-04.md) | --- |
 | 29 | 07.06.19 (sex) | [Geração de Código](2019-06-07.md) | *Deadline para entrega - Atividade 6* | |
 | 30 | 11.06.19 (ter) | [Geração de Código](2019-06-11.md) | --- |
