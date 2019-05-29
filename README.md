@@ -98,15 +98,15 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 20 | 07.05.19 (ter) | **Exercício - Atividades 4 e 5** | --- |
 | 21 | 10.05.19 (sex) | [Representações Intermediárias de Código - LLVM](2019-05-10.md) | --- |
 | 22 | 14.05.19 (ter) | [Otimizações Globais](2019-05-14.md) |  |
-| 23 | 17.05.19 (sex) | [Análise e Otimização de Código](2019-05-17.md) | *Deadline para entrega - Atividade 4* | |
-| 24 | 21.05.19 (ter) | [Ambientes de Execução](2019-05-21.md) | --- |
-| 25 | 24.05.19 (sex) | [Ambientes de Execução](2019-05-24.md) | *Atividade 6 lançada* |
-| 26 | 28.05.19 (ter) | [Ambientes de Execução](2019-05-28.md) | --- |
-| 27 | 31.05.19 (sex) | [Geração de Código](2019-05-31.md) | *Deadline para entrega - Atividade 5* |
-| 28 | 04.06.19 (ter) | [Geração de Código](2019-06-04.md) | --- |
-| 29 | 07.06.19 (sex) | [Geração de Código](2019-06-07.md) | *Deadline para entrega - Atividade 6* | |
-| 30 | 11.06.19 (ter) | [Geração de Código](2019-06-11.md) | --- |
-| 31 | 14.06.19 (sex) | **2 Exercício Escolar** | --- |
+| 23 | 17.05.19 (sex) | [Conclusão de Análise e Otimização de Código](2019-05-17.md) | *Deadline para entrega - Atividade 4* | |
+| 24 | 21.05.19 (ter) | [Ambientes de Execução - Pilha](2019-05-21.md) | --- |
+| 25 | 24.05.19 (sex) | [Ambientes de Execução - Heap](2019-05-24.md) | --- |
+| 26 | 28.05.19 (ter) | [Geração de Código - Seleção de Instruções](2019-05-28.md) | --- |
+| 27 | 31.05.19 (sex) | [Geração de Código - Alocação de Registradores](2019-05-31.md) | *Deadline para entrega - Atividade 5* |
+| 28 | 04.06.19 (ter) | [Geração de Código - Alocação de Registradores](2019-06-04.md) | --- |
+| 29 | 07.06.19 (sex) | *Revisão* | --- |
+| 30 | 11.06.19 (ter) | **2 Exercício Escolar** | --- |
+| 31 | 14.06.19 (sex) | Tirar dúvidas | --- |
 | 32 | 18.06.19 (ter) | **Segunda Chamada**  | --- |
 | 33 | 21.06.19 (sex) | Tirar dúvidas (_online_) | --- |
 | 34 | 25.06.19 (ter) | Tirar dúvidas (_online_) | --- |
