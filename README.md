@@ -48,7 +48,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 ### Recursos
 
 - [Slack](https://if688.slack.com)
-- [iudex.io](#)
+- [iudex.io](https://iudex.io/group/join/JsaMg1R)
 
 ### Avaliação
 
