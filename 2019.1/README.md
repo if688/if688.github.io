@@ -9,15 +9,13 @@
 * **Monitores** 
   * Claudio Carvalho de Oliveira ([@evfgs](https://github.com/claudiocarvalhoo) --- cco2@cin)
   * Guilherme Gouveia Figueiredo Lima ([@Gui-Lima](https://github.com/Gui-Lima) --- ggfl@cin)
-  * Lucas Barros de Almeida Machado ([@](https://github.com/) --- lbam@cin)
-  * Lucas Cardoso Coelho Alves de Oliveira ([@](https://github.com/) --- lccao@cin)
   * Mário Victor Gomes de Matos Bezerra ([@mvgmb](https://github.com/mvgmb) --- mvgmb@cin)
   * Matheus Borba Alves ([@mlbas](https://github.com/mlbas) --- mlbas@cin)
   
 ### Horário e Local de Aulas
 
-* Quarta (13h-15h), E112
-* Sexta (15h-17h), grad 3
+* Terça (08h-10h), grad 4
+* Sexta (10h-12h), grad 4
 
 ### Ementa
 
@@ -48,7 +46,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 ### Recursos
 
 - [Slack](https://if688.slack.com)
-- [iudex.io](#)
+- [iudex.io](https://iudex.io/group/join/5y5cD6V)
 
 ### Avaliação
 
@@ -73,41 +71,43 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | # | Data | Assunto | Atividades |
 |:---:|:----:|:----------------------:|:----------------------|
-| 01 | 07.08.19 (qua) | [Introdução, admin](2019-08-07.md) | --- |
-| 02 | 09.08.19 (sex) | Conceitos Básicos & Tradução Dirigida por Sintaxe | --- |
-| 03 | 14.08.19 (qua) | Análise Léxica & JFlex | --- |
-| 04 | 16.08.19 (sex) | Introdução à Análise Sintática e Top-Down Parsing | [*Atividade 1 lançada*](#) |
-| 05 | 21.08.19 (qua) | Análise Sintática - Top-Down parsing - LL(1) | --- |
-| 06 | 23.08.19 (sex) | Análise Sintática - Bottom-up parsing - LR(0) | [*Atividade 2 lançada*](#) |
-| 07 | 28.08.19 (qua) | Análise Sintática - Bottom-up parsing - LR(1) | *Deadline para entrega da Atividade 1* |
-| 08 | 30.08.19 (sex) | Análise Semântica - ASTs | --- |
-| 09 | 04.09.19 (qua) | Análise Semântica - Visitors | --- |
-| 10 | 06.09.19 (sex) | [Atividade 3 lançada - Aula dedicada a praticar](#) | --- |
-| 11 | 11.09.19 (qua) | Automatizando Análise Sintática (ANTLR) | *Deadline para entrega da Atividade 2* |
-| 12 | 13.09.19 (sex) | [Atividade 3 - Aula dedicada a praticar](#) | --- |
-| 13 | 18.09.19 (qua) | Análise Semântica - Escopo | *Deadline para entrega do Exercício 2* |
-| 14 | 20.09.19 (sex) | Análise Semântica - Type Checking | *Deadline para entrega da Atividade 3* |
-| 15 | 25.09.19 (qua) | Tira-dúvidas (_online_) | --- |
-| 16 | 27.09.19 (sex) | **1 Exercício Escolar** | --- |
-| 17 | 02.10.19 (qua) | Representações Intermediárias de Código | --- |
-| 18 | 04.10.19 (sex) | Representações Intermediárias de Código | --- |
-| 19 | 09.10.19 (qua) | Representações Intermediárias de Código | --- |
-| 20 | 11.10.19 (sex) | Análise e Otimização de Código | --- |
-| 21 | 16.10.19 (qua) | Análise e Otimização de Código | --- |
-| 22 | 18.10.19 (sex) | Análise e Otimização de Código | --- |
-| 23 | 23.10.19 (qua) | Análise e Otimização de Código | --- |
-| 24 | 25.10.19 (sex) | Análise e Otimização de Código | --- |
-| 25 | 30.10.19 (qua) | Ambientes de Execução | --- |
-| 26 | 01.11.19 (sex) | Ambientes de Execução | --- |
-| 27 | 06.11.19 (qua) | Ambientes de Execução | --- |
-| 28 | 08.11.19 (sex) | Ambientes de Execução | --- |
-| 29 | 13.11.19 (qua) | Geração de Código | --- |
-| -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
-| 30 | 20.11.19 (qua) | Geração de Código | --- |
-| 31 | 22.11.19 (sex) | Geração de Código | --- |
-| 32 | 27.11.19 (qua) | Geração de Código | --- |
-| 33 | 29.11.19 (sex) | **2 Exercício Escolar** | --- |
-| 34 | 04.12.19 (qua) | Tira-dúvidas (_online_) | --- |
-| 35 | 06.12.19 (sex) | **2 Chamada** | --- |
-| 36 | 11.12.19 (qua) | Tira-dúvidas (_online_) | --- |
-| 37 | 13.12.19 (sex) | **Prova Final**  | --- |
+| 01 | 19.02.19 (ter) | [Introdução, admin](2019-02-19.md) | --- |
+| 02 | 22.02.19 (sex) | [Conceitos Básicos](2019-02-22.md) | --- |
+| 03 | 26.02.19 (ter) | [Tradução Dirigida por Sintaxe](2019-02-26.md) | --- |
+| 04 | 01.03.19 (sex) | [Análise Léxica (JFlex)](2019-03-01.md) | -- |
+| -- | 05.03.19 (ter) | **FERIADO - Carnaval** | --- |
+| 05 | 08.03.19 (sex) | [Ferramentas para Análise Léxica (JFlex)](2019-03-08.md) | [*Atividade 1 lançada*](atividades/01-AutoJflexTest) |
+| 06 | 12.03.19 (ter) | [Introdução à Análise Sintática e Top-Down Parsing](2019-03-12.md) | --- |
+| 07 | 15.03.19 (sex) | [LL(1) Parsing](2019-03-15.md) | [*Atividade 2 lançada*](atividades/02-FirstFollow) |
+| 08 | 19.03.19 (ter) | [Bottom-up Parsing LR(0)](2019-03-19.md) | *Deadline para entrega - Atividade 1* |
+| 09 | 22.03.19 (sex) | [Bottom-up Parsing LR(1) e LALR](2019-03-22.md) | --- |
+| 10 | 26.03.19 (ter) | [Bottom-up Parsing LALR & Introdução à Análise Semântica](2019-03-26.md) | --- |
+| 11 | 29.03.19 (sex) | [Análise Semântica - ASTs](2019-03-29.md) | --- |
+| -- | 31.03.19 (dom) | **---** | *Deadline para entrega - Atividade 2* |
+| 12 | 02.04.19 (ter) | [Análise Semântica - Visitors](2019-04-02.md) |  [*Atividade 3 lançada*](https://github.com/if688/if688.github.io/tree/master/atividades/03-SimpleInterpreter) |
+| 13 | 05.04.19 (sex) | [Análise Semântica - Escopo & Type Checking](2019-04-05.md) | --- |
+| 14 | 09.04.19 (ter) | *Revisão* | --- |
+| 15 | 12.04.19 (sex) | **1 Exercício Escolar** | --- |
+| -- | 15.04.19 (seg) | **---** | *Deadline para entrega - Atividade 3* |
+| -- | 16.04.19 (ter) | *Aula cancelada* |  |
+| -- | 19.04.19 (sex) | **FERIADO - Paixão de Cristo** | --- |
+| 16 | 23.04.19 (ter) | [Representações Intermediárias de Código - Código de 3 Endereços](2019-04-23.md) | --- |
+| 17 | 26.04.19 (sex) | [_Control-flow graphs_ e Introdução à Análise e Otimização de Código](2019-04-26.md) | --- |
+| 18 | 30.04.19 (ter) | [Otimizações Locais e Globais](2019-04-30.md) | --- |
+| 29 | 03.05.19 (sex) | [Automatizando Análise Sintática com ANTLR](2019-04-09.md) | *Atividades 4 e 5 lançadas* |
+| 20 | 07.05.19 (ter) | **Exercício - Atividades 4 e 5** | --- |
+| 21 | 10.05.19 (sex) | [Representações Intermediárias de Código - LLVM](2019-05-10.md) | --- |
+| 22 | 14.05.19 (ter) | [Otimizações Globais](2019-05-14.md) |  |
+| 23 | 17.05.19 (sex) | [Conclusão de Análise e Otimização de Código](2019-05-17.md) | *Deadline para entrega - Atividade 4* | |
+| 24 | 21.05.19 (ter) | [Ambientes de Execução - Pilha](2019-05-21.md) | --- |
+| 25 | 24.05.19 (sex) | [Ambientes de Execução - Heap](2019-05-24.md) | --- |
+| 26 | 28.05.19 (ter) | [Geração de Código - Seleção de Instruções](2019-05-28.md) | --- |
+| 27 | 31.05.19 (sex) | [Geração de Código - Alocação de Registradores](2019-05-31.md) | *Deadline para entrega - Atividade 5* |
+| 28 | 04.06.19 (ter) | [Geração de Código - Alocação de Registradores](2019-06-04.md) | --- |
+| 29 | 07.06.19 (sex) | *Revisão* | --- |
+| 30 | 11.06.19 (ter) | **2 Exercício Escolar** | --- |
+| 31 | 14.06.19 (sex) | Tirar dúvidas | --- |
+| 32 | 18.06.19 (ter) | **Segunda Chamada**  | --- |
+| 33 | 21.06.19 (sex) | Tirar dúvidas (_online_) | --- |
+| 34 | 25.06.19 (ter) | Tirar dúvidas (_online_) | --- |
+| 34 | 28.06.19 (ter) | **Prova Final**  | --- |
