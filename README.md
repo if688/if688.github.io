@@ -9,8 +9,8 @@
 * **Monitores** 
   * Claudio Carvalho de Oliveira ([@evfgs](https://github.com/claudiocarvalhoo) --- cco2@cin)
   * Guilherme Gouveia Figueiredo Lima ([@Gui-Lima](https://github.com/Gui-Lima) --- ggfl@cin)
-  * Lucas Barros de Almeida Machado ([@](https://github.com/) --- lbam@cin)
-  * Lucas Cardoso Coelho Alves de Oliveira ([@](https://github.com/) --- lccao@cin)
+  * Lucas Barros de Almeida Machado ([@lucasbarross](https://github.com/lucasbarross) --- lbam@cin)
+  * Lucas Cardoso Coelho Alves de Oliveira ([@Lucas-CardosoO](https://github.com/Lucas-CardosoO) --- lccao@cin)
   * Mário Victor Gomes de Matos Bezerra ([@mvgmb](https://github.com/mvgmb) --- mvgmb@cin)
   * Matheus Borba Alves ([@mlbas](https://github.com/mlbas) --- mlbas@cin)
   
