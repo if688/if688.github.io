@@ -1,8 +1,10 @@
 package br.ufpe.cin.if688.infpos.lexer;
 
+import br.ufpe.cin.if688.infpos.lexer.Op;
 import br.ufpe.cin.if688.infpos.lexer.Num;
 import br.ufpe.cin.if688.infpos.lexer.Tag;
 import br.ufpe.cin.if688.infpos.lexer.Token;
+import br.ufpe.cin.if688.infpos.lexer.Word;
 
 %%
 
@@ -14,25 +16,13 @@ import br.ufpe.cin.if688.infpos.lexer.Token;
 %class InfPosLexer
 %type Token
 %function getNextToken
-%implements ILexer<Token>
 %eofclose
 
-%{
-	@Override
-    public int getLine() {
-		return yyline;
-	}
-
-	@Override
-	public int getColumn() {
-		//TODO considerar column-1
-		return yycolumn;
-	}
-%}
-
-
+letter          = [A-Za-z]
 digit           = [0-9]
 integer         = {digit}+
+alphanumeric    = {letter}|{digit}
+identifier      = {letter}({alphanumeric})*
 whitespace      = [ \n\t]
 
 
@@ -40,10 +30,11 @@ whitespace      = [ \n\t]
 /**
  * REGRAS LEXICAS:
  */
-"*"             { return new Token(yytext()); }
-"+"             { return new Token(yytext()); }
-"-"             { return new Token(yytext()); }
-"/"             { return new Token(yytext()); }
+"*"             { return new Op(yytext()); }
+"+"             { return new Op(yytext()); }
+"-"             { return new Op(yytext()); }
+"/"             { return new Op(yytext()); }
+{identifier}    { return new Word(Tag.ID,yytext()); }
 {integer}       { return new Num(yytext()); }
 {whitespace}    { /* Ignorar whitespace. */ }
 .               { throw new RuntimeException("Illegal char, '" + yytext() + "' line: " + yyline + ", column: " + yycolumn); }

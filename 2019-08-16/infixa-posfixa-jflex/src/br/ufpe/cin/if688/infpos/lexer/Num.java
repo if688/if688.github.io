@@ -7,7 +7,12 @@ public class Num extends Token {
 		super(Tag.NUM);
 		value = v;
 	}
-
+	
+	public Num(String s) {
+		super(Tag.NUM);
+		value = Integer.parseInt(s);
+	}
+	
 	public int getValue() {
 		return value;
 	}

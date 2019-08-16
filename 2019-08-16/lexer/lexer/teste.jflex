@@ -1,5 +1,5 @@
-//package generated.lexer;
-//import...
+package br.ufpe.cin.generated.lexer;
+
 %%
 
 /* 
@@ -29,7 +29,7 @@ código dentro de %{ e %}, é copiado para a classe gerada.
 a ideia é utilizar este recurso para declarar atributos e métodos usados nas ações 
 */ 
 %{
-int qtdeID=0;//quantidade de identificadores
+int qtdeID=0;
 %}
 
 
@@ -44,7 +44,7 @@ letter          = [A-Za-z]
 digit           = [0-9]
 integer         = {digit}+
 alphanumeric    = {letter}|{digit}
-identifier      = ({letter} | [_])({alphanumeric} | [_])*
+identifier      = {letter}({alphanumeric})*
 whitespace      = [ \n\t]
 
 
@@ -52,9 +52,8 @@ whitespace      = [ \n\t]
 /**
  * REGRAS LEXICAS:
  */
-if              { System.out.println("Token IF"); }
 and             { System.out.println("Token AND"); }
-"or"			{ System.out.println("Token OR"); }
+"or"				{ System.out.println("Token OR"); }
 "*"             { System.out.println("Token *"); }
 "+"             { System.out.println("Token +"); }
 "-"             { System.out.println("Token -"); }

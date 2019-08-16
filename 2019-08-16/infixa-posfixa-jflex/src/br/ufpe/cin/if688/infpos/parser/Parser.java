@@ -2,48 +2,46 @@ package br.ufpe.cin.if688.infpos.parser;
 
 import java.io.IOException;
 
-import br.ufpe.cin.if688.infpos.lexer.ILexer;
+import br.ufpe.cin.if688.infpos.lexer.InfPosLexer;
 import br.ufpe.cin.if688.infpos.lexer.Num;
 import br.ufpe.cin.if688.infpos.lexer.Tag;
 import br.ufpe.cin.if688.infpos.lexer.Token;
+import br.ufpe.cin.if688.infpos.lexer.Word;
 
 public class Parser {
-   private ILexer<Token> lex;    // analisador lexico
+   private InfPosLexer lex;    // analisador lexico
    private Token look;   // lookahead tag
 	
-	public Parser(ILexer<Token> l) throws IOException { 
+	public Parser(InfPosLexer l) throws IOException { 
 		lex = l; move(); 
 	}
 
 	void move() throws IOException { 
 		look = lex.getNextToken(); 
-		//System.out.println(look);
 	}
 	
 	void error(String s) { 
-		throw new Error("Erro na linha "+lex.getLine()+": "+s); 
+		throw new Error("problema de parsing"); 
 	}
 
 	
 	public void expr() throws IOException {
 		term();
 		while(true) {
-			if (look.tag == Tag.PLUS) {
-				match('+');
-				term();
-				System.out.print("+ ");
-			}
-			else if (look.tag == Tag.MINUS) {
-				match('-');
-				term();
-				System.out.print("- ");
-			}
-			else if (look.tag == Tag.EOF) {
+			if (null == look) {
 				return;
 			}
-			else {
-				error("Deveria vir um +, -, ou fim de arquivo.");
+			else if (look.tag == '+') {
+				match('+'); 
+				term(); 
+				System.out.print("+ ");
 			}
+			else if (look.tag == '-') {
+				match('-'); 
+				term(); 
+				System.out.print("- ");
+			}
+			else return;
 		}
 	}
 	void term() throws IOException {
@@ -53,8 +51,13 @@ public class Parser {
 				System.out.print(n.getValue() + " ");
 				move();
 				break;
+			case Tag.ID:
+				Word w = (Word) look;
+				System.out.print(w.getLexeme() + " ");
+				move();
+				break;
 			default:
-				error("Esperava um número, e veio "+look.toString());
+				error("erro de sintaxe");
 				break;
 		}
 	}
@@ -64,7 +67,7 @@ public class Parser {
 			move();
 		}
 		else {
-			error("Erro, esperava "+t+" e veio "+look);
+			error("erro de sintaxe");
 		}
 	}
 
