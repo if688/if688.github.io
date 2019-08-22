@@ -77,9 +77,9 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 02 | 09.08.19 (sex) | [Conceitos Básicos & Tradução Dirigida por Sintaxe](2019-08-09.md) | --- |
 | 03 | 14.08.19 (qua) | [Análise Léxica](2019-08-14.md) | --- |
 | 04 | 16.08.19 (sex) | [Geradores de Analisadores Léxicos - JFlex](2019-08-16.md) | [*Atividade 1 lançada*](atividades/01-AutoJflexTest/) |
-| 05 | 21.08.19 (qua) | Análise Sintática - Top-Down parsing - LL(1) | --- |
-| 06 | 23.08.19 (sex) | Análise Sintática - Bottom-up parsing - LR(0) | [*Atividade 2 lançada*](#) |
-| 07 | 28.08.19 (qua) | Análise Sintática - Bottom-up parsing - LR(1) | *Deadline para entrega da Atividade 1* |
+| 05 | 21.08.19 (qua) | [Análise Sintática - Top-Down parsing - LL(1)](2019-08-21.md) | --- |
+| 06 | 23.08.19 (sex) | Análise Sintática - LL(1) e Introdução a Bottom-up parsing | [*Atividade 2 lançada*](#) |
+| 07 | 28.08.19 (qua) | Análise Sintática - Bottom-up parsing - LR(0) & LR(1) | *Deadline para entrega da Atividade 1* |
 | 08 | 30.08.19 (sex) | Análise Semântica - ASTs | --- |
 | 09 | 04.09.19 (qua) | Análise Semântica - Visitors | --- |
 | 10 | 06.09.19 (sex) | [Atividade 3 lançada - Aula dedicada a praticar](#) | --- |

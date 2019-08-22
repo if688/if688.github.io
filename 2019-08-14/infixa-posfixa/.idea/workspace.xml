@@ -1,85 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bdacb83-9459-4c72-8916-070b447d3df9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/exp.in" beforeDir="false" afterPath="$PROJECT_DIR$/examples/exp.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/parser/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/byaccj/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/byaccj/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/byaccj/calc.flex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/byaccj/calc.y" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/src/main/cup/ycalc.cup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/src/main/jflex/lcalc.flex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/src/test/java/LexerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/src/test/resources/output.good" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/cup-maven/src/test/resources/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/AST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/STEfun.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/STEvar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/SymTab.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/SymtabEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tboolexp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tdekl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tdekllist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Texp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Texpinfix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Texplist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tfun.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tident.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tifthenelse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tnumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tparlist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tprogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/Tuminus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/example.as" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/output.good" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/parser.cup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/interpreter/scanner.flex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/JavaParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/JavaSymbol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/TestLexer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/java.flex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/java12.cup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/lexer-output.good" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/java/unicode.flex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/main/java/Utility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/main/java/Yytoken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/main/jflex/simple.flex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/site/apt/usage.apt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/site/site.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/test/java/YylexTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/test/resources/output.good" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/simple-maven/src/test/resources/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/standalone-maven/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/standalone-maven/src/main/jflex/standalone.flex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/standalone-maven/src/test/java/de/jflex/example/standalone/SubstTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/standalone-maven/src/test/resources/sample.expected" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/standalone-maven/src/test/resources/sample.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/zero-reader/FunkyReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/zero-reader/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/zero-reader/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/zero-reader/ZeroReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/zero-reader/lexer-output.good" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/zero-reader/test-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/examples/zero-reader/zero-lexer.jflex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/exp.in" beforeDir="false" afterPath="$PROJECT_DIR$/../jflex/exp.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jflex/teste.jflex" beforeDir="false" afterPath="$PROJECT_DIR$/../jflex/teste.jflex" afterDir="false" />
-    </list>
+    <list default="true" id="6bdacb83-9459-4c72-8916-070b447d3df9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,68 +13,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/parser/Parser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/main/PosFixa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/exp.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Token.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/ILexer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Lexer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -177,10 +38,10 @@
         <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Tag.java" />
         <option value="$PROJECT_DIR$/examples/exp.in" />
         <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/InfPosLexer.java" />
-        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/parser/Parser.java" />
         <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/main/PosFixa.java" />
         <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Num.java" />
         <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Token.java" />
+        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/parser/Parser.java" />
       </list>
     </option>
   </component>
@@ -321,25 +182,24 @@
       <workItem from="1565795789002" duration="208000" />
       <workItem from="1565797999172" duration="192000" />
       <workItem from="1565804075643" duration="1429000" />
-      <workItem from="1565981813197" duration="1034000" />
+      <workItem from="1565981813197" duration="1524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2863000" />
+    <option name="totallyTimeSpent" value="3353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1602289" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1602289" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27388534" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27388534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -390,30 +250,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/ILexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Lexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/parser/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/InfPosLexer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4522">
@@ -422,30 +258,6 @@
             <element signature="e#6970#6971#0" expanded="true" />
             <element signature="e#6998#6999#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/main/PosFixa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/exp.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -460,6 +272,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/ILexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/exp.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/main/PosFixa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/infpos/lexer/Num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
