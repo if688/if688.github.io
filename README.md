@@ -79,9 +79,9 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 04 | 16.08.19 (sex) | [Geradores de Analisadores Léxicos - JFlex](2019-08-16.md) | [*Atividade 1 lançada*](atividades/01-AutoJflexTest/) |
 | 05 | 21.08.19 (qua) | [Análise Sintática - Top-Down parsing - LL(1)](2019-08-21.md) | --- |
 | 06 | 23.08.19 (sex) | [Análise Sintática - LL(1)](2019-08-23.md) | [*Atividade 2 lançada*](atividades/02-FirstFollow/) |
-| 07 | 28.08.19 (qua) | Análise Sintática - Bottom-up parsing - LR(0) & LR(1) | *Deadline para entrega da Atividade 1* |
-| 08 | 30.08.19 (sex) | Análise Semântica - ASTs | --- |
-| 09 | 04.09.19 (qua) | Análise Semântica - Visitors | --- |
+| 07 | 28.08.19 (qua) | [Análise Sintática - Bottom-up parsing - LR(0)](2019-08-28.md) | *Deadline para entrega da Atividade 1* |
+| 08 | 30.08.19 (sex) | [Análise Sintática - Bottom-up parsing - LR(1)](2019-08-30.md) | --- |
+| 09 | 04.09.19 (qua) | Análise Semântica - ASTs & Visitors | --- |
 | 10 | 06.09.19 (sex) | [Atividade 3 lançada - Aula dedicada a praticar](#) | --- |
 | 11 | 11.09.19 (qua) | Automatizando Análise Sintática (ANTLR) | *Deadline para entrega da Atividade 2* |
 | 12 | 13.09.19 (sex) | [Atividade 3 - Aula dedicada a praticar](#) | --- |
