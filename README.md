@@ -81,7 +81,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 06 | 23.08.19 (sex) | [Análise Sintática - LL(1)](2019-08-23.md) | [*Atividade 2 lançada*](atividades/02-FirstFollow/) |
 | 07 | 28.08.19 (qua) | [Análise Sintática - Bottom-up parsing - LR(0)](2019-08-28.md) | *Deadline para entrega da Atividade 1* |
 | 08 | 30.08.19 (sex) | [Análise Sintática - Bottom-up parsing - LR(1)](2019-08-30.md) | --- |
-| 09 | 04.09.19 (qua) | Análise Semântica - ASTs & Visitors | --- |
+| 09 | 04.09.19 (qua) | [Análise Semântica - ASTs & Visitors](2019-09-04.md) | --- |
 | 10 | 06.09.19 (sex) | [Atividade 3 lançada - Aula dedicada a praticar](#) | --- |
 | 11 | 11.09.19 (qua) | Automatizando Análise Sintática (ANTLR) | *Deadline para entrega da Atividade 2* |
 | 12 | 13.09.19 (sex) | [Atividade 3 - Aula dedicada a praticar](#) | --- |
