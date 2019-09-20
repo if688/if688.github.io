@@ -84,9 +84,9 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 09 | 04.09.19 (qua) | [Análise Semântica - ASTs & Visitors](2019-09-04.md) | --- |
 | 10 | 06.09.19 (sex) | [Atividade 3 lançada - Aula dedicada a praticar](atividades/03-SimpleInterpreter/) | --- |
 | 11 | 11.09.19 (qua) | _Aula dedicada a tirar dúvidas de ASTs e Visitors_ | --- |
-| 12 | 13.09.19 (sex) | Automatizando Análise Sintática (ANTLR) | *Deadline para entrega da Atividade 2* |
-| 13 | 18.09.19 (qua) | Análise Semântica - Escopo | --- |
-| 14 | 20.09.19 (sex) | Análise Semântica - Type Checking | *Deadline para entrega da Atividade 3* |
+| 12 | 13.09.19 (sex) | [Automatizando Análise Sintática (ANTLR)](https://docs.google.com/presentation/d/1AXv04ejDwzWBGQ2upKg2IYaVhtskbJr9mZmMFCvtODE/edit?usp=sharing) | *Deadline para entrega da Atividade 2* |
+| 13 | 18.09.19 (qua) | [Análise Semântica - Escopo & Type Checking](2019-09-18.md) | --- |
+| 14 | 20.09.19 (sex) | Tira-dúvidas | *Deadline para entrega da Atividade 3* |
 | 15 | 25.09.19 (qua) | Tira-dúvidas (_online_) | --- |
 | 16 | 27.09.19 (sex) | **1 Exercício Escolar** | --- |
 | 17 | 02.10.19 (qua) | Representações Intermediárias de Código | --- |
