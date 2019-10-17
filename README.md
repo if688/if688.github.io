@@ -94,15 +94,18 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 19 | 09.10.19 (qua) | [Representações Intermediárias de Código - *Control-flow Graph*](2019-10-09.md) | --- |
 | 20 | 11.10.19 (sex) | [Análise e Otimização de Código - *Constant Propagation*](2019-10-11.md) | --- |
 | 21 | 16.10.19 (qua) | [Análise e Otimização de Código - *Liveness*](2019-10-16.md) | --- |
-| 22 | 18.10.19 (sex) | Análise e Otimização de Código - *Dominance* | --- |
+| 22 | 18.10.19 (sex) | Análise e Otimização de Código - *Dominance* | **Atividade 4 lançada** |
+| -- | 28.10.19 (seg) | **Atividade 5 lançada** | --- |
 | 23 | 23.10.19 (qua) | Análise e Otimização de Código | --- |
 | 24 | 25.10.19 (sex) | Análise e Otimização de Código | --- |
+| -- | 28.10.19 (seg) | *Entrega da Atividade 4* | --- |
 | 25 | 30.10.19 (qua) | Ambientes de Execução | --- |
 | 26 | 01.11.19 (sex) | Ambientes de Execução | --- |
 | 27 | 06.11.19 (qua) | Ambientes de Execução | --- |
 | 28 | 08.11.19 (sex) | Ambientes de Execução | --- |
 | 29 | 13.11.19 (qua) | Geração de Código | --- |
 | -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
+| -- | 18.11.19 (seg) | *Entrega da Atividade 5* | --- |
 | 30 | 20.11.19 (qua) | Geração de Código | --- |
 | 31 | 22.11.19 (sex) | Geração de Código | --- |
 | 32 | 27.11.19 (qua) | Geração de Código | --- |
