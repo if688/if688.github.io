@@ -89,12 +89,12 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 14 | 20.09.19 (sex) | Tira-dúvidas | *Deadline para entrega da Atividade 3* |
 | 15 | 25.09.19 (qua) | Tira-dúvidas (_online_) | --- |
 | 16 | 27.09.19 (sex) | **1 Exercício Escolar** | --- |
-| 17 | 02.10.19 (qua) | Representações Intermediárias de Código | --- |
-| 18 | 04.10.19 (sex) | Representações Intermediárias de Código | --- |
-| 19 | 09.10.19 (qua) | Representações Intermediárias de Código | --- |
-| 20 | 11.10.19 (sex) | Análise e Otimização de Código | --- |
-| 21 | 16.10.19 (qua) | Análise e Otimização de Código | --- |
-| 22 | 18.10.19 (sex) | Análise e Otimização de Código | --- |
+| 17 | 02.10.19 (qua) | **Banca de Doutorado - Sem Aula** | --- |
+| 18 | 04.10.19 (sex) | [Representações Intermediárias de Código - Código de 3 Endereços](2019-10-04.md) | --- |
+| 19 | 09.10.19 (qua) | [Representações Intermediárias de Código - *Control-flow Graph*](2019-10-09.md) | --- |
+| 20 | 11.10.19 (sex) | [Análise e Otimização de Código - *Constant Propagation*](2019-10-11.md) | --- |
+| 21 | 16.10.19 (qua) | [Análise e Otimização de Código - *Liveness*](2019-10-16.md) | --- |
+| 22 | 18.10.19 (sex) | Análise e Otimização de Código - *Dominance* | --- |
 | 23 | 23.10.19 (qua) | Análise e Otimização de Código | --- |
 | 24 | 25.10.19 (sex) | Análise e Otimização de Código | --- |
 | 25 | 30.10.19 (qua) | Ambientes de Execução | --- |
