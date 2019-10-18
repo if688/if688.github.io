@@ -94,8 +94,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 19 | 09.10.19 (qua) | [Representações Intermediárias de Código - *Control-flow Graph*](2019-10-09.md) | --- |
 | 20 | 11.10.19 (sex) | [Análise e Otimização de Código - *Constant Propagation*](2019-10-11.md) | --- |
 | 21 | 16.10.19 (qua) | [Análise e Otimização de Código - *Liveness*](2019-10-16.md) | --- |
-| 22 | 18.10.19 (sex) | Análise e Otimização de Código - *Dominance* | **Atividade 4 lançada** |
-| -- | 28.10.19 (seg) | **Atividade 5 lançada** | --- |
+| 22 | 18.10.19 (sex) | [Análise e Otimização de Código - *Dominance*](2019-10-18.md) | **Atividade 4 lançada** |
+| -- | 21.10.19 (seg) | **Atividade 5 lançada** | --- |
 | 23 | 23.10.19 (qua) | Análise e Otimização de Código | --- |
 | 24 | 25.10.19 (sex) | Análise e Otimização de Código | --- |
 | -- | 28.10.19 (seg) | *Entrega da Atividade 4* | --- |
