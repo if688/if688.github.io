@@ -96,21 +96,18 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 21 | 16.10.19 (qua) | [Análise e Otimização de Código - *Liveness*](2019-10-16.md) | --- |
 | 22 | 18.10.19 (sex) | [Análise e Otimização de Código - *Dominance*](2019-10-18.md) | **Atividade 4 lançada** |
 | -- | 21.10.19 (seg) | **Atividade 5 lançada** | --- |
-| 23 | 23.10.19 (qua) | Análise e Otimização de Código | --- |
-| 24 | 25.10.19 (sex) | Análise e Otimização de Código | --- |
-| -- | 28.10.19 (seg) | *Entrega da Atividade 4* | --- |
-| 25 | 30.10.19 (qua) | Ambientes de Execução | --- |
-| 26 | 01.11.19 (sex) | Ambientes de Execução | --- |
-| 27 | 06.11.19 (qua) | Ambientes de Execução | --- |
-| 28 | 08.11.19 (sex) | Ambientes de Execução | --- |
+| 23 | 23.10.19 (qua) | [LLVM - Representação Intermediária e Otimização de Código](2019-10-23.md) | --- |
+| 24 | 25.10.19 (sex) | _Aula dedicada a concluir a Atividade 4_ | --- |
+| 25 | 30.10.19 (qua) | [Ambientes de Execução - Pilha](2019-10-30.md) | --- |
+| 26 | 01.11.19 (sex) | [Ambientes de Execução - *Heap*](2019-11-01.md) | *Entrega da Atividade 4* |
+| 27 | 06.11.19 (qua) | Geração de Código | --- |
+| 28 | 08.11.19 (sex) | Geração de Código | --- |
 | 29 | 13.11.19 (qua) | Geração de Código | --- |
 | -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
 | -- | 18.11.19 (seg) | *Entrega da Atividade 5* | --- |
-| 30 | 20.11.19 (qua) | Geração de Código | --- |
-| 31 | 22.11.19 (sex) | Geração de Código | --- |
-| 32 | 27.11.19 (qua) | Geração de Código | --- |
-| 33 | 29.11.19 (sex) | **2 Exercício Escolar** | --- |
+| 30 | 20.11.19 (qua) | Tira-dúvidas | --- |
+| 31 | 22.11.19 (sex) | **2 Exercício Escolar** | --- |
+| 32 | 27.11.19 (qua) | Tira-dúvidas (_online_) | --- |
+| 33 | 29.11.19 (sex) | **2 Chamada** | --- |
 | 34 | 04.12.19 (qua) | Tira-dúvidas (_online_) | --- |
-| 35 | 06.12.19 (sex) | **2 Chamada** | --- |
-| 36 | 11.12.19 (qua) | Tira-dúvidas (_online_) | --- |
-| 37 | 13.12.19 (sex) | **Prova Final**  | --- |
+| 35 | 06.12.19 (sex) | **Prova Final**  | --- |
