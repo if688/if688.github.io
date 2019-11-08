@@ -100,8 +100,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 24 | 25.10.19 (sex) | _Aula dedicada a concluir a Atividade 4_ | --- |
 | 25 | 30.10.19 (qua) | [Ambientes de Execução - Pilha](2019-10-30.md) | --- |
 | 26 | 01.11.19 (sex) | [Ambientes de Execução - *Heap*](2019-11-01.md) | *Entrega da Atividade 4* |
-| 27 | 06.11.19 (qua) | Geração de Código | --- |
-| 28 | 08.11.19 (sex) | Geração de Código | --- |
+| 27 | 06.11.19 (qua) | [Geração de Código - Seleção de Instruções](2019-11-06.md) | --- |
+| 28 | 08.11.19 (sex) | [Geração de Código - Alocação de Registradores em Blocos Básicos](2019-11-08.md) | --- |
 | 29 | 13.11.19 (qua) | Geração de Código | --- |
 | -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
 | -- | 18.11.19 (seg) | *Entrega da Atividade 5* | --- |
