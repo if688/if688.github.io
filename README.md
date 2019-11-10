@@ -102,12 +102,12 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 26 | 01.11.19 (sex) | [Ambientes de Execução - *Heap*](2019-11-01.md) | *Entrega da Atividade 4* |
 | 27 | 06.11.19 (qua) | [Geração de Código - Seleção de Instruções](2019-11-06.md) | --- |
 | 28 | 08.11.19 (sex) | [Geração de Código - Alocação de Registradores em Blocos Básicos](2019-11-08.md) | --- |
-| 29 | 13.11.19 (qua) | Geração de Código | --- |
+| 29 | 13.11.19 (qua) | [Geração de Código - Alocação de Registradores](2019-11-13.md) | --- |
 | -- | 15.11.19 (sex) | **FERIADO - Proclamação da República** | --- |
 | -- | 18.11.19 (seg) | *Entrega da Atividade 5* | --- |
-| 30 | 20.11.19 (qua) | Tira-dúvidas | --- |
+| 30 | 20.11.19 (qua) | Tira-dúvidas (em sala de aula) | --- |
 | 31 | 22.11.19 (sex) | **2 Exercício Escolar** | --- |
-| 32 | 27.11.19 (qua) | Tira-dúvidas (_online_) | --- |
+| 32 | 27.11.19 (qua) | Tira-dúvidas (_online_ ou na sala do professor) | --- |
 | 33 | 29.11.19 (sex) | **2 Chamada** | --- |
-| 34 | 04.12.19 (qua) | Tira-dúvidas (_online_) | --- |
+| 34 | 04.12.19 (qua) | Tira-dúvidas (_online_ ou na sala do professor) | --- |
 | 35 | 06.12.19 (sex) | **Prova Final**  | --- |
