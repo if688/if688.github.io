@@ -71,7 +71,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 26.01.21 (ter) | **Sem atividade** | Assíncrona | --- |
 | 29.01.21 (sex) | [Introdução, admin](2021-01-29.md) | Síncrona | --- |
 | 02.02.21 (ter) | [Análise Léxica](2021-02-02.md) | Assíncrona | --- |
-| 05.02.21 (sex) | Implementando Analisadores Léxicos | Síncrona | [*Atividade 1 lançada*] |
+| 05.02.21 (sex) | [Implementando Analisadores Léxicos](2021-02-05.md) | Síncrona | [*Atividade 1 lançada*] |
 | 09.02.21 (ter) | Análise Sintática e Top-Down Parsing | Assíncrona | --- |
 | 12.02.21 (sex) | Gramáticas LL(1) | Síncrona | [*Atividade 2 lançada*] |
 | 16.02.21 (ter) | Bottom-up parsing e LR(0) | Assíncrona | --- |
