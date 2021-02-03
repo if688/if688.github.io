@@ -67,7 +67,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
 | Data | Assunto | Tipo de Aula | Atividades |
-|:----:|:----------------------:|:----------------------|
+|:----:|:----------------------:|:----------------------:|:----------------------|
 | 26.01.21 (ter) | **Sem atividade** | Assíncrona | --- |
 | 29.01.21 (sex) | [Introdução, admin](2021-01-29.md) | Síncrona | --- |
 | 02.02.21 (ter) | [Análise Léxica](2021-02-02.md) | Assíncrona | --- |
