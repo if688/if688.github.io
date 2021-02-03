@@ -14,8 +14,8 @@
   
 ### Horário e Local de Aulas
 
-* Terça (8h-10h), aula assíncrona
-* Sexta (10h-12h), aula síncrona (google meet)
+* Terça (8h-10h), grad 3
+* Sexta (10h-12h), E131
 
 ### Ementa
 
@@ -50,11 +50,14 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Avaliação
 
-* `Nota` = (`Participacao` x 1,5 + `Listas` x 2,5 + `Atividades` x 6,0) / 10 
-  * `Participacao` = Participação nas aulas, resposta a quizzes lançados no classroom
-  * `Listas` = Listas de exercício
-  * `Atividades` = Atividades de programação
-* `Final`: Chamada oral
+* (`N1`+`N2`)/2, onde:
+  * `N1` = `Prova1` (60%) + `Exercicios1` (40%)
+    * `Prova1` = Teste com [assunto dado até o momento
+    * `Exercicios1` = Tarefas passadas durante primeira unidade
+  * `N2` = `Prova2` (60%) + `Exercicios2` (40%)
+    * `Prova2` = Teste com [assunto dado a partir de Prova1 
+    * `Exercicios2` = Tarefas passadas durante segunda unidade
+* `Final`: Teste com todo o assunto da matéria
 
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
@@ -66,40 +69,43 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 **Atenção!** 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| Data | Assunto | Tipo de Aula | Atividades |
-|:----:|:----------------------:|:----------------------|
-| 26.01.21 (ter) | **Sem atividade** | Assíncrona | --- |
-| 29.01.21 (sex) | [Introdução, admin](2021-01-29.md) | Síncrona | --- |
-| 02.02.21 (ter) | [Análise Léxica](2021-02-02.md) | Assíncrona | --- |
-| 05.02.21 (sex) | Implementando Analisadores Léxicos | Síncrona | [*Atividade 1 lançada*] |
-| 09.02.21 (ter) | Análise Sintática e Top-Down Parsing | Assíncrona | --- |
-| 12.02.21 (sex) | Gramáticas LL(1) | Síncrona | [*Atividade 2 lançada*] |
-| 16.02.21 (ter) | Bottom-up parsing e LR(0) | Assíncrona | --- |
-| 18.02.21 (qui) | *Deadline para entrega da Atividade 1* | --- | --- |
-| 19.02.21 (sex) | Gramáticas LR(1) | Síncrona | --- |
-| 23.02.21 (ter) | *Parser generators* | Assíncrona | --- |
-| 25.02.21 (qui) | *Deadline para entrega da Atividade 2* | --- | --- |
-| 26.02.21 (sex) | Análise Semântica | Síncrona | [*Atividade 3 lançada*] |
-| 02.03.21 (ter) | Análise Semântica | Assíncrona | --- |
-| 05.03.21 (sex) | Análise Semântica | Síncrona | --- |
-| 09.03.21 (ter) | Representações Intermediárias de código | Assíncrona | --- |
-| 11.03.21 (qui) | *Deadline para entrega da Atividade 3* | --- | --- |
-| 12.03.21 (sex) | Representações Intermediárias de código | Síncrona | [*Atividade 4 lançada*] |
-| 16.03.21 (ter) | Representações Intermediárias de código | Assíncrona | --- |
-| 19.03.21 (sex) | Representações Intermediárias de código | Síncrona | --- |
-| 23.03.21 (ter) | Análise e Otimização de Código | Assíncrona | --- |
-| 25.03.21 (qui) | *Deadline para entrega da Atividade 4* | --- | --- |
-| 26.03.21 (sex) | Análise e Otimização de Código | Síncrona | [*Atividade 5 lançada*] |
-| 30.03.21 (ter) | Análise e Otimização de Código | Assíncrona | --- |
-| 02.04.21 (sex) | **Páscoa** | --- | --- |
-| 06.04.21 (ter) | Análise e Otimização de Código | Assíncrona | --- |
-| 25.03.21 (qui) | *Deadline para entrega da Atividade 5* | --- | --- |
-| 09.04.21 (sex) | Análise e Otimização de Código | Síncrona | [*Atividade 6 lançada*] |
-| 13.04.21 (ter) | Ambientes de Execução | Assíncrona | --- |
-| 16.04.21 (sex) | Ambientes de Execução | Síncrona | --- |
-| 20.04.21 (ter) | Geração de Código | Assíncrona | --- |
-| 25.03.21 (qui) | *Deadline para entrega da Atividade 6* | --- | --- |
-| 23.04.21 (sex) | Geração de Código | Síncrona | --- |
-| 27.04.21 (ter) | Geração de Código | Assíncrona | --- |
-| 30.04.21 (sex) | Geração de Código | Síncrona | --- |
-| 04.05.21 (ter) | **Prova Final** | Síncrona | --- |
+| # | Data | Assunto | Atividades |
+|:---:|:----:|:----------------------:|:----------------------|
+| -- | 03.03.20 (ter) | **Licença Paternidade** | --- |
+| -- | 06.03.20 (sex) | **Data Magna - Revolução Pernambucana** | --- |
+| 01 | 10.03.20 (ter) | [Introdução, admin](2020-03-10.md) | --- |
+| 02 | 13.03.20 (sex) | Conceitos Básicos & Tradução Dirigida por Sintaxe | --- |
+| 03 | 17.03.20 (ter) | Análise Léxica | --- |
+| 04 | 20.03.20 (sex) | Análise Léxica | --- |
+| 05 | 24.03.20 (ter) | Análise Sintática | --- |
+| 06 | 27.03.20 (sex) | Análise Sintática | --- |
+| 07 | 31.03.20 (ter) | Análise Sintática | --- |
+| 08 | 03.04.20 (sex) | Análise Sintática | --- |
+| 09 | 07.04.20 (ter) | Análise Semântica | --- |
+| -- | 10.04.20 (sex) | **Páscoa** | --- |
+| 10 | 14.04.20 (ter) | Análise Semântica | --- |
+| 11 | 17.04.20 (sex) | Análise Semântica | --- |
+| 12 | 21.04.20 (ter) | **Tiradentes** | --- |
+| 13 | 24.04.20 (sex) | Análise Semântica | --- |
+| 14 | 28.04.20 (ter) | **1 Exercício Escolar** | --- |
+| -- | 01.05.20 (sex) | **Dia do Trabalho** | --- |
+| 15 | 05.05.20 (ter) | Representações Intermediárias de Código | --- |
+| 16 | 08.05.20 (sex) | Representações Intermediárias de Código | --- |
+| 17 | 12.05.20 (ter) | Representações Intermediárias de Código | --- |
+| 18 | 15.05.20 (sex) | Análise e Otimização de Código | --- |
+| 19 | 19.05.20 (ter) | Análise e Otimização de Código | --- |
+| 20 | 22.05.20 (sex) | Análise e Otimização de Código | --- |
+| 21 | 26.05.20 (seg) | Análise e Otimização de Código | --- |
+| 22 | 29.05.20 (ter) | Ambientes de Execução | --- |
+| 23 | 02.06.20 (sex) | Ambientes de Execução | --- |
+| 24 | 05.06.20 (ter) | Ambientes de Execução | --- |
+| 25 | 09.06.20 (sex) | Geração de Código | --- |
+| 26 | 12.06.20 (ter) | Geração de Código | --- |
+| 27 | 16.06.20 (sex) | Geração de Código | --- |
+| 28 | 19.06.20 (ter) | Geração de Código | --- |
+| 29 | 23.06.20 (sex) | Geração de Código | --- |
+| 30 | 26.06.20 (seg) | **2 Exercício Escolar** | --- |
+| 31 | 30.06.20 (ter) | Tira-dúvidas (_online_ ou na sala do professor) | --- |
+| 32 | 03.07.20 (sex) | **2 Chamada** | --- |
+| 33 | 07.07.20 (ter) | Tira-dúvidas (_online_ ou na sala do professor) | --- |
+| 34 | 10.07.20 (sex) | **Prova Final**  | --- |
