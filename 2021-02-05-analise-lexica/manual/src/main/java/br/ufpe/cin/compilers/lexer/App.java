@@ -3,12 +3,29 @@
  */
 package br.ufpe.cin.compilers.lexer;
 
+import java.io.IOException;
+import java.util.List;
+
 public class App {
-    public String getGreeting() {
-        return "Hello world.";
-    }
+    public static String programa =
+            "x = 3;\n" +
+            "ya = 22+4-10;\n" +
+            "print(x2);";
+
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+
+        Lexer lexer = new Lexer(App.programa);
+        try {
+            List<Token> tokens = lexer.tokens();
+            for (Token t : tokens) {
+                System.out.println(t);
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
     }
 }
