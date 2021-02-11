@@ -71,16 +71,15 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 26.01.21 (ter) | **Sem atividade** | Assíncrona | --- |
 | 29.01.21 (sex) | [Introdução, admin](2021-01-29.md) | Síncrona | --- |
 | 02.02.21 (ter) | [Análise Léxica](2021-02-02.md) | Assíncrona | --- |
-| 05.02.21 (sex) | [Implementando Analisadores Léxicos](2021-02-05.md) | Síncrona | [*Atividade 1 lançada*] |
-| 09.02.21 (ter) | Análise Sintática e Top-Down Parsing | Assíncrona | --- |
-| 12.02.21 (sex) | Gramáticas LL(1) | Síncrona | [*Atividade 2 lançada*] |
+| 05.02.21 (sex) | [Implementando Analisadores Léxicos](2021-02-05.md) | Síncrona | --- |
+| 09.02.21 (ter) | [Análise Sintática e *Top-Down Parsing*](2021-02-09.md) | Assíncrona | --- |
+| 12.02.21 (sex) | _Recursive-descent parsing e Gramáticas LL(1)_ | Síncrona | [*Atividade 1 lançada*] |
 | 16.02.21 (ter) | Bottom-up parsing e LR(0) | Assíncrona | --- |
-| 18.02.21 (qui) | *Deadline para entrega da Atividade 1* | --- | --- |
-| 19.02.21 (sex) | Gramáticas LR(1) | Síncrona | --- |
-| 23.02.21 (ter) | *Parser generators* | Assíncrona | --- |
-| 25.02.21 (qui) | *Deadline para entrega da Atividade 2* | --- | --- |
+| 19.02.21 (sex) | Gramáticas LR(1) | Síncrona | [*Atividade 2 lançada*] |
+| 23.02.21 (ter) | *Parser generators* | Assíncrona | *Deadline para entrega da Atividade 1* |
 | 26.02.21 (sex) | Análise Semântica | Síncrona | [*Atividade 3 lançada*] |
 | 02.03.21 (ter) | Análise Semântica | Assíncrona | --- |
+| 04.03.21 (qui) | *Deadline para entrega da Atividade 2* | --- | --- |
 | 05.03.21 (sex) | Análise Semântica | Síncrona | --- |
 | 09.03.21 (ter) | Representações Intermediárias de código | Assíncrona | --- |
 | 11.03.21 (qui) | *Deadline para entrega da Atividade 3* | --- | --- |
