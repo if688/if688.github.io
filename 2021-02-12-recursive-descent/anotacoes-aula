@@ -1,0 +1,86 @@
+β
+βα
+βαα
+...
+βαααααααααα...
+βαααααααααααααααααααααα
+
+A → Aα 
+A → β
+
+-----
+A → βR
+R → αR | ε
+-----
+
+
+
+expr → expr + term | expr - term | term
+term → 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+ENTRADA: 3 + 2
+expr* => expr* + term => term* + term => 3 + term* => 3 + 2
+
+void expr() {
+    expr();
+    match('+');
+    term();
+}
+
+
+=========== REESCREVENDO E REMOVENDO RECURSAO A ESQUERDA ===========
+
+
+expr -> term rest
+rest -> ε | 
+        + term rest | 
+        - term rest
+term → 0 | 1 | 2 | 3 | 4 | 
+       5 | 6 | 7 | 8 | 9
+
+1 + 2
+
+expr
+=> term rest
+=> 1 rest 
+=> 1 + term rest 
+=> 1 + 2 rest
+=> 1 + 2 ε
+=> 1 + 2
+
+
+
+stmt -> if E then stmt
+stmt -> if E then stmt else stmt
+stmt -> ...
+
+
+Traduzir expressões na forma infixa para pós-fixa
+2 + 1   ====>   2 1 +
+9       ====>   9
+1 + 2 + 3 + 4 ====> (1+2) + 3 + 4 ====> ((1+2)+3)+4
+_________ 4 +
+_____ 3 + 4 +
+1 2 + 3 + 4 +
+
+expr → expr + term { print('+') }
+expr → expr - term { print('-') }
+expr → term
+term → 0           { print('0') }
+term → 1           { print('1') }
+term → 2           { print('2') }
+term → 3           { print('3') }
+term → 4           { print('4') }
+term → 5           { print('5') }
+term → 6           { print('6') }
+term → 7           { print('7') }
+term → 8           { print('8') }
+term → 9           { print('9') }
+
+=========== REESCREVENDO E REMOVENDO RECURSAO A ESQUERDA ===========
+
+
+expr -> term rest
+rest -> ε | 
+        + term { print('+') } rest | 
+        - term { print('-') } rest
+term → num     { print(num.lexema) }
