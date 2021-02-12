@@ -73,7 +73,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 02.02.21 (ter) | [Análise Léxica](2021-02-02.md) | Assíncrona | --- |
 | 05.02.21 (sex) | [Implementando Analisadores Léxicos](2021-02-05.md) | Síncrona | --- |
 | 09.02.21 (ter) | [Análise Sintática e *Top-Down Parsing*](2021-02-09.md) | Assíncrona | --- |
-| 12.02.21 (sex) | [Implementando _recursive-descent parsers_](2021-02-12.md) | Síncrona | [*Atividade 1 lançada*] |
+| 12.02.21 (sex) | [Implementando _recursive-descent parsers_](2021-02-12.md) | Síncrona | [*Atividade 1 lançada*](https://classroom.github.com/a/I6st_6gC) |
 | 16.02.21 (ter) | _Gramáticas LL(1)_ | Assíncrona | --- |
 | 19.02.21 (sex) | Bottom-up parsing - Gramáticas LR(1) | Síncrona | [*Atividade 2 lançada*] |
 | 23.02.21 (ter) | *Parser generators* | Assíncrona | *Deadline para entrega da Atividade 1* |

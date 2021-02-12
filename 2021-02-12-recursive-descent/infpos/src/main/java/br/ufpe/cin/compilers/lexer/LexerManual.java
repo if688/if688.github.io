@@ -72,7 +72,8 @@ public class LexerManual implements ILexer {
                 proximoCaractere();
             }
             String nome = codigoFonte.substring(inicio,posicaoAtual+1);
-            t = new Id(nome);
+            TipoToken tipoToken = Token.checaPalavraChave(nome);
+            t = new Token(tipoToken,nome);
         }
         else if(caractereAtual == EOF) {
             t = new Token(TipoToken.EOF,"$");
