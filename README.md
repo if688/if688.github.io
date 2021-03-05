@@ -75,18 +75,18 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 09.02.21 (ter) | [Análise Sintática e *Top-Down Parsing*](2021-02-09.md) | Assíncrona | --- |
 | 12.02.21 (sex) | [Implementando _recursive-descent parsers_](2021-02-12.md) | Síncrona | [*Atividade 1 lançada*](https://classroom.github.com/a/I6st_6gC) |
 | 16.02.21 (ter) | _Gramáticas LL(1)_ | Assíncrona | --- |
-| 19.02.21 (sex) | Bottom-up parsing - Gramáticas LR(1) | Síncrona | [*Atividade 2 lançada*] |
-| 23.02.21 (ter) | *Parser generators* | Assíncrona | *Deadline para entrega da Atividade 1* |
-| 26.02.21 (sex) | Análise Semântica | Síncrona | [*Atividade 3 lançada*] |
+| 19.02.21 (sex) | Gerando tabelas de parsing LL(1) e Introdução a Bottom-up parsing | Síncrona | [*Atividade 2 lançada*] |
+| 23.02.21 (ter) | Bottom-up parsing | Assíncrona | *Deadline para entrega da Atividade 1* |
+| 26.02.21 (sex) | Gramáticas LR(1) | Síncrona | [*Atividade 3 lançada*] |
 | 02.03.21 (ter) | Análise Semântica | Assíncrona | --- |
 | 04.03.21 (qui) | *Deadline para entrega da Atividade 2* | --- | --- |
 | 05.03.21 (sex) | Análise Semântica | Síncrona | --- |
-| 09.03.21 (ter) | Representações Intermediárias de código | Assíncrona | --- |
+| 09.03.21 (ter) | Análise Semântica | Assíncrona | --- |
 | 11.03.21 (qui) | *Deadline para entrega da Atividade 3* | --- | --- |
-| 12.03.21 (sex) | Representações Intermediárias de código | Síncrona | [*Atividade 4 lançada*] |
+| 12.03.21 (sex) | Análise Semântica | Síncrona | [*Atividade 4 lançada*] |
 | 16.03.21 (ter) | Representações Intermediárias de código | Assíncrona | --- |
 | 19.03.21 (sex) | Representações Intermediárias de código | Síncrona | --- |
-| 23.03.21 (ter) | Análise e Otimização de Código | Assíncrona | --- |
+| 23.03.21 (ter) | Representações Intermediárias de código | Assíncrona | --- |
 | 25.03.21 (qui) | *Deadline para entrega da Atividade 4* | --- | --- |
 | 26.03.21 (sex) | Análise e Otimização de Código | Síncrona | [*Atividade 5 lançada*] |
 | 30.03.21 (ter) | Análise e Otimização de Código | Assíncrona | --- |
@@ -97,7 +97,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 13.04.21 (ter) | Ambientes de Execução | Assíncrona | --- |
 | 16.04.21 (sex) | Ambientes de Execução | Síncrona | --- |
 | 20.04.21 (ter) | Geração de Código | Assíncrona | --- |
-| 25.03.21 (qui) | *Deadline para entrega da Atividade 6* | --- | --- |
+| 22.04.21 (qui) | *Deadline para entrega da Atividade 6* | --- | --- |
 | 23.04.21 (sex) | Geração de Código | Síncrona | --- |
 | 27.04.21 (ter) | Geração de Código | Assíncrona | --- |
 | 30.04.21 (sex) | Geração de Código | Síncrona | --- |
