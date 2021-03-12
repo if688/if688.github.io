@@ -1,5 +1,8 @@
 package br.ufpe.cin.if688.ast;
 
+import br.ufpe.cin.if688.visitor.EvalVisitor;
+import br.ufpe.cin.if688.visitor.IVisitor;
+
 public class DivExpr extends Expr {
     public Expr ladoEsquerdo, ladoDireito;
 
@@ -9,35 +12,8 @@ public class DivExpr extends Expr {
     }
 
     @Override
-    public double eval() {
-        return ladoEsquerdo.eval() / ladoDireito.eval();
+    public <T> T accept(IVisitor<T> v) {
+        System.out.println("accept de DivExpr");
+        return v.visit(this);
     }
-
-    @Override
-    public String posFixa() {
-        return ladoEsquerdo.posFixa() + ladoDireito.posFixa() + " /";
-    }
-
-    @Override
-    public String prettyPrint() {
-        StringBuilder sb = new StringBuilder();
-        if (!(ladoEsquerdo instanceof NumExpr)) {
-            sb.append('(');
-        }
-        sb.append(ladoEsquerdo.prettyPrint());
-        if (!(ladoEsquerdo instanceof NumExpr)) {
-            sb.append(')');
-        }
-        sb.append(" / ");
-        if (!(ladoDireito instanceof NumExpr)) {
-            sb.append('(');
-        }
-        sb.append(ladoDireito.prettyPrint());
-        if (!(ladoDireito instanceof NumExpr)) {
-            sb.append(')');
-        }
-
-        return sb.toString();
-    }
-
 }

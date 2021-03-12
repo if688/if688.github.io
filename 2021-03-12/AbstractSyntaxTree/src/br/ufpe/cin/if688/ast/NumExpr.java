@@ -1,29 +1,18 @@
 package br.ufpe.cin.if688.ast;
 
+import br.ufpe.cin.if688.visitor.EvalVisitor;
+import br.ufpe.cin.if688.visitor.IVisitor;
+
 public class NumExpr extends Expr {
-    int num;
+    public int num;
 
     public NumExpr(int n) {
         num = n;
     }
 
     @Override
-    public String toString() {
-        return String.valueOf(num);
-    }
-
-    @Override
-    public double eval() {
-        return num;
-    }
-
-    @Override
-    public String posFixa() {
-        return this.toString()+' ';
-    }
-
-    @Override
-    public String prettyPrint() {
-        return this.toString();
+    public <T> T accept(IVisitor<T> v) {
+        System.out.println("accept de NumExpr");
+        return v.visit(this);
     }
 }
