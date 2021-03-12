@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71ce5953-3d82-4dd9-bb31-22d38ac98cee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/DivExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/DivExpr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/Expr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/MulExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/MulExpr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/NumExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/NumExpr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/SubExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/SubExpr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/SumExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/SumExpr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufpe/cin/if688/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufpe/cin/if688/parser/Parser.java" afterDir="false" />
-    </list>
+    <list default="true" id="71ce5953-3d82-4dd9-bb31-22d38ac98cee" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,24 +15,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/Expr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/SumExpr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/visitor/PosFixaVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="888">
@@ -49,51 +22,6 @@
               <folding>
                 <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/visitor/IVisitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="15" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/SubExpr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/MulExpr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/DivExpr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,18 +37,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/NumExpr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="62">
@@ -132,13 +48,76 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/Stm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/Expr.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/BooleanExpr.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/PrintStm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/InputStm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/AssignStm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/WhileStm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="30" selection-start-line="6" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -162,13 +141,19 @@
         <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/ast/DivExpr.java" />
         <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/visitor/PosFixaVisitor.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/Expr.java" />
+        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/BooleanExpr.java" />
+        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/PrintStm.java" />
+        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/InputStm.java" />
+        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/AssignStm.java" />
+        <option value="$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/WhileStm.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-548" />
     <option name="y" value="-1057" />
-    <option name="width" value="1618" />
+    <option name="width" value="2560" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -203,14 +188,7 @@
               <item name="AbstractSyntaxTree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="if688" type="462c0819:PsiDirectoryNode" />
-              <item name="ast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AbstractSyntaxTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AbstractSyntaxTree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="if688" type="462c0819:PsiDirectoryNode" />
-              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,6 +208,7 @@
       <recent name="br.ufpe.cin.if688.visitor" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.ufpe.cin.if688.basic" />
       <recent name="br.ufpe.cin.if688.ast" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -295,25 +274,25 @@
       <workItem from="1615483776023" duration="1456000" />
       <workItem from="1615485882374" duration="85000" />
       <workItem from="1615549922833" duration="370000" />
-      <workItem from="1615554208970" duration="4716000" />
+      <workItem from="1615554208970" duration="6374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11140000" />
+    <option name="totallyTimeSpent" value="12798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-548" y="-1057" width="2560" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19221604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19221604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42176166" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42176166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,6 +507,55 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/Stm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/Expr.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/BooleanExpr.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/PrintStm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/InputStm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/AssignStm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufpe/cin/if688/basic/WhileStm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="30" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
