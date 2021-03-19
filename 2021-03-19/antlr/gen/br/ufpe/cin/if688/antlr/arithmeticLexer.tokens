@@ -1,0 +1,14 @@
+LPAREN=1
+RPAREN=2
+PLUS=3
+MINUS=4
+TIMES=5
+DIV=6
+VARIABLE=7
+NUMBER=8
+'('=1
+')'=2
+'+'=3
+'-'=4
+'*'=5
+'/'=6
