@@ -1,20 +1,21 @@
 # IF688 - Teoria e Implementação de Linguagens Computacionais
 
-## Ciência da Computação & Engenharia da Computação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
+## Ciência da Computação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
-### Instrutor
+### Instrutores
 
-* **Professor:** Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
+* **Professor** 
+  * Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
+* **Monitores** 
+  * Guilherme Gouveia Figueiredo Lima ([@Gui-Lima](https://github.com/Gui-Lima) --- ggfl@cin)
+  * Lucas Barros de Almeida Machado ([@lucasbarross](https://github.com/lucasbarross) --- lbam@cin)
+  * Lucas Cardoso Coelho Alves de Oliveira ([@Lucas-CardosoO](https://github.com/Lucas-CardosoO) --- lccao@cin)
+  * Matheus Borba Alves ([@mlbas](https://github.com/mlbas) --- mlbas@cin)
   
-### Horário e Local de Aulas (CC)
+### Horário e Local de Aulas
 
-* Quarta (13h-15h), aula assíncrona
-* Sexta (15h-17h), aula síncrona (google meet)
-
-### Horário e Local de Aulas (EC)
-
-* Terça (15h-17h), aula síncrona (google meet)
-* Quinta (13h-15h), aula assíncrona
+* Terça (8h-10h), aula assíncrona
+* Sexta (10h-12h), aula síncrona (google meet)
 
 ### Ementa
 
@@ -42,6 +43,11 @@ O objetivo da disciplina é fornecer fundamentos para desenvolvimento da compree
 
 Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e tarefas de programação em sala de aula e para casa. 
 
+### Recursos
+
+- [Slack](https://if688.slack.com)
+- [iudex.io](https://iudex.io/group/join/i8hXCJG)
+
 ### Avaliação
 
 * `Nota` = (`Participacao` x 1,5 + `Listas` x 2,5 + `Atividades` x 6,0) / 10 
@@ -57,6 +63,30 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Plano de Ensino
 
-**Plano em atualização!** 
+**Atenção!** 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
+| Data | Assunto | Tipo de Aula | Atividades |
+|:----:|:----------------------:|:----------------------:|:----------------------|
+| 26.01.21 (ter) | **Sem atividade** | Assíncrona | --- |
+| 29.01.21 (sex) | [Introdução, admin](2021-01-29.md) | Síncrona | --- |
+| 02.02.21 (ter) | [Análise Léxica](2021-02-02.md) | Assíncrona | --- |
+| 05.02.21 (sex) | [Implementando Analisadores Léxicos](2021-02-05.md) | Síncrona | --- |
+| 09.02.21 (ter) | [Análise Sintática e *Top-Down Parsing*](2021-02-09.md) | Assíncrona | --- |
+| 12.02.21 (sex) | [Implementando _recursive-descent parsers_](2021-02-12.md) | Síncrona | [*Atividade 1 lançada*](https://classroom.github.com/a/I6st_6gC) |
+| 16.02.21 (ter) | [_Gramáticas LL(1)_](2021-02-16.md) | Assíncrona | --- |
+| 19.02.21 (sex) | [Gerando tabelas de parsing LL(1) e Introdução a Bottom-up parsing](2021-02-19.md) | Síncrona | [*Atividade 2 lançada*](https://classroom.github.com/a/rWLWUINc) |
+| 26.02.21 (sex) | [Bottom-up parsing e Gramáticas LR(1)](2021-02-26.md) | Síncrona | --- |
+| 04.03.21 (qui) | *Deadline para entrega da Atividade 2* | --- | --- |
+| 05.03.21 (sex) | [Análise Semântica - ASTs](2021-03-05.md) | Síncrona | --- |
+| 12.03.21 (sex) | [Análise Semântica - *Visitors*](2021-03-12.md) | Síncrona | --- |
+| 19.03.21 (sex) | [Análise Semântica - Tabelas de Símbolos & ANTLR](2021-03-19.md) | Síncrona | --- |
+| 24.03.21 (qua) | [*Atividade 3 lançada*](https://classroom.github.com/a/rWLWUINc) | --- | --- |
+| 26.03.21 (sex) | [Representações Intermediárias de código](2021-03-26.md) | Síncrona | --- |
+| 02.04.21 (sex) | **Páscoa** | --- | --- |
+| 09.04.21 (sex) | Representações Intermediárias de código e Análise e Otimização de Código | Síncrona | *Deadline para entrega da Atividade 3* |
+| 16.04.21 (sex) | Análise e Otimização de Código | Síncrona | --- |
+| 23.04.21 (sex) | Análise e Otimização de Código | Síncrona | --- |
+| 27.04.21 (ter) | Ambientes de Execução | Assíncrona | --- |
+| 30.04.21 (sex) | Geração de Código | Síncrona | --- |
+| 04.05.21 (ter) | **Prova Final** | Síncrona | --- |
