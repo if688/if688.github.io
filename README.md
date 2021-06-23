@@ -55,8 +55,6 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
   - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
   - Trabalhos **“CTRL-C + CTRL-V”** terão nota **zero** (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
 
-### Plano de Ensino
+### [Plano de Ensino - Ciência da Computação](2020.2-cc/plano.md)
 
-**Plano em atualização!** 
-*Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
-
+### [Plano de Ensino - Engenharia da Computação](2020.2-ec/plano.md)
