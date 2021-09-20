@@ -58,7 +58,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | Data | Assunto | Tipo de Aula | Atividades |
 |:----:|:----------------------:|:----------------------:|:----------------------|
-| 20.09.21 (seg) | [Introdução, admin](2021-09-21.md) | Síncrona | --- |
+| 20.09.21 (seg) | [Introdução, admin](2021-09-20.md) | Síncrona | --- |
 | 22.09.21 (qua) | [Análise Léxica](2021-09-22.md) | Assíncrona | --- |
 | 27.09.21 (seg) | [Análise Léxica](2021-09-27.md) | Síncrona | **Exercício 1 Lançado** |
 | 29.09.21 (qua) | [Análise Sintática](2021-09-29.md) | Assíncrona | --- |
