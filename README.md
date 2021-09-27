@@ -60,8 +60,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 |:----:|:----------------------:|:----------------------:|:----------------------|
 | 20.09.21 (seg) | [Introdução, admin](2021-09-20.md) | Síncrona | --- |
 | 22.09.21 (qua) | [Análise Léxica](2021-09-22.md) | Assíncrona | --- |
-| 27.09.21 (seg) | [Análise Léxica](2021-09-27.md) | Síncrona | **Exercício 1 Lançado** |
-| 29.09.21 (qua) | [Análise Sintática](2021-09-29.md) | Assíncrona | --- |
+| 27.09.21 (seg) | [Implementando Analisadores Léxicos](2021-09-27.md) | Síncrona | **Exercício 1 Lançado** |
+| 29.09.21 (qua) | [Análise Sintática e Top-Down Parsing](2021-09-29.md) | Assíncrona | --- |
 | 04.10.21 (seg) | [Análise Sintática](2021-10-04.md) | Síncrona | --- |
 | 06.10.21 (qua) | [Análise Sintática](2021-10-06.md) | Assíncrona | --- |
 | 11.10.21 (seg) | [Análise Semântica](2021-10-11.md) | Assíncrona | **Exercício 2 Lançado** |
