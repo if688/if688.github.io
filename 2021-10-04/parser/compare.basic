@@ -1,0 +1,11 @@
+PRINT "Type a number"
+INPUT num
+IF num > 100 THEN
+  PRINT "Maior que 100"
+ENDIF
+IF num < 100 THEN
+  PRINT "Menor que 100"
+ENDIF
+IF num == 100 THEN
+  PRINT "Digitou 100"
+ENDIF
