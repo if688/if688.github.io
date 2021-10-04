@@ -1,4 +1,5 @@
 from lexer import *
+from parser import *
 import sys
 
 def main(): 
@@ -8,9 +9,9 @@ def main():
         input = inputFile.read()
 
     lexer = Lexer(input)
-    token = lexer.getToken()
-    while token.tipo != TokenType.EOF:
-        print(token.tipo)
-        token = lexer.getToken()
+    parser = Parser(lexer)
+    parser.parse()
+    print("Terminamos.")
+
 
 main()
