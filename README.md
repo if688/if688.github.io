@@ -70,8 +70,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 20.10.21 (qua) | [Análise Semântica](2021-10-20.md) | Assíncrona | --- |
 | 25.10.21 (seg) | [Análise Semântica](2021-10-25.md) | Síncrona | **Exercício 3 Lançado** |
 | 27.10.21 (qua) | [Análise Semântica](2021-10-27.md) | Assíncrona | --- |
-| 01.11.21 (seg) | [Representações Intermediárias de Código](2021-11-01.md) | Assíncrona | --- |
-| 03.11.21 (qua) | [Análise Semântica](2021-11-03.md) | Síncrona | --- |
+| 01.11.21 (seg) | [Análise Semântica](2021-11-01.md) | Síncrona | --- |
+| 03.11.21 (qua) | [Representações Intermediárias de Código](2021-11-03.md) | Assíncrona | --- |
 | 08.11.21 (seg) | [Representações Intermediárias de Código](2021-11-08.md) | Síncrona | **Exercício 4 Lançado** |
 | 10.11.21 (qua) | [Chamadas de Procedimento e Função](2021-11-10.md) | Assíncrona | --- |
 | 15.11.21 (seg) | **Proclamação da República** | --- | --- |
