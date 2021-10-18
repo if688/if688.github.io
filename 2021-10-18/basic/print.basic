@@ -1,0 +1,31 @@
+PRINT y>=0
+
+INPUT x
+
+LET x = a+2*y/3
+LET b = x > 12 + 12
+LET s = "oi"
+
+PRINT a == b == c != d == e
+
+PRINT 1*y
+
+PRINT "w"
+
+IF x+2 THEN
+  
+    WHILE z == w REPEAT
+        PRINT z
+        IF w > 0 THEN
+            LET w = w-1
+        ENDIF
+        LET z = z+1
+    ENDWHILE
+  
+  PRINT x
+  
+  INPUT u
+
+ENDIF
+
+PRINT x+2
