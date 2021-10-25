@@ -1,5 +1,6 @@
 from lexer import *
 from parser import *
+from astvisitor import *
 import sys
 
 def main(): 
@@ -11,6 +12,16 @@ def main():
     lexer = Lexer(input)
     parser = Parser(lexer)
     explist = parser.parse()
-    print("Terminamos o parsing, tudo ok.")
-  
+    # Loop abaixo calcula o resultado da expressão, não pode ter Identificadores
+    # for exp in explist:
+    #     resultadoEval = str(exp.eval())
+    #     resultadoVisitor = str(Eval(exp).eval())
+    #     posFixa = PosFixa(exp).posFixa()
+    #     parenteses = ParenthesisPrint(exp).parenthesize()
+    #     print(parenteses + " == " + resultadoEval + " == " + resultadoVisitor + " == " + posFixa)
+    # Loop apenas para posfixa e parenteses
+    for exp in explist:
+        posFixa = PosFixa(exp).posFixa()
+        parenteses = ParenthesisPrint(exp).parenthesize()
+        print(parenteses + " == " + posFixa)  
 main()
