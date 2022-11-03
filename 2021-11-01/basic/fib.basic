@@ -5,6 +5,9 @@ PROGRAM fibonacci BEGIN
     DECL a : INT
     DECL b : INT
     DECL c : INT
+    DECL d : INT
+    DECL e : STRING
+    DECL f : BOOLEAN
     LET a = 0
     LET b = 1
 
@@ -18,9 +21,9 @@ PROGRAM fibonacci BEGIN
     
     PRINT b
     BLOCK teste BEGIN
-        DECL b : STRING
-        LET b = "teste"
-        PRINT b
+        DECL w : STRING
+        LET w = "Algum valor"
+        PRINT w
     ENDBLOCK
     PRINT b
 ENDPROGRAM

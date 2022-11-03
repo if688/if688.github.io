@@ -56,6 +56,7 @@ class Parser:
     #   INPUT IDENTIFICADOR nl |
     #   DECL IDENTIFICADOR ":" (INT | BOOLEAN | STRING) nl |
     #   LET IDENTIFICADOR "=" expression nl |
+    #   BLOCK IDENT BEGIN nl {statement} ENDBLOCK nl |
     #   WHILE expression REPEAT nl {statement} ENDWHILE nl |
     #   IF expression "THEN" nl {statement} ENDIF nl
     def statement(self):

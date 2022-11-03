@@ -13,7 +13,15 @@ def main():
     parser = Parser(lexer)
     program = parser.parse()
     print(program)
-    visitor = PythonGenVisitor(program)
-    print(visitor.generatePython())
+    visitor = CountVars(program)
+    print("Número de variáveis declaradas: " + str(visitor.count()))
+    visitor = CountPrint(program)
+    print("Número de statements print: " + str(visitor.count()))
+    visitor = Interpreter(program)
+    print(visitor.symbolTable)
+    visitor.interpret()
+    print(visitor.symbolTable)
+
+    
 
 main()

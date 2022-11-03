@@ -1,0 +1,6 @@
+INPUT x
+LET m = x+2*3
+LET s = "oi"
+PRINT 1*m
+PRINT "w"
+PRINT x+2
