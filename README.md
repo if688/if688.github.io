@@ -1,16 +1,15 @@
 # IF688 - Teoria e Implementação de Linguagens Computacionais
 
-## Engenharia da Computação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
+## Ciência da Computação & Engenharia da Computação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
 ### Instrutor
 
 * **Professor:** Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
-* **Monitor:** Matheus Viana Coelho Albuquerque ([@matheusalb](https://github.com/matheusalb) --- mvca@cin)
   
 ### Horário e Local de Aulas
 
-* Segunda (10h-12h), aula síncrona (google meet)
-* Quarta (8h-10h), aula assíncrona
+* Terça (10h-12h), Sala E233
+* Quinta (8h-10h), Sala E233
 
 ### Ementa
 
@@ -20,10 +19,12 @@ O conteúdo planejado inclui uma introdução aos princípios e técnicas de con
 ### Bibliografia Sugerida
 
 - [Keith Cooper & Linda Torczon. Engineering a Compiler. 2nd Edition, Morgan Kaufmann, 2012](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
+- [Robert Nystrom. Crafting interpreters. Genever Benning, 2021.](https://craftinginterpreters.com/)
+- [Jeremy G. Siek. Essentials of Compilation: An Incremental Approach in Racket/Python. 1st Edition, MIT Press, 2023](https://mitpress.mit.edu/9780262048248/essentials-of-compilation/)
 - [Dick Grune, Kees Van Reeuwijk, Henri E. Bal, Ceriel J. H. Jacobs, and Koen Langendoen. Modern Compiler Design. 2nd Edition, Springer, 2012](https://dickgrune.com/Books/MCD_2nd_Edition/)
-- [Andrew Appel & Jens Palsberg. Modern Compiler Implementation in Java. 2nd edition, Cambridge University Press, 2003](https://www.cs.princeton.edu/~appel/modern/java/)
 
 ### Bibliografia Complementar
+- [Andrew Appel & Jens Palsberg. Modern Compiler Implementation in Java. 2nd edition, Cambridge University Press, 2003](https://www.cs.princeton.edu/~appel/modern/java/)
 - [Alfred Aho, Monica Lam, Ravi Sethi, and Jeffrey Ullman. Compilers: Principles, Techniques, and Tools. 2nd Edition, Addison-Wesley, 2006](http://dragonbook.stanford.edu)
 - [Michael Scott. Programming Language Pragmatics. 3rd edition, Morgan Kaufmann, 2009](https://www.cs.rochester.edu/u/scott/pragmatics/3e/)
 - [Dick Grune & Ceriel J.H. Jacobs. Parsing Techniques. 2nd edition, Springer, 2008](https://dickgrune.com/Books/PTAPG_2nd_Edition/)
@@ -41,50 +42,57 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Avaliação
 
-* `Nota` = (`Participacao` x 1,5 + `Listas` x 2,5 + `Atividades` x 6,0) / 10 
-  * `Participacao` = Participação nas aulas, resposta a quizzes lançados no classroom
-  * `Listas` = Listas de exercício
+* `Nota` = (`Participacao` x 1 + `Atividades` x 4,5 + `Provas` x 4,5) / 10 
+  * `Participacao` = Participação nas aulas e respostas a quizzes lançados no google classroom
   * `Atividades` = Atividades de programação
-* `Final`: Chamada oral
+  * `Provas` = Exercícios escolares
+* `Final`
 
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
   - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
   - Trabalhos **“CTRL-C + CTRL-V”** terão nota **zero** (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
 
-### Plano de Ensino - Engenharia da Computação
+### Plano de Ensino
 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| Data | Assunto | Tipo de Aula | Atividades |
-|:----:|:----------------------:|:----------------------:|:----------------------|
-| 20.09.21 (seg) | [Introdução, admin](2021-09-20.md) | Síncrona | --- |
-| 22.09.21 (qua) | [Análise Léxica](2021-09-22.md) | Assíncrona | --- |
-| 27.09.21 (seg) | [Implementando Analisadores Léxicos](2021-09-27.md) | Síncrona | **Exercício 1 Lançado** |
-| 29.09.21 (qua) | [Análise Sintática e Top-Down Parsing](2021-09-29.md) | Assíncrona | --- |
-| 04.10.21 (seg) | [Análise Sintática](2021-10-04.md) | Síncrona | --- |
-| 06.10.21 (qua) | [Análise Sintática](2021-10-06.md) | Assíncrona | --- |
-| 11.10.21 (seg) | [Análise Semântica](2021-10-11.md) | Assíncrona | **Exercício 2 Lançado** |
-| 13.10.21 (qua) | [Análise Sintática](2021-10-13.md) | Síncrona | --- |
-| 18.10.21 (seg) | [Análise Semântica](2021-10-18.md) | Síncrona | --- |
-| 20.10.21 (qua) | [Análise Semântica](2021-10-20.md) | Assíncrona | --- |
-| 25.10.21 (seg) | [Análise Semântica](2021-10-25.md) | Síncrona | **Exercício 3 Lançado** |
-| 27.10.21 (qua) | [Análise Semântica](2021-10-27.md) | Assíncrona | --- |
-| 01.11.21 (seg) | [Análise Semântica](2021-11-01.md) | Síncrona | --- |
-| 03.11.21 (qua) | [Representações Intermediárias de Código](2021-11-03.md) | Assíncrona | --- |
-| 08.11.21 (seg) | [Representações Intermediárias de Código](2021-11-08.md) | Síncrona | **Exercício 4 Lançado** |
-| 10.11.21 (qua) | [Chamadas de Procedimento e Função](2021-11-10.md) | Assíncrona | --- |
-| 15.11.21 (seg) | **Proclamação da República** | --- | --- |
-| 17.11.21 (qua) | [Chamadas de Procedimento e Função](2021-11-17.md) | Síncrona | --- |
-| 22.11.21 (seg) | [Análise e Otimização de Código](2021-11-22.md) | Síncrona | **Exercício 5 Lançado** |
-| 24.11.21 (qua) | [Análise e Otimização de Código](2021-11-24.md) | Assíncrona | --- |
-| 29.11.21 (seg) | [Análise e Otimização de Código](2021-11-29.md) | Síncrona | --- |
-| 01.12.21 (qua) | [Ambientes de Execução](2021-12-01.md) | Assíncrona | --- |
-| 06.12.21 (seg) | [Ambientes de Execução](2021-12-06.md) | Síncrona | **Exercício 6 Lançado** |
-| 08.12.21 (qua) | **Nossa Senhora da Conceição** | --- | --- |
-| 13.12.21 (seg) | [Ambientes de Execução](2021-12-13.md) | Síncrona | --- |
-| 15.12.21 (qua) | [Geração de Código](2021-12-15.md) | Assíncrona | --- |
-| 20.12.21 (seg) | [Geração de Código](2021-12-20.md) | Síncrona | **Exercício 7 Lançado** |
-| 22.12.21 (qua) | Exercícios de recuperação | Assíncrona | --- |
-| 27.12.21 (seg) | Exercícios de recuperação | Assíncrona | --- |
-| 30.12.21 (sab) | **Prazo pra Lançamento de notas no SIG@** | --- | --- |
+
+| Data | Dia | Conteúdo Programático | Atividades Associadas |
+|-----------------|---------------|-----------------------|----------------------|
+| 30.05.23        | Terça         |  Introdução, admin                                |                      |
+| 01.06.23        | Quinta        | Conceitos Básicos e Análise Léxica                |                      |
+| 06.06.23        | Terça         | Implementando Analisadores Léxicos                |                      |
+| 08.06.23        | Quinta        | **Corpus Christi – Ponto facultativo**            | ---                  |
+| 13.06.23        | Terça         | Introdução à Análise Sintática e Top-Down Parsing |                      |
+| 15.06.23        | Quinta        | Análise Sintática - Top-Down parsing - LL(1) |                      |
+| 20.06.23        | Terça         | Análise Sintática - Bottom-up parsing |                      |
+| 22.06.23        | Quinta        | Análise Sintática - Bottom-up parsing - LR(1) |                      |
+| 27.06.23        | Terça         | Análise Semântica     |                      |
+| 29.06.23        | Quinta        | Análise Semântica     |                      |
+| 04.07.23        | Terça         | Análise Semântica     |                      |
+| 06.07.23        | Quinta        | Análise Semântica     |                      |
+| 11.07.23        | Terça         | Análise Semântica     |                      |
+| 13.07.23        | Quinta        | **1 Exercício Escolar**     |                      |
+| 18.07.23        | Terça         | Representações Intermediárias de Código |                      |
+| 20.07.23        | Quinta        | Representações Intermediárias de Código |                      |
+| 25.07.23        | Terça         | Representações Intermediárias de Código |                      |
+| 27.07.23        | Quinta        | Representações Intermediárias de Código |                      |
+| 01.08.23        | Terça         | Análise e Otimização de Código |                      |
+| 03.08.23        | Quinta        | Análise e Otimização de Código |                      |
+| 08.08.23        | Terça         | Análise e Otimização de Código |                      |
+| 10.08.23        | Quinta        | Análise e Otimização de Código |                      |
+| 15.08.23        | Terça         | Ambientes de Execução |                      |
+| 17.08.23        | Quinta        | Ambientes de Execução |                      |
+| 22.08.23        | Terça         | Geração de Código |                      |
+| 24.08.23        | Quinta        | Geração de Código |                      |
+| 29.08.23        | Terça         | Geração de Código |                      |
+| 31.08.23        | Quinta        | Geração de Código |                      |
+| 05.09.23        | Terça         | **2 Exercício Escolar**     |                      |
+| *07.09.23*      | Quinta        | **Independência do Brasil** |                      |
+| 12.09.23        | Terça         | **2a Chamada**     |                      |
+| 14.09.23        | Quinta        | Tira dúvidas |                      |
+| 19.09.23        | Terça         | **Prova Final**     |                      |
+| 21.09.23        | Quinta        | *Buffer*                      |                      |
+| 26.09.23        | Terça         | *Buffer*                      |                      |
+| 28.09.23        | Quinta        | *Buffer*                      |                      |
