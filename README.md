@@ -40,6 +40,13 @@ O objetivo da disciplina é fornecer fundamentos para desenvolvimento da compree
 
 Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e tarefas de programação em sala de aula e para casa. 
 
+### Recursos
+
+- [Discord](https://discord.gg/QGTDeSVH)
+- [Google Classroom](https://classroom.google.com/c/NTU0MjM5MDUwODI1?cjc=qshjvmw)
+- Github Classroom - Ver instruções no Google Classroom
+
+
 ### Avaliação
 
 * `Nota` = (`Participacao` x 1 + `Atividades` x 4,5 + `Provas` x 4,5) / 10 
