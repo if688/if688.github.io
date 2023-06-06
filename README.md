@@ -69,7 +69,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 |-----------------|---------------|-----------------------|----------------------|
 | 30.05.23        | Terça         |  [Introdução, admin](2023-05-30.md)                                |           ---           |
 | 01.06.23        | Quinta        | [Conceitos Básicos e Análise Léxica](2023-06-01.md)                 |           Responder Pesquisa Inicial           |
-| 06.06.23        | Terça         | Implementando Analisadores Léxicos                |                      |
+| 06.06.23        | Terça         | [Implementando Analisadores Léxicos](2023-06-06.md)                |                      |
 | 08.06.23        | Quinta        | **Corpus Christi – Ponto facultativo**            | ---                  |
 | 13.06.23        | Terça         | Introdução à Análise Sintática e Top-Down Parsing |                      |
 | 15.06.23        | Quinta        | Análise Sintática - Top-Down parsing - LL(1) |                      |
