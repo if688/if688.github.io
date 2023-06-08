@@ -42,7 +42,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Recursos
 
-- [Discord](https://discord.gg/QGTDeSVH)
+- [Discord](https://discord.gg/tSrdXTwKvQ)
 - [Google Classroom](https://classroom.google.com/c/NTU0MjM5MDUwODI1?cjc=qshjvmw)
 - Github Classroom - Ver instruções no Google Classroom
 
