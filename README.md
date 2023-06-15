@@ -71,11 +71,11 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 01.06.23        | Quinta        | [Conceitos Básicos e Análise Léxica](2023-06-01.md)                 |           Responder Pesquisa Inicial           |
 | 06.06.23        | Terça         | [Implementando Analisadores Léxicos](2023-06-06.md)                |                      |
 | 08.06.23        | Quinta        | **Corpus Christi – Ponto facultativo**            | ---                  |
-| 13.06.23        | Terça         | Introdução à Análise Sintática e Top-Down Parsing |                      |
-| 15.06.23        | Quinta        | Análise Sintática - Top-Down parsing - LL(1) |                      |
-| 20.06.23        | Terça         | Análise Sintática - Bottom-up parsing |                      |
-| 22.06.23        | Quinta        | Análise Sintática - Bottom-up parsing - LR(1) |                      |
-| 27.06.23        | Terça         | Análise Semântica     |                      |
+| 13.06.23        | Terça         | [Gerando Analisadores Léxicos e Introdução à Análise Sintática](2023-06-13.md) |                      |
+| 15.06.23        | Quinta        | [Top-Down parsing (Recursive Descent)](2023-06-15.md) |                      |
+| 20.06.23        | Terça         | Análise Sintática - LL(1) |                      |
+| 22.06.23        | Quinta        | Análise Sintática - Bottom-up parsing |                      |
+| 27.06.23        | Terça         | Análise Sintática - Bottom-up parsing     |                      |
 | 29.06.23        | Quinta        | Análise Semântica     |                      |
 | 04.07.23        | Terça         | Análise Semântica     |                      |
 | 06.07.23        | Quinta        | Análise Semântica     |                      |
