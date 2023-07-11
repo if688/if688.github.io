@@ -73,15 +73,15 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 08.06.23        | Quinta        | **Corpus Christi – Ponto facultativo**            | ---                  |
 | 13.06.23        | Terça         | [Gerando Analisadores Léxicos e Introdução à Análise Sintática](2023-06-13.md) |                      |
 | 15.06.23        | Quinta        | [Top-Down parsing (Recursive Descent)](2023-06-15.md) |                      |
-| 20.06.23        | Terça         | Análise Sintática - LL(1) |                      |
-| 22.06.23        | Quinta        | Análise Sintática - Bottom-up parsing |                      |
-| 27.06.23        | Terça         | Análise Sintática - Bottom-up parsing     |                      |
-| 29.06.23        | Quinta        | Análise Semântica     |                      |
-| 04.07.23        | Terça         | Análise Semântica     |                      |
-| 06.07.23        | Quinta        | Análise Semântica     |                      |
-| 11.07.23        | Terça         | Análise Semântica     |                      |
-| 13.07.23        | Quinta        | **1 Exercício Escolar**     |                      |
-| 18.07.23        | Terça         | Representações Intermediárias de Código |                      |
+| 20.06.23        | Terça         | [Análise Sintática - LL(1)](2023-06-20.md) |                      |
+| 22.06.23        | Quinta        | [Análise Sintática](2023-06-22.md) |                      |
+| 27.06.23        | Terça         | [Análise Sintática - Bottom-up parsing](2023-06-22.md)     |                      |
+| 29.06.23        | Quinta        | [Análise Sintática - Bottom-up parsing](https://drive.google.com/file/d/1Ier92sPaP-8G_l_mVaOjN-pAevyzj81p/view)     |                      |
+| 04.07.23        | Terça         | [Exercícios  e Análise Semântica - Introdução](2023-07-04.md)     |                      |
+| 06.07.23        | Quinta        | [Análise Semântica - Tipos](2023-07-06.md)     |                      |
+| 11.07.23        | Terça         | [Análise Semântica - AST e Escopo](2023-07-11.md)     |                      |
+| 13.07.23        | Quinta        | [Análise Semântica - Implementando Visitors](2023-07-13.md)     |                      |
+| 18.07.23        | Terça         | **1 Exercício Escolar** |                      |
 | 20.07.23        | Quinta        | Representações Intermediárias de Código |                      |
 | 25.07.23        | Terça         | Representações Intermediárias de Código |                      |
 | 27.07.23        | Quinta        | Representações Intermediárias de Código |                      |
