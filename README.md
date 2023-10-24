@@ -7,7 +7,15 @@
 * **Professor:** Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
 
 * **Monitores:** 
-  - Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
+  - Beatriz de Araújo Andrade ([@BeatrizA2](https://github.com/BeatrizA2) --- <baa@cin>)
+  - Beatriz de Oliveira Férre ([@biaferre](https://github.com/biaferre) --- <bof@cin>)
+  - Bruno de Figueirêdo Lima ([@Brunonaive03](https://github.com/Brunonaive03) --- <bfl3@cin>)
+  - Diogo Pedro de França Silva ([@DiogoPedro](https://github.com/DiogoPedro) --- <dpfs@cin>)
+  - Eliab Bernardino de Paula Junior ([@eliab2107](https://github.com/eliab2107) --- <ebpj@cin>)
+  - Ernesto Gonçalves de Lima Neto ([@ergdln](https://github.com/ergdln) --- <egln@cin>)
+  - Geovany Ícaro Lima Nunes ([@Icaro-Nunes](https://github.com/Icaro-Nunes) --- <giln@cin>)
+  - Luiza Diniz Mendes Monteiro Luna ([@dinizluiza](https://github.com/dinizluiza) --- <ldmml@cin>)
+  - Pedro Augusto de Almada Lobo Fonseca ([@pedroalfonseca](https://github.com/pedroalfonseca) --- <paalf@cin>)
 
 ### Horário e Local de Aulas
 
@@ -45,8 +53,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Recursos
 
-- [Discord](https://discord.gg/tSrdXTwKvQ)
-- [Google Classroom](https://classroom.google.com/c/NTU0MjM5MDUwODI1?cjc=qshjvmw)
+- [Discord](https://discord.gg/hXkRxyez)
+- [Google Classroom](https://classroom.google.com/c/NjM0MDYxNTk1NTI3?cjc=fa6nvzx)
 - Github Classroom - Ver instruções no Google Classroom
 
 
