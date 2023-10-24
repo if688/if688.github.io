@@ -1,0 +1,5 @@
+LET z = x+y;
+LET x = 2*4;
+LET y = z;
+|
+3+z;

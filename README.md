@@ -5,11 +5,14 @@
 ### Instrutor
 
 * **Professor:** Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
-  
+
+* **Monitores:** 
+  - Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
+
 ### Horário e Local de Aulas
 
-* Terça (10h-12h), Sala E233
-* Quinta (8h-10h), Sala E233
+* Terça (13h-15h), Sala E233
+* Quinta (15h-17h), Sala E233
 
 ### Ementa
 
@@ -49,8 +52,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Avaliação
 
-* `Nota` = (`Participacao` x 1 + `Atividades` x 4,5 + `Provas` x 4,5) / 10 
-  * `Participacao` = Participação nas aulas e respostas a quizzes lançados no google classroom
+* `Nota` = (`Atividades` x 5 + `Provas` x 5) / 10 
   * `Atividades` = Atividades de programação
   * `Provas` = Exercícios escolares
 * `Final`
@@ -65,41 +67,51 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
 
+
 | Data | Dia | Conteúdo Programático | Atividades Associadas |
-|-----------------|---------------|-----------------------|----------------------|
-| 30.05.23        | Terça         |  [Introdução, admin](2023-05-30.md)                                |           ---           |
-| 01.06.23        | Quinta        | [Conceitos Básicos e Análise Léxica](2023-06-01.md)                 |           Responder Pesquisa Inicial           |
-| 06.06.23        | Terça         | [Implementando Analisadores Léxicos](2023-06-06.md)                |                      |
-| 08.06.23        | Quinta        | **Corpus Christi – Ponto facultativo**            | ---                  |
-| 13.06.23        | Terça         | [Gerando Analisadores Léxicos e Introdução à Análise Sintática](2023-06-13.md) |                      |
-| 15.06.23        | Quinta        | [Top-Down parsing (Recursive Descent)](2023-06-15.md) |                      |
-| 20.06.23        | Terça         | [Análise Sintática - LL(1)](2023-06-20.md) |                      |
-| 22.06.23        | Quinta        | [Análise Sintática](2023-06-22.md) |                      |
-| 27.06.23        | Terça         | [Análise Sintática - Bottom-up parsing](2023-06-22.md)     |                      |
-| 29.06.23        | Quinta        | [Análise Sintática - Bottom-up parsing](https://drive.google.com/file/d/1Ier92sPaP-8G_l_mVaOjN-pAevyzj81p/view)     |                      |
-| 04.07.23        | Terça         | [Exercícios  e Análise Semântica - Introdução](2023-07-04.md)     |                      |
-| 06.07.23        | Quinta        | [Análise Semântica - Tipos](2023-07-06.md)     |                      |
-| 11.07.23        | Terça         | [Análise Semântica - AST e Escopo](2023-07-11.md)     |                      |
-| 13.07.23        | Quinta        | [Análise Semântica - Implementando Visitors](2023-07-13.md)     |                      |
-| 18.07.23        | Terça         | **1 Exercício Escolar** |                      |
-| 20.07.23        | Quinta        | Representações Intermediárias de Código |                      |
-| 25.07.23        | Terça         | Representações Intermediárias de Código |                      |
-| 27.07.23        | Quinta        | Representações Intermediárias de Código |                      |
-| 01.08.23        | Terça         | Análise e Otimização de Código |                      |
-| 03.08.23        | Quinta        | Análise e Otimização de Código |                      |
-| 08.08.23        | Terça         | Análise e Otimização de Código |                      |
-| 10.08.23        | Quinta        | Análise e Otimização de Código |                      |
-| 15.08.23        | Terça         | Ambientes de Execução |                      |
-| 17.08.23        | Quinta        | Ambientes de Execução |                      |
-| 22.08.23        | Terça         | Geração de Código |                      |
-| 24.08.23        | Quinta        | Geração de Código |                      |
-| 29.08.23        | Terça         | Geração de Código |                      |
-| 31.08.23        | Quinta        | Geração de Código |                      |
-| 05.09.23        | Terça         | **2 Exercício Escolar**     |                      |
-| *07.09.23*      | Quinta        | **Independência do Brasil** |                      |
-| 12.09.23        | Terça         | **2a Chamada**     |                      |
-| 14.09.23        | Quinta        | Tira dúvidas |                      |
-| 19.09.23        | Terça         | **Prova Final**     |                      |
-| 21.09.23        | Quinta        | *Buffer*                      |                      |
-| 26.09.23        | Terça         | *Buffer*                      |                      |
-| 28.09.23        | Quinta        | *Buffer*                      |                      |
+|-----------------|---------------|-----------------------|------------------------|
+| 24.10.23        | Terça         | Introdução, admin     |                        |
+| 26.10.23        | Quinta        |  Análise Léxica       |                        |
+| 31.10.23        | Terça         |  Análise Léxica       |                        |
+| 02.11.23        | Quinta        | **FERIADO** - DIA DE FINADOS |                 |
+| 07.11.23        | Terça         | Análise Sintática     |                        |
+| 09.11.23        | Quinta        | Análise Sintática | |
+| 14.11.23        | Terça         | Análise Sintática | |
+| 16.11.23        | Quinta        | Análise Sintática | |
+| 21.11.23        | Terça         | Análise Semântica | |
+| 23.11.23        | Quinta        | Análise Semântica | |
+| 28.11.23        | Terça         | Análise Semântica | |
+| 30.11.23        | Quinta        | Análise Semântica | |
+| 05.12.23        | Terça         | Revisão | |
+| 07.12.23        | Quinta        | **1 Exercício Escolar** |                      |
+| 12.12.23        | Terça         | Representações Intermediárias de Código |      |
+| 14.12.23        | Quinta        | Representações Intermediárias de Código |      |
+| 19.12.23        | Terça         | Análise e Otimização de Código |               |
+| 21.12.23        | Quinta        | Análise e Otimização de Código |               |
+| 26.12.23        | Terça         | **Recesso Escolar**   | ---                    |
+| 28.12.23        | Quinta        | **Recesso Escolar**   | ---                    |
+| 02.01.24        | Terça         | **Recesso Escolar**   | ---                    |
+| 04.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
+| 09.01.24        | Terça         | **Recesso Escolar**   | ---                    |
+| 11.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
+| 16.01.24        | Terça         | **Recesso Escolar**   | ---                    |
+| 18.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
+| 23.01.24        | Terça         | **Recesso Escolar**   | ---                    |
+| 25.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
+| 30.01.24        | Terça         | Análise e Otimização de Código |               |
+| 01.02.24        | Quinta        | Análise e Otimização de Código |               |
+| 06.02.24        | Terça         | APS                   |                        |
+| 08.02.24        | Quinta        | APS                   |                        |
+| 13.02.24        | Terça         | **CARNAVAL**          |                        |
+| 15.02.24        | Quinta        | Ambientes de Execução |                        |
+| 20.02.24        | Terça         | Ambientes de Execução |                        |
+| 22.02.24        | Quinta        | Ambientes de Execução |                        |
+| 27.02.24        | Terça         | Geração de Código     |                        |
+| 29.02.24        | Quinta        | Geração de Código     |                        |
+| 05.03.24        | Terça         | Geração de Código     |                        |
+| 07.03.24        | Quinta        | Geração de Código     |                        |
+| 12.03.24        | Terça         | Revisão               |                      |
+| 14.03.24        | Quinta        | **2 Exercício Escolar** |                      |
+| 19.03.24        | Terça         | Tira-dúvidas          |                        |
+| 21.03.24        | Quinta        | **Segunda Chamada** |                      |
+| 28.03.24        | Quinta        | **Prova Final** |                      |
