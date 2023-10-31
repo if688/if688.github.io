@@ -10,20 +10,27 @@ class Lexer:
     
     # Processa o próximo caractere
     def proximoCaractere(self):
-        pass
+        self.posicaoAtual+=1
+        if self.posicaoAtual >= len(self.source):
+            self.caractereAtual = None #EOF
+        else:
+            self.caractereAtual = self.source[self.posicaoAtual]
 
     # Retorna o caractere de lookahead (qual o que vem aí)
     def peek(self):
-        pass
-
+        if self.posicaoAtual+1 >= len(self.source):
+            return None #EOF
+        else:
+            return self.source[self.posicaoAtual+1]
 
     # Token inválido, imprime mensagem de erro
     def abort(self, message):
-        pass
+        sys.exit('Erro Léxico: '+message)
 		
     # Pula espaços em branco
     def skipWhitespace(self):
-        pass
+        while self.caractereAtual == ' ' or self.caractereAtual == '\t' or self.caractereAtual == '\n': 
+            self.proximoCaractere()
 		
     # Pula comentários
     def skipComment(self):
@@ -31,14 +38,77 @@ class Lexer:
 
     # Retorna o próximo token
     def getToken(self):
-        pass
+        self.skipWhitespace()
+        token = None
+        if self.caractereAtual is None: 
+            token = Token(self.caractereAtual, TipoToken.EOF)
+        elif self.caractereAtual == '+':
+            token = Token(self.caractereAtual, TipoToken.SOMA)
+        elif self.caractereAtual == '-':
+            token = Token(self.caractereAtual, TipoToken.SUBTRACAO)
+        elif self.caractereAtual == '*':
+            token = Token(self.caractereAtual, TipoToken.MULTIPLICACAO)
+        elif self.caractereAtual == '/':
+            token = Token(self.caractereAtual, TipoToken.DIVISAO)
+        elif self.caractereAtual == '>':
+            if self.peek() == '=':
+                token = Token('>=', TipoToken.MAIOR_IGUAL_A)
+                self.proximoCaractere()
+            else:
+                token = Token(self.caractereAtual, TipoToken.MAIOR_QUE)
+        elif self.caractereAtual == '!':
+            if self.peek() == '=':
+                token = Token('!=', TipoToken.DIFERENTE_DE)
+                self.proximoCaractere()
+            else:
+                self.abort('Não pode usar o símbolo ! sem ser no contexto de !=')
+        elif self.caractereAtual.isdigit():
+            posicaoInicial = self.posicaoAtual
+            while self.peek()!=None and self.peek().isdigit():
+                self.proximoCaractere()
+            lexema = self.source[ posicaoInicial : self.posicaoAtual+1 ]
+            token = Token(lexema, TipoToken.NUMERO)
+        elif self.caractereAtual.isalpha():
+            posicaoInicial = self.posicaoAtual
+            while self.peek()!=None and self.peek().isalnum():
+                self.proximoCaractere()
+            lexema = self.source[ posicaoInicial : self.posicaoAtual+1 ]
+            tipo = Token.checaPalavraReservada(lexema)
+            if tipo == None:
+                token = Token(lexema, TipoToken.IDENTIFICADOR)
+            else: 
+                token = Token(lexema, tipo)
+        else:
+            self.abort("Caractere não reconhecido: "+self.caractereAtual)
+        self.proximoCaractere()
+        return token
 
 class Token:
     def __init__(self, lexema, tipo) -> None:
         self.lexema = lexema
         self.tipo = tipo
+    @staticmethod
+    def checaPalavraReservada(lexema):
+        for tipo in TipoToken:
+            if tipo.name == lexema and tipo.value > 100 and tipo.value < 200:
+                return tipo
+        return None
 
 class TipoToken(enum.Enum):
     EOF = -1
     NUMERO = 1
+    IDENTIFICADOR = 2
+    #INICIO PALAVRAS RESERVADAS 100
+    IF = 101
+    THEN = 102
+    PRINT = 103
+    ENDIF = 104
+    #FIM PALAVRAS RESERVADAS 200
     SOMA = 202
+    SUBTRACAO = 203
+    MULTIPLICACAO = 204
+    DIVISAO = 205
+    MAIOR_QUE = 210
+    MAIOR_IGUAL_A = 211
+    DIFERENTE_DE = 212
+    IGUAL_A = 213

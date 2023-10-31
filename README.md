@@ -53,7 +53,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Recursos
 
-- [Discord](https://discord.gg/hXkRxyez)
+- [Discord](https://discord.gg/w28mu7H9)
 - [Google Classroom](https://classroom.google.com/c/NjM0MDYxNTk1NTI3?cjc=fa6nvzx)
 - Github Classroom - Ver instruções no Google Classroom
 
@@ -73,8 +73,6 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 ### Plano de Ensino
 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
-
-
 
 | Data | Dia | Conteúdo Programático | Atividades Associadas |
 |-----------------|---------------|-----------------------|------------------------|
