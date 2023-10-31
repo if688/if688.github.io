@@ -78,9 +78,9 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | Data | Dia | Conteúdo Programático | Atividades Associadas |
 |-----------------|---------------|-----------------------|------------------------|
-| 24.10.23        | Terça         | Introdução, admin     |                        |
-| 26.10.23        | Quinta        |  Análise Léxica       |                        |
-| 31.10.23        | Terça         |  Análise Léxica       |                        |
+| 24.10.23        | Terça         | [Introdução, admin](2023-10-24.md)     |                        |
+| 26.10.23        | Quinta        | [Análise Léxica](2023-10-26.md)       |                        |
+| 31.10.23        | Terça         | [Implementando Analisadores Léxicos](2023-10-31.md)       |                        |
 | 02.11.23        | Quinta        | **FERIADO** - DIA DE FINADOS |                 |
 | 07.11.23        | Terça         | Análise Sintática     |                        |
 | 09.11.23        | Quinta        | Análise Sintática | |
