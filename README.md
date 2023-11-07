@@ -80,7 +80,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 26.10.23        | Quinta        | [Análise Léxica](2023-10-26.md)       |                        |
 | 31.10.23        | Terça         | [Implementando Analisadores Léxicos](2023-10-31.md)       |                        |
 | 02.11.23        | Quinta        | **FERIADO** - DIA DE FINADOS |                 |
-| 07.11.23        | Terça         | Análise Sintática     |                        |
+| 07.11.23        | Terça         | [Análise Sintática Top-Down - Intro](2023-11-07.md)     |                        |
 | 09.11.23        | Quinta        | Análise Sintática | |
 | 14.11.23        | Terça         | Análise Sintática | |
 | 16.11.23        | Quinta        | Análise Sintática | |
