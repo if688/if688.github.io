@@ -81,18 +81,18 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 31.10.23        | Terça         | [Implementando Analisadores Léxicos](2023-10-31.md)       |                        |
 | 02.11.23        | Quinta        | **FERIADO** - DIA DE FINADOS |                 |
 | 07.11.23        | Terça         | [Análise Sintática Top-Down - Intro](2023-11-07.md)     |                        |
-| 09.11.23        | Quinta        | Análise Sintática | |
-| 14.11.23        | Terça         | Análise Sintática | |
-| 16.11.23        | Quinta        | Análise Sintática | |
-| 21.11.23        | Terça         | Análise Semântica | |
+| 09.11.23        | Quinta        | [Análise Sintática Top-Down - LL(1) Parsing](2023-11-09.md) | |
+| 14.11.23        | Terça         | [Análise Sintática Top-Down - Recursive Descent Parsing](2023-11-14.md) | |
+| 16.11.23        | Quinta        | Análise Sintática Bottom-Up - Intro | |
+| 21.11.23        | Terça         | Análise Sintática Bottom-Up - LR(1) Parsing | |
 | 23.11.23        | Quinta        | Análise Semântica | |
 | 28.11.23        | Terça         | Análise Semântica | |
-| 30.11.23        | Quinta        | Análise Semântica | |
+| 30.11.23        | Quinta        | APS | |
 | 05.12.23        | Terça         | Revisão | |
-| 07.12.23        | Quinta        | **1 Exercício Escolar** |                      |
-| 12.12.23        | Terça         | Representações Intermediárias de Código |      |
+| 07.12.23        | Quinta        | Revisão |                      |
+| 12.12.23        | Terça         | **1 Exercício Escolar** |      |
 | 14.12.23        | Quinta        | Representações Intermediárias de Código |      |
-| 19.12.23        | Terça         | Análise e Otimização de Código |               |
+| 19.12.23        | Terça         | Representações Intermediárias de Código |               |
 | 21.12.23        | Quinta        | Análise e Otimização de Código |               |
 | 26.12.23        | Terça         | **Recesso Escolar**   | ---                    |
 | 28.12.23        | Quinta        | **Recesso Escolar**   | ---                    |
@@ -106,7 +106,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 25.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
 | 30.01.24        | Terça         | Análise e Otimização de Código |               |
 | 01.02.24        | Quinta        | Análise e Otimização de Código |               |
-| 06.02.24        | Terça         | APS                   |                        |
+| 06.02.24        | Terça         | Análise e Otimização de Código                   |                        |
 | 08.02.24        | Quinta        | APS                   |                        |
 | 13.02.24        | Terça         | **CARNAVAL**          |                        |
 | 15.02.24        | Quinta        | Ambientes de Execução |                        |
