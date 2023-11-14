@@ -1,0 +1,3 @@
+INPUT x
+LET y = x
+PRINT y

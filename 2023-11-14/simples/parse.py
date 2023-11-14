@@ -33,7 +33,50 @@ class Parser:
         sys.exit("Erro sintático: "+msg)
 
     def parse(self):
-        pass
+        self.expr()
+
+############################
+    def S(self):
+        self.match(TipoToken.a)
+        self.A()
+        self.B()
+        self.match(TipoToken.e)
+
+    def A(self):
+        self.match(TipoToken.b)
+        self.K()
+
+    def K(self):
+        if self.checkToken(TipoToken.b):
+            self.match(TipoToken.b)
+            self.match(TipoToken.c)
+            self.K()
+        else:
+            pass
+    
+    def B(self):
+        self.match(TipoToken.d)
 
 
+############
+    def expr(self):
+        self.term()
+        self.rest()
+
+    def rest(self):
+        if self.checkToken(TipoToken.SOMA):
+            self.match(TipoToken.SOMA)
+            self.term()
+            self.rest()
+        elif self.checkToken(TipoToken.SUBTRACAO):
+            self.match(TipoToken.SUBTRACAO)
+            self.term()
+            self.rest()
+        elif self.checkToken(TipoToken.EOF):
+            pass
+        else:
+            self.abort("Token inesperado: "+str(self.tokenAtual.tipo))
+
+    def term(self):
+        self.match(TipoToken.NUMERO)
     

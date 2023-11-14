@@ -33,11 +33,13 @@ class Parser:
         sys.exit("Erro sintático: "+msg)
 
     def parse(self):
-        pass
+        self.program()
+        self.match(TokenType.EOF)
 
     # program ::= statement
     def program(self):
-        pass
+        while not self.checkToken(TokenType.EOF):
+            self.statement()
 
     # statement ::= 
     #   PRINT expression nl |
@@ -47,44 +49,60 @@ class Parser:
     #   IF expression "THEN" nl {statement} ENDIF nl
     def statement(self):
         #   PRINT expression nl |
-        
+        if self.checkToken(TokenType.PRINT):
+            self.match(TokenType.PRINT)
+            self.expression()
         #   INPUT IDENTIFICADOR nl |
-        
+        elif self.checkToken(TokenType.INPUT):
+            self.match(TokenType.INPUT)
+            self.match(TokenType.IDENTIFICADOR)
         #   LET IDENTIFICADOR "=" expression nl |
-        
+        elif self.checkToken(TokenType.LET):
+            self.match(TokenType.LET)
+            self.match(TokenType.IDENTIFICADOR)
+            self.match(TokenType.EQ)
+            self.expression()
+            
         #   WHILE expression REPEAT nl {statement} ENDWHILE nl |
         
         #   IF expression "THEN" nl {statement} ENDIF nl
         
-        pass
+        self.nl()
 
     def nl(self):
-        pass
+        self.match(TokenType.QUEBRA_LINHA)
 
     # expression ::== equality
     def expression(self):
-        pass
+        self.equality()
 
     # equality ::== comparison ( ("==" | "!=" ) comparison)*
     def equality(self):
-        pass
+        self.comparison()
 
     # comparison ::== term ( ("<" | "<=" | ">" | ">=" ) term)*
     def comparison(self):
-        pass
+        self.term()
 
     # term ::== factor {("-" | "+") factor}
     def term(self):
-        pass
+        self.factor()
 
     # factor ::== unary {("*" | "/") unary}
     def factor(self):
-        pass
+        self.unary()
 
     # unary ::== ["-" | "+" ] unary | primary
     def unary(self):
-        pass
+        self.primary()
 
     # primary ::== NUM | ID | STRING
     def primary(self):
-        pass
+        if self.checkToken(TokenType.NUMERO):
+            self.match(TokenType.NUMERO)
+        elif self.checkToken(TokenType.IDENTIFICADOR):
+            self.match(TokenType.IDENTIFICADOR)
+        elif self.checkToken(TokenType.STRING_LITERAL):
+            self.match(TokenType.STRING_LITERAL)
+        else:
+            self.erro("Token inesperado")
