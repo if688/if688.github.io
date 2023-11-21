@@ -53,7 +53,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Recursos
 
-- [Discord](https://discord.gg/w28mu7H9)
+- [Discord](https://discord.gg/cw7CbxfK)
 - [Google Classroom](https://classroom.google.com/c/NjM0MDYxNTk1NTI3?cjc=fa6nvzx)
 - Github Classroom - Ver instruções no Google Classroom
 
@@ -83,17 +83,17 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 07.11.23        | Terça         | [Análise Sintática Top-Down - Intro](2023-11-07.md)     |                        |
 | 09.11.23        | Quinta        | [Análise Sintática Top-Down - LL(1) Parsing](2023-11-09.md) | |
 | 14.11.23        | Terça         | [Análise Sintática Top-Down - Recursive Descent Parsing](2023-11-14.md) | |
-| 16.11.23        | Quinta        | Análise Sintática Bottom-Up - Intro | |
-| 21.11.23        | Terça         | Análise Sintática Bottom-Up - LR(1) Parsing | |
+| 16.11.23        | Quinta        | [Análise Sintática Bottom-Up - Intro e LR(0)](2023-11-16.md) | |
+| 21.11.23        | Terça         | [Análise Sintática Bottom-Up - LR(1) Parsing](2023-11-21.md) | |
 | 23.11.23        | Quinta        | Análise Semântica | |
 | 28.11.23        | Terça         | Análise Semântica | |
-| 30.11.23        | Quinta        | APS | |
-| 05.12.23        | Terça         | Revisão | |
-| 07.12.23        | Quinta        | Revisão |                      |
-| 12.12.23        | Terça         | **1 Exercício Escolar** |      |
-| 14.12.23        | Quinta        | Representações Intermediárias de Código |      |
-| 19.12.23        | Terça         | Representações Intermediárias de Código |               |
-| 21.12.23        | Quinta        | Análise e Otimização de Código |               |
+| 30.11.23        | Quinta        | APS - Exercícios | |
+| 05.12.23        | Terça         | APS - Exercícios | |
+| 07.12.23        | Quinta        | APS - Exercícios |                      |
+| 12.12.23        | Terça         | Análise Semântica |      |
+| 14.12.23        | Quinta        | Análise Semântica |      |
+| 19.12.23        | Terça         | **1 Exercício Escolar** |               |
+| 21.12.23        | Quinta        | APS - Exercícios |               |
 | 26.12.23        | Terça         | **Recesso Escolar**   | ---                    |
 | 28.12.23        | Quinta        | **Recesso Escolar**   | ---                    |
 | 02.01.24        | Terça         | **Recesso Escolar**   | ---                    |
@@ -104,16 +104,16 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 18.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
 | 23.01.24        | Terça         | **Recesso Escolar**   | ---                    |
 | 25.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
-| 30.01.24        | Terça         | Análise e Otimização de Código |               |
-| 01.02.24        | Quinta        | Análise e Otimização de Código |               |
-| 06.02.24        | Terça         | Análise e Otimização de Código                   |                        |
+| 30.01.24        | Terça         | Representação Intermediária de Código |               |
+| 01.02.24        | Quinta        | Representação Intermediária de Código |               |
+| 06.02.24        | Terça         | APS                   |                        |
 | 08.02.24        | Quinta        | APS                   |                        |
 | 13.02.24        | Terça         | **CARNAVAL**          |                        |
-| 15.02.24        | Quinta        | Ambientes de Execução |                        |
-| 20.02.24        | Terça         | Ambientes de Execução |                        |
-| 22.02.24        | Quinta        | Ambientes de Execução |                        |
-| 27.02.24        | Terça         | Geração de Código     |                        |
-| 29.02.24        | Quinta        | Geração de Código     |                        |
+| 15.02.24        | Quinta        | Análise e Otimização de Código |                        |
+| 20.02.24        | Terça         | Análise e Otimização de Código |                        |
+| 22.02.24        | Quinta        | Análise e Otimização de Código |                        |
+| 27.02.24        | Terça         | Ambientes de Execução     |                        |
+| 29.02.24        | Quinta        | Ambientes de Execução     |                        |
 | 05.03.24        | Terça         | Geração de Código     |                        |
 | 07.03.24        | Quinta        | Geração de Código     |                        |
 | 12.03.24        | Terça         | Revisão               |                      |
