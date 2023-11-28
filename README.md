@@ -85,12 +85,12 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 14.11.23        | Terça         | [Análise Sintática Top-Down - Recursive Descent Parsing](2023-11-14.md) | |
 | 16.11.23        | Quinta        | [Análise Sintática Bottom-Up - Intro e LR(0)](2023-11-16.md) | |
 | 21.11.23        | Terça         | [Análise Sintática Bottom-Up - LR(1) Parsing](2023-11-21.md) | |
-| 23.11.23        | Quinta        | Análise Semântica | |
-| 28.11.23        | Terça         | Análise Semântica | |
-| 30.11.23        | Quinta        | APS - Exercícios | |
+| 23.11.23        | Quinta        | [Análise Semântica - Intro e ASTs](2023-11-23.md) | |
+| 28.11.23        | Terça         | [Análise Semântica - ASTs e Visitors](2023-11-28.md) | |
+| 30.11.23        | Quinta        | [Análise Semântica - Tipos e Escopo](2023-11-30.md) | |
 | 05.12.23        | Terça         | APS - Exercícios | |
 | 07.12.23        | Quinta        | APS - Exercícios |                      |
-| 12.12.23        | Terça         | Análise Semântica |      |
+| 12.12.23        | Terça         | [Análise Semântica - Tabelas de Símbolos](#) |      |
 | 14.12.23        | Quinta        | Análise Semântica |      |
 | 19.12.23        | Terça         | **1 Exercício Escolar** |               |
 | 21.12.23        | Quinta        | APS - Exercícios |               |
