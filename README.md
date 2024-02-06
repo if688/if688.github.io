@@ -87,13 +87,13 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 21.11.23        | Terça         | [Análise Sintática Bottom-Up - LR(1) Parsing](2023-11-21.md) | |
 | 23.11.23        | Quinta        | [Análise Semântica - Intro e ASTs](2023-11-23.md) | |
 | 28.11.23        | Terça         | [Análise Semântica - ASTs e Visitors](2023-11-28.md) | |
-| 30.11.23        | Quinta        | [Análise Semântica - Tipos e Escopo](2023-11-30.md) | |
+| 30.11.23        | Quinta        | [Análise Semântica - Tipos, Escopo, Tabelas de Símbolos](2023-11-30.md) | |
 | 05.12.23        | Terça         | APS - Exercícios | |
 | 07.12.23        | Quinta        | APS - Exercícios |                      |
-| 12.12.23        | Terça         | [Análise Semântica - Tabelas de Símbolos](#) |      |
-| 14.12.23        | Quinta        | Análise Semântica |      |
-| 19.12.23        | Terça         | **1 Exercício Escolar** |               |
-| 21.12.23        | Quinta        | APS - Exercícios |               |
+| 12.12.23        | Terça         | [Análise Semântica - Tabelas de Símbolos e Type Checking](2023-12-12.md) |      |
+| 14.12.23        | Quinta        | Revisão e tirar dúvidas |      |
+| 19.12.23        | Terça         | Revisão e tirar dúvidas | *Prova remarcada por conta da chuva* |
+| 21.12.23        | Quinta        | **1 Exercício Escolar** |               |
 | 26.12.23        | Terça         | **Recesso Escolar**   | ---                    |
 | 28.12.23        | Quinta        | **Recesso Escolar**   | ---                    |
 | 02.01.24        | Terça         | **Recesso Escolar**   | ---                    |
@@ -104,8 +104,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 18.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
 | 23.01.24        | Terça         | **Recesso Escolar**   | ---                    |
 | 25.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
-| 30.01.24        | Terça         | Representação Intermediária de Código |               |
-| 01.02.24        | Quinta        | Representação Intermediária de Código |               |
+| 30.01.24        | Terça         | [Representação Intermediária de Código](2024-01-30.md) |      |
+| 01.02.24        | Quinta        | [Representação Intermediária de Código](2024-01-30.md) |      |
 | 06.02.24        | Terça         | APS                   |                        |
 | 08.02.24        | Quinta        | APS                   |                        |
 | 13.02.24        | Terça         | **CARNAVAL**          |                        |
@@ -118,6 +118,6 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 07.03.24        | Quinta        | Geração de Código     |                        |
 | 12.03.24        | Terça         | Revisão               |                      |
 | 14.03.24        | Quinta        | **2 Exercício Escolar** |                      |
-| 19.03.24        | Terça         | Tira-dúvidas          |                        |
-| 21.03.24        | Quinta        | **Segunda Chamada** |                      |
-| 28.03.24        | Quinta        | **Prova Final** |                      |
+| 19.03.24        | Terça         | **Segunda Chamada** |                      |
+| 21.03.24        | Quinta        | **Prova Final** |                      |
+| 28.03.24        | Quinta        | Divulgação notas |                      |
