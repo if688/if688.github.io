@@ -107,11 +107,11 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 30.01.24        | Terça         | [Representação Intermediária de Código](2024-01-30.md) |      |
 | 01.02.24        | Quinta        | [Representação Intermediária de Código](2024-01-30.md) |      |
 | 06.02.24        | Terça         | [APS - ANTLR](2024-02-06.md) |                        |
-| 08.02.24        | Quinta        | APS - LLVM                   |                        |
+| 08.02.24        | Quinta        | APS - ANTLR                   |                        |
 | 13.02.24        | Terça         | **CARNAVAL**          |                        |
-| 15.02.24        | Quinta        | Análise e Otimização de Código |                        |
-| 20.02.24        | Terça         | Análise e Otimização de Código |                        |
-| 22.02.24        | Quinta        | Análise e Otimização de Código |                        |
+| 15.02.24        | Quinta        | [Análise e Otimização de Código](2024-02-15.md) |                        |
+| 20.02.24        | Terça         | [Análise e Otimização de Código](2024-02-20.md) |                        |
+| 22.02.24        | Quinta        | [Análise e Otimização de Código](2024-02-22.md) |                        |
 | 27.02.24        | Terça         | Ambientes de Execução     |                        |
 | 29.02.24        | Quinta        | Ambientes de Execução     |                        |
 | 05.03.24        | Terça         | Geração de Código     |                        |
