@@ -113,11 +113,12 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 20.02.24        | Terça         | [Análise e Otimização de Código](2024-02-20.md) |                        |
 | 22.02.24        | Quinta        | [Análise e Otimização de Código](2024-02-22.md) |                        |
 | 27.02.24        | Terça         | Ambientes de Execução     |                        |
-| 29.02.24        | Quinta        | Ambientes de Execução     |                        |
+| 29.02.24        | Quinta        | Geração de Código     |                        |
 | 05.03.24        | Terça         | Geração de Código     |                        |
 | 07.03.24        | Quinta        | Geração de Código     |                        |
 | 12.03.24        | Terça         | Revisão               |                      |
 | 14.03.24        | Quinta        | **2 Exercício Escolar** |                      |
 | 19.03.24        | Terça         | **Segunda Chamada** |                      |
-| 21.03.24        | Quinta        | **Prova Final** |                      |
+| 21.03.24        | Quinta        | Tirar dúvidas |                      |
+| 26.03.24        | Terça        | **Prova Final** |                      |
 | 28.03.24        | Quinta        | Divulgação notas |                      |
