@@ -112,7 +112,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 15.02.24        | Quinta        | [Análise e Otimização de Código](2024-02-15.md) |                        |
 | 20.02.24        | Terça         | [Análise e Otimização de Código](2024-02-20.md) |                        |
 | 22.02.24        | Quinta        | [Análise e Otimização de Código](2024-02-22.md) |                        |
-| 27.02.24        | Terça         | Ambientes de Execução     |                        |
+| 27.02.24        | Terça         | [Ambientes de Execução](2024-02-27.md)     |                        |
 | 29.02.24        | Quinta        | Geração de Código     |                        |
 | 05.03.24        | Terça         | Geração de Código     |                        |
 | 07.03.24        | Quinta        | Geração de Código     |                        |
