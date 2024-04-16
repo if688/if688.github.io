@@ -11,16 +11,13 @@
   - Beatriz de Oliveira Férre ([@biaferre](https://github.com/biaferre) --- <bof@cin>)
   - Bruno de Figueirêdo Lima ([@Brunonaive03](https://github.com/Brunonaive03) --- <bfl3@cin>)
   - Diogo Pedro de França Silva ([@DiogoPedro](https://github.com/DiogoPedro) --- <dpfs@cin>)
-  - Eliab Bernardino de Paula Junior ([@eliab2107](https://github.com/eliab2107) --- <ebpj@cin>)
-  - Ernesto Gonçalves de Lima Neto ([@ergdln](https://github.com/ergdln) --- <egln@cin>)
   - Geovany Ícaro Lima Nunes ([@Icaro-Nunes](https://github.com/Icaro-Nunes) --- <giln@cin>)
-  - Luiza Diniz Mendes Monteiro Luna ([@dinizluiza](https://github.com/dinizluiza) --- <ldmml@cin>)
   - Pedro Augusto de Almada Lobo Fonseca ([@pedroalfonseca](https://github.com/pedroalfonseca) --- <paalf@cin>)
 
 ### Horário e Local de Aulas
 
-* Terça (13h-15h), Sala E233
-* Quinta (15h-17h), Sala E233
+* Terça (10h-12h), Sala E233
+* Quinta (08h-10h), Sala E233
 
 ### Ementa
 
@@ -53,8 +50,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Recursos
 
-- [Discord](https://discord.gg/cw7CbxfK)
-- [Google Classroom](https://classroom.google.com/c/NjM0MDYxNTk1NTI3?cjc=fa6nvzx)
+- [Discord](https://discord.gg/Spk2uvMp)
+- [Google Classroom](https://classroom.google.com/c/NjU2NTM3NTE5ODM1?cjc=4t57zae)
 - Github Classroom - Ver instruções no Google Classroom
 
 
@@ -74,51 +71,39 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-| Data | Dia | Conteúdo Programático | Atividades Associadas |
-|-----------------|---------------|-----------------------|------------------------|
-| 24.10.23        | Terça         | [Introdução, admin](2023-10-24.md)     |                        |
-| 26.10.23        | Quinta        | [Análise Léxica](2023-10-26.md)       |                        |
-| 31.10.23        | Terça         | [Implementando Analisadores Léxicos](2023-10-31.md)       |                        |
-| 02.11.23        | Quinta        | **FERIADO** - DIA DE FINADOS |                 |
-| 07.11.23        | Terça         | [Análise Sintática Top-Down - Intro](2023-11-07.md)     |                        |
-| 09.11.23        | Quinta        | [Análise Sintática Top-Down - LL(1) Parsing](2023-11-09.md) | |
-| 14.11.23        | Terça         | [Análise Sintática Top-Down - Recursive Descent Parsing](2023-11-14.md) | |
-| 16.11.23        | Quinta        | [Análise Sintática Bottom-Up - Intro e LR(0)](2023-11-16.md) | |
-| 21.11.23        | Terça         | [Análise Sintática Bottom-Up - LR(1) Parsing](2023-11-21.md) | |
-| 23.11.23        | Quinta        | [Análise Semântica - Intro e ASTs](2023-11-23.md) | |
-| 28.11.23        | Terça         | [Análise Semântica - ASTs e Visitors](2023-11-28.md) | |
-| 30.11.23        | Quinta        | [Análise Semântica - Tipos, Escopo, Tabelas de Símbolos](2023-11-30.md) | |
-| 05.12.23        | Terça         | APS - Exercícios | |
-| 07.12.23        | Quinta        | APS - Exercícios |                      |
-| 12.12.23        | Terça         | [Análise Semântica - Tabelas de Símbolos e Type Checking](2023-12-12.md) |      |
-| 14.12.23        | Quinta        | Revisão e tirar dúvidas |      |
-| 19.12.23        | Terça         | Revisão e tirar dúvidas | *Prova remarcada por conta da chuva* |
-| 21.12.23        | Quinta        | **1 Exercício Escolar** |               |
-| 26.12.23        | Terça         | **Recesso Escolar**   | ---                    |
-| 28.12.23        | Quinta        | **Recesso Escolar**   | ---                    |
-| 02.01.24        | Terça         | **Recesso Escolar**   | ---                    |
-| 04.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
-| 09.01.24        | Terça         | **Recesso Escolar**   | ---                    |
-| 11.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
-| 16.01.24        | Terça         | **Recesso Escolar**   | ---                    |
-| 18.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
-| 23.01.24        | Terça         | **Recesso Escolar**   | ---                    |
-| 25.01.24        | Quinta        | **Recesso Escolar**   | ---                    |
-| 30.01.24        | Terça         | [Representação Intermediária de Código](2024-01-30.md) |      |
-| 01.02.24        | Quinta        | [Representação Intermediária de Código](2024-01-30.md) |      |
-| 06.02.24        | Terça         | [APS - ANTLR](2024-02-06.md) |                        |
-| 08.02.24        | Quinta        | APS - ANTLR                   |                        |
-| 13.02.24        | Terça         | **CARNAVAL**          |                        |
-| 15.02.24        | Quinta        | [Análise e Otimização de Código](2024-02-15.md) |                        |
-| 20.02.24        | Terça         | [Análise e Otimização de Código](2024-02-20.md) |                        |
-| 22.02.24        | Quinta        | [Análise e Otimização de Código](2024-02-22.md) |                        |
-| 27.02.24        | Terça         | [Ambientes de Execução](2024-02-27.md)     |                        |
-| 29.02.24        | Quinta        | Geração de Código     |                        |
-| 05.03.24        | Terça         | Geração de Código     |                        |
-| 07.03.24        | Quinta        | Geração de Código     |                        |
-| 12.03.24        | Terça         | Revisão               |                      |
-| 14.03.24        | Quinta        | **2 Exercício Escolar** |                      |
-| 19.03.24        | Terça         | **Segunda Chamada** |                      |
-| 21.03.24        | Quinta        | Tirar dúvidas |                      |
-| 26.03.24        | Terça        | **Prova Final** |                      |
-| 28.03.24        | Quinta        | Divulgação notas |                      |
+Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os dias da semana traduzidos para português:
+
+| Data do Encontro | Dia da Semana  | Conteúdo Programático | Atividades Associadas |
+|------------------|----------------|-----------------------|-----------------------|
+| 16.04.24         | Terça-feira    |  Introdução           |                       |
+| 18.04.24         | Quinta-feira   |                       |                       |
+| 23.04.24         | Terça-feira    |                       |                       |
+| 25.04.24         | Quinta-feira   |                       |                       |
+| 30.04.24         | Terça-feira    |                       |                       |
+| 02.05.24         | Quinta-feira   |                       |                       |
+| 07.05.24         | Terça-feira    |                       |                       |
+| 09.05.24         | Quinta-feira   |                       |                       |
+| 14.05.24         | Terça-feira    |                       |                       |
+| 16.05.24         | Quinta-feira   |                       |                       |
+| 21.05.24         | Terça-feira    |                       |                       |
+| 23.05.24         | Quinta-feira   |                       |                       |
+| 28.05.24         | Terça-feira    |                       |                       |
+| 30.05.24         | Quinta-feira   |                       |                       |
+| 04.06.24         | Terça-feira    |                       |                       |
+| 06.06.24         | Quinta-feira   |                       |                       |
+| 11.06.24         | Terça-feira    |                       |                       |
+| 13.06.24         | Quinta-feira   |                       |                       |
+| 18.06.24         | Terça-feira    |                       |                       |
+| 20.06.24         | Quinta-feira   |                       |                       |
+| 25.06.24         | Terça-feira    |                       |                       |
+| 27.06.24         | Quinta-feira   |                       |                       |
+| 02.07.24         | Terça-feira    |                       |                       |
+| 04.07.24         | Quinta-feira   |                       |                       |
+| 09.07.24         | Terça-feira    |                       |                       |
+| 11.07.24         | Quinta-feira   |                       |                       |
+| 16.07.24         | Terça-feira    |                       |                       |
+| 18.07.24         | Quinta-feira   |                       |                       |
+| 23.07.24         | Terça-feira    |                       |                       |
+| 25.07.24         | Quinta-feira   |                       |                       |
+| 30.07.24         | Terça-feira    |                       |                       |
+| 01.08.24         | Quinta-feira   |                       |                       |
