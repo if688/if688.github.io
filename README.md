@@ -70,7 +70,7 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 
 | Data do Encontro | Dia da Semana  | Conteúdo Programático | Atividades Associadas |
 |------------------|----------------|-----------------------|-----------------------|
-| 16.04.24         | Terça-feira    | [Introdução](2024-04-18.md)            |                       |
+| 16.04.24         | Terça-feira    | [Introdução](2024-04-16.md)            |                       |
 | 18.04.24         | Quinta-feira   | [Análise Léxica](2024-04-18.md)        |                       |
 | 23.04.24         | Terça-feira    | Implementando Analisadores Léxicos     |                       |
 | 25.04.24         | Quinta-feira   | Análise Sintática                      |                       |
