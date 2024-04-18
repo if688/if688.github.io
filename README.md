@@ -7,12 +7,7 @@
 * **Professor:** Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
 
 * **Monitores:** 
-  - Beatriz de Araújo Andrade ([@BeatrizA2](https://github.com/BeatrizA2) --- <baa@cin>)
-  - Beatriz de Oliveira Férre ([@biaferre](https://github.com/biaferre) --- <bof@cin>)
-  - Bruno de Figueirêdo Lima ([@Brunonaive03](https://github.com/Brunonaive03) --- <bfl3@cin>)
-  - Diogo Pedro de França Silva ([@DiogoPedro](https://github.com/DiogoPedro) --- <dpfs@cin>)
-  - Geovany Ícaro Lima Nunes ([@Icaro-Nunes](https://github.com/Icaro-Nunes) --- <giln@cin>)
-  - Pedro Augusto de Almada Lobo Fonseca ([@pedroalfonseca](https://github.com/pedroalfonseca) --- <paalf@cin>)
+  - A confirmar
 
 ### Horário e Local de Aulas
 
@@ -75,35 +70,35 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 
 | Data do Encontro | Dia da Semana  | Conteúdo Programático | Atividades Associadas |
 |------------------|----------------|-----------------------|-----------------------|
-| 16.04.24         | Terça-feira    |  Introdução           |                       |
-| 18.04.24         | Quinta-feira   |                       |                       |
-| 23.04.24         | Terça-feira    |                       |                       |
-| 25.04.24         | Quinta-feira   |                       |                       |
-| 30.04.24         | Terça-feira    |                       |                       |
-| 02.05.24         | Quinta-feira   |                       |                       |
-| 07.05.24         | Terça-feira    |                       |                       |
-| 09.05.24         | Quinta-feira   |                       |                       |
-| 14.05.24         | Terça-feira    |                       |                       |
-| 16.05.24         | Quinta-feira   |                       |                       |
-| 21.05.24         | Terça-feira    |                       |                       |
-| 23.05.24         | Quinta-feira   |                       |                       |
-| 28.05.24         | Terça-feira    |                       |                       |
-| 30.05.24         | Quinta-feira   |                       |                       |
-| 04.06.24         | Terça-feira    |                       |                       |
-| 06.06.24         | Quinta-feira   |                       |                       |
-| 11.06.24         | Terça-feira    |                       |                       |
-| 13.06.24         | Quinta-feira   |                       |                       |
-| 18.06.24         | Terça-feira    |                       |                       |
-| 20.06.24         | Quinta-feira   |                       |                       |
-| 25.06.24         | Terça-feira    |                       |                       |
-| 27.06.24         | Quinta-feira   |                       |                       |
-| 02.07.24         | Terça-feira    |                       |                       |
-| 04.07.24         | Quinta-feira   |                       |                       |
-| 09.07.24         | Terça-feira    |                       |                       |
-| 11.07.24         | Quinta-feira   |                       |                       |
-| 16.07.24         | Terça-feira    |                       |                       |
-| 18.07.24         | Quinta-feira   |                       |                       |
-| 23.07.24         | Terça-feira    |                       |                       |
-| 25.07.24         | Quinta-feira   |                       |                       |
-| 30.07.24         | Terça-feira    |                       |                       |
-| 01.08.24         | Quinta-feira   |                       |                       |
+| 16.04.24         | Terça-feira    | [Introdução](2024-04-18.md)            |                       |
+| 18.04.24         | Quinta-feira   | [Análise Léxica](2024-04-18.md)        |                       |
+| 23.04.24         | Terça-feira    | Implementando Analisadores Léxicos     |                       |
+| 25.04.24         | Quinta-feira   | Análise Sintática                      |                       |
+| 30.04.24         | Terça-feira    | Análise Sintática                      |                       |
+| 02.05.24         | Quinta-feira   | Análise Sintática                      |                       |
+| 07.05.24         | Terça-feira    | Análise Sintática                      |                       |
+| 09.05.24         | Quinta-feira   | Análise Semântica                      |                       |
+| 14.05.24         | Terça-feira    | Análise Semântica                      |                       |
+| 16.05.24         | Quinta-feira   | Análise Semântica                      |                       |
+| 21.05.24         | Terça-feira    | Análise Semântica                      |                       |
+| 23.05.24         | Quinta-feira   | Análise Semântica                      |                       |
+| 28.05.24         | Terça-feira    | **1 Exercício Escolar**                |                       |
+| 30.05.24         | Quinta-feira   | **FERIADO** - Corpus Christi           |                       |
+| 04.06.24         | Terça-feira    | Representação Intermediária de Código  |                       |
+| 06.06.24         | Quinta-feira   | Representação Intermediária de Código  |                       |
+| 11.06.24         | Terça-feira    | Análise e Otimização de Código         |                       |
+| 13.06.24         | Quinta-feira   | Análise e Otimização de Código         |                       |
+| 18.06.24         | Terça-feira    | Análise e Otimização de Código         |                       |
+| 20.06.24         | Quinta-feira   | Análise e Otimização de Código         |                       |
+| 25.06.24         | Terça-feira    | Ambientes de Execução                  |                       |
+| 27.06.24         | Quinta-feira   | Ambientes de Execução                  |                       |
+| 02.07.24         | Terça-feira    | Geração de Código                      |                       |
+| 04.07.24         | Quinta-feira   | Geração de Código                      |                       |
+| 09.07.24         | Terça-feira    | Geração de Código                      |                       |
+| 11.07.24         | Quinta-feira   | **2 Exercício Escolar**                |                      |
+| 16.07.24         | Terça-feira    | **FERIADO** - Dia de Nossa Senhora do Carmo  |                       |
+| 18.07.24         | Quinta-feira   | APS                      |                       |
+| 23.07.24         | Terça-feira    | APS                      |                       |
+| 25.07.24         | Quinta-feira   | **Segunda Chamada** |                      |
+| 30.07.24         | Terça-feira    | APS                      |                       |
+| 01.08.24         | Quinta-feira   | **Prova Final**                |                      |
