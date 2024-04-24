@@ -1,0 +1,14 @@
+
+INPUT nums
+
+LET a = 0
+LET b = 1 
+SE x > 0 ENTAO
+FIMSE
+WHILE nums > 0 REPEAT
+    PRINT a
+    LET c = a + b
+    LET a = b
+    LET b = c
+    LET nums = nums - 1
+ENDWHILE
