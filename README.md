@@ -72,8 +72,8 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 |------------------|----------------|-----------------------|-----------------------|
 | 16.04.24         | Terça-feira    | [Introdução](2024-04-16.md)            |                       |
 | 18.04.24         | Quinta-feira   | [Análise Léxica](2024-04-18.md)        |                       |
-| 23.04.24         | Terça-feira    | Implementando Analisadores Léxicos     |                       |
-| 25.04.24         | Quinta-feira   | Análise Sintática                      |                       |
+| 23.04.24         | Terça-feira    | [Implementando Analisadores Léxicos](2024-04-23.md)    |                       |
+| 25.04.24         | Quinta-feira   | Gerando Analisadores Léxicos e Introdução a Análise Sintática                      |                       |
 | 30.04.24         | Terça-feira    | Análise Sintática                      |                       |
 | 02.05.24         | Quinta-feira   | Análise Sintática                      |                       |
 | 07.05.24         | Terça-feira    | Análise Sintática                      |                       |
