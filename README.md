@@ -73,14 +73,14 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 | 16.04.24         | Terça-feira    | [Introdução](2024-04-16.md)            |                       |
 | 18.04.24         | Quinta-feira   | [Análise Léxica](2024-04-18.md)        |                       |
 | 23.04.24         | Terça-feira    | [Implementando Analisadores Léxicos](2024-04-23.md)    |                       |
-| 25.04.24         | Quinta-feira   | Gerando Analisadores Léxicos e Introdução a Análise Sintática                      |                       |
-| 30.04.24         | Terça-feira    | Análise Sintática                      |                       |
-| 02.05.24         | Quinta-feira   | Análise Sintática                      |                       |
-| 07.05.24         | Terça-feira    | Análise Sintática                      |                       |
-| 09.05.24         | Quinta-feira   | Análise Semântica                      |                       |
-| 14.05.24         | Terça-feira    | Análise Semântica                      |                       |
-| 16.05.24         | Quinta-feira   | Análise Semântica                      |                       |
-| 21.05.24         | Terça-feira    | Análise Semântica                      |                       |
+| 25.04.24         | Quinta-feira   | [Gerando Analisadores Léxicos e Introdução a Análise Sintática](2024-04-25.md)                      |                       |
+| 30.04.24         | Terça-feira    | [Análise Sintática - Top-Down Parsing](2024-04-30.md)                      |                       |
+| 02.05.24         | Quinta-feira   | [Análise Sintática - LL(1) parsing](2024-05-02.md)                      |                       |
+| 07.05.24         | Terça-feira    | [Análise Sintática - Introdução a Bottom-Up Parsing](2024-05-07.md)                      |                       |
+| 09.05.24         | Quinta-feira   | [Análise Sintática - LR(1) parsing](2024-05-09.md)                      |                       |
+| 14.05.24         | Terça-feira    | [Análise Semântica - Introdução](2024-05-14.md)                      |                       |
+| 16.05.24         | Quinta-feira   | [Análise Semântica - Tipos e Escopo](2024-05-16.md)                      |                       |
+| 21.05.24         | Terça-feira    | Análise Semântica - Visitors                      |                       |
 | 23.05.24         | Quinta-feira   | Análise Semântica                      |                       |
 | 28.05.24         | Terça-feira    | **1 Exercício Escolar**                |                       |
 | 30.05.24         | Quinta-feira   | **FERIADO** - Corpus Christi           |                       |

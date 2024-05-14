@@ -2,6 +2,7 @@
 package br.ufpe.cin.compilers.jflex;
 //import...
 
+
 %%
 //2ª parte - configurar o analisador léxico
 
