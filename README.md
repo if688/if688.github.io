@@ -79,9 +79,9 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 | 07.05.24         | Terça-feira    | [Análise Sintática - Introdução a Bottom-Up Parsing](2024-05-07.md)                      |                       |
 | 09.05.24         | Quinta-feira   | [Análise Sintática - LR(1) parsing](2024-05-09.md)                      |                       |
 | 14.05.24         | Terça-feira    | [Análise Semântica - Introdução](2024-05-14.md)                      |                       |
-| 16.05.24         | Quinta-feira   | [Análise Semântica - Tipos e Escopo](2024-05-16.md)                      |                       |
+| 16.05.24         | Quinta-feira   | [Análise Semântica - Tipos](2024-05-16.md)                      |                       |
 | 21.05.24         | Terça-feira    | Análise Semântica - Visitors                      |                       |
-| 23.05.24         | Quinta-feira   | Análise Semântica                      |                       |
+| 23.05.24         | Quinta-feira   | Análise Semântica e Revisão                     |                       |
 | 28.05.24         | Terça-feira    | **1 Exercício Escolar**                |                       |
 | 30.05.24         | Quinta-feira   | **FERIADO** - Corpus Christi           |                       |
 | 04.06.24         | Terça-feira    | Representação Intermediária de Código  |                       |
