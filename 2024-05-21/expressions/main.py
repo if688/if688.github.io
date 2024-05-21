@@ -9,7 +9,10 @@ def main():
 
     lexer = Lexer(input)
     parser = Parser(lexer)
-    parser.parse()
+    expressions = parser.parse()
     print("Terminamos.")
+
+    for exp in expressions:
+        print(exp)
     
 main()

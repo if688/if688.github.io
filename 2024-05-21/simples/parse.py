@@ -9,6 +9,11 @@ class Parser:
         self.nextToken()
         self.nextToken()
 
+    # Avançando com os ponteiros dos tokens (atual e peek)
+    def nextToken(self):
+        self.tokenAtual = self.proximoToken
+        self.proximoToken = self.lexer.getToken()
+
     #Retorna true se o Token **atual** casa com tipo de Token esperado
     def checkToken(self, tipo):
         return tipo == self.tokenAtual.tipo
@@ -24,18 +29,43 @@ class Parser:
         else:
             self.nextToken()
 
-    # Avançando com os ponteiros dos tokens (atual e peek)
-    def nextToken(self):
-        self.tokenAtual = self.proximoToken
-        self.proximoToken = self.lexer.getToken()
-
     def abort(self, msg):
         sys.exit("Erro sintático: "+msg)
 
+    # S → aABe
+    # A → bK
+    # K → bcK
+    # K → ε
+    # B → d
+
     def parse(self):
-        pass
+        self.S()
 
     # S → aABe
-    # A → Abc
-    # A → b
+    def S(self):
+        self.match(TipoToken.a)
+        self.A()
+        self.B() 
+        self.match(TipoToken.e)
+    
+    # A → bK
+    def A(self):
+        self.match(TipoToken.b)
+        self.K()
+
+    # K → bcK
+    # K → ε
+    def K(self):
+        if self.checkToken(TipoToken.b):
+            # K → bcK
+            self.match(TipoToken.b)
+            self.match(TipoToken.c)
+            self.K()
+        elif self.checkToken(TipoToken.d):
+            # K → ε
+            pass
+        else:
+            self.abort('Esperava pelo token b ou token d, mas apareceu token ' + self.tokenAtual.tipo.name)
     # B → d
+    def B(self):
+        self.match(TipoToken.d)

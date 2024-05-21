@@ -35,6 +35,8 @@ class Parser:
     def parse(self):
         pass
 
+    # nl é quebra de linha
+
     # program ::= statement
 
     # statement ::= 
