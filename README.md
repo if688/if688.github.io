@@ -80,24 +80,24 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 | 09.05.24         | Quinta-feira   | [Análise Sintática - LR(1) parsing](2024-05-09.md)                      |                       |
 | 14.05.24         | Terça-feira    | [Análise Semântica - Introdução](2024-05-14.md)                      |                       |
 | 16.05.24         | Quinta-feira   | [Análise Semântica - Tipos](2024-05-16.md)                      |                       |
-| 21.05.24         | Terça-feira    | Análise Semântica - Visitors                      |                       |
-| 23.05.24         | Quinta-feira   | Análise Semântica e Revisão                     |                       |
+| 21.05.24         | Terça-feira    | [_Recursive-Descent Parsing_ e _Abstract Syntax Trees_](2024-05-21.md)                      |                       |
+| 23.05.24         | Quinta-feira   | Revisão                     |                       |
 | 28.05.24         | Terça-feira    | **1 Exercício Escolar**                |                       |
 | 30.05.24         | Quinta-feira   | **FERIADO** - Corpus Christi           |                       |
-| 04.06.24         | Terça-feira    | Representação Intermediária de Código  |                       |
+| 04.06.24         | Terça-feira    | Escopo, Tabela de Símbolos, Visitors  |                       |
 | 06.06.24         | Quinta-feira   | Representação Intermediária de Código  |                       |
-| 11.06.24         | Terça-feira    | Análise e Otimização de Código         |                       |
+| 11.06.24         | Terça-feira    | Representação Intermediária de Código         |                       |
 | 13.06.24         | Quinta-feira   | Análise e Otimização de Código         |                       |
 | 18.06.24         | Terça-feira    | Análise e Otimização de Código         |                       |
 | 20.06.24         | Quinta-feira   | Análise e Otimização de Código         |                       |
-| 25.06.24         | Terça-feira    | Ambientes de Execução                  |                       |
+| 25.06.24         | Terça-feira    | Análise e Otimização de Código                  |                       |
 | 27.06.24         | Quinta-feira   | Ambientes de Execução                  |                       |
-| 02.07.24         | Terça-feira    | Geração de Código                      |                       |
+| 02.07.24         | Terça-feira    | Ambientes de Execução                      |                       |
 | 04.07.24         | Quinta-feira   | Geração de Código                      |                       |
 | 09.07.24         | Terça-feira    | Geração de Código                      |                       |
-| 11.07.24         | Quinta-feira   | **2 Exercício Escolar**                |                      |
+| 11.07.24         | Quinta-feira   | Geração de Código                |                      |
 | 16.07.24         | Terça-feira    | **FERIADO** - Dia de Nossa Senhora do Carmo  |                       |
-| 18.07.24         | Quinta-feira   | APS                      |                       |
+| 18.07.24         | Quinta-feira   | **2 Exercício Escolar**                      |                       |
 | 23.07.24         | Terça-feira    | APS                      |                       |
 | 25.07.24         | Quinta-feira   | **Segunda Chamada** |                      |
 | 30.07.24         | Terça-feira    | APS                      |                       |
