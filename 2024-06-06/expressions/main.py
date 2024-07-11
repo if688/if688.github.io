@@ -1,6 +1,5 @@
 from lexer import *
 from parse import *
-from astvisitor import *
 
 def main():
     if len(sys.argv) != 2:
@@ -14,8 +13,6 @@ def main():
     print("Terminamos.")
 
     for exp in expressions:
-        posFixa = PosFixa(exp)
-        evaluator = Eval(exp)
-        print(str(exp) + " == " + posFixa.posfixa() + " == " + str(evaluator.eval()))
+        print(exp)
     
 main()

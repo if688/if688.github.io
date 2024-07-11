@@ -82,23 +82,26 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 | 16.05.24         | Quinta-feira   | [Análise Semântica - Tipos](2024-05-16.md)                      |                       |
 | 21.05.24         | Terça-feira    | [_Recursive-Descent Parsing_ e _Abstract Syntax Trees_](2024-05-21.md)                      |                       |
 | 23.05.24         | Quinta-feira   | Revisão                     |                       |
-| 28.05.24         | Terça-feira    | **1 Exercício Escolar**                |                       |
+| 28.05.24         | Terça-feira    | **Aula Cancelada - CHUVA**                |                       |
 | 30.05.24         | Quinta-feira   | **FERIADO** - Corpus Christi           |                       |
-| 04.06.24         | Terça-feira    | Escopo, Tabela de Símbolos, Visitors  |                       |
-| 06.06.24         | Quinta-feira   | Representação Intermediária de Código  |                       |
-| 11.06.24         | Terça-feira    | Representação Intermediária de Código         |                       |
-| 13.06.24         | Quinta-feira   | Análise e Otimização de Código         |                       |
-| 18.06.24         | Terça-feira    | Análise e Otimização de Código         |                       |
-| 20.06.24         | Quinta-feira   | Análise e Otimização de Código         |                       |
-| 25.06.24         | Terça-feira    | Análise e Otimização de Código                  |                       |
-| 27.06.24         | Quinta-feira   | Ambientes de Execução                  |                       |
-| 02.07.24         | Terça-feira    | Ambientes de Execução                      |                       |
-| 04.07.24         | Quinta-feira   | Geração de Código                      |                       |
-| 09.07.24         | Terça-feira    | Geração de Código                      |                       |
-| 11.07.24         | Quinta-feira   | Geração de Código                |                      |
+| 04.06.24         | Terça-feira    | **1 Exercício Escolar**                |                       |
+| 06.06.24         | Quinta-feira   | [AST Visitors](2024-06-06.md)  |                       |
+| 11.06.24         | Terça-feira    | [Representação Intermediária de Código - Código de 3 Endereços](2024-06-11.md)         |                       |
+| 13.06.24         | Quinta-feira   | **Aula Cancelada - Cirurgia Leopoldo**                |                       |
+| 18.06.24         | Terça-feira    | [Representação Intermediária de Código - _Control-flow Graphs_](2024-06-18.md)         |                       |
+| 20.06.24         | Quinta-feira   | [Análise e Otimização de Código - Otimizações Locais](2024-06-20.md)         |                       |
+| 25.06.24         | Terça-feira    | [Análise e Otimização de Código - Otimizações Globais _forward-flow_](2024-06-25.md)         |                       |
+| 27.06.24         | Quinta-feira   | [Análise e Otimização de Código - Otimizações Globais _backward-flow_](2024-06-27.md)         |                       |
+| 02.07.24         | Terça-feira    | [Ambientes de Execução - Pilha](2024-07-02.md)                     |                       |
+| 04.07.24         | Quinta-feira   | [Ambientes de Execução - Heap](2024-07-04.md)                      |                       |
+| 09.07.24         | Terça-feira    | [Geração de Código](2024-07-09.md)                      |                       |
+| 11.07.24         | Quinta-feira   | [Geração de Código](2024-07-11.md)                |                      |
 | 16.07.24         | Terça-feira    | **FERIADO** - Dia de Nossa Senhora do Carmo  |                       |
-| 18.07.24         | Quinta-feira   | **2 Exercício Escolar**                      |                       |
+| 18.07.24         | Quinta-feira   | Atividade ANTLR                      |                       |
 | 23.07.24         | Terça-feira    | APS                      |                       |
-| 25.07.24         | Quinta-feira   | **Segunda Chamada** |                      |
-| 30.07.24         | Terça-feira    | APS                      |                       |
-| 01.08.24         | Quinta-feira   | **Prova Final**                |                      |
+| 25.07.24         | Quinta-feira   | APS |                      |
+| 30.07.24         | Terça-feira    | Revisão/Tira-Dúvidas                      |                       |
+| 01.08.24         | Quinta-feira   | **2 Exercício Escolar**                      |                       |
+| 06.08.24         | Terça-feira    | **Segunda Chamada** |                      |
+| 08.08.24         | Terça-feira    | APS                      |                       |
+| 13.08.24         | Quinta-feira   | **Prova Final**                |                      |

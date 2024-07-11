@@ -1,0 +1,21 @@
+PROGRAM nested BEGIN
+PRINT "Type a number"
+DECL num : INT
+INPUT num
+DECL c1 : BOOLEAN
+DECL c2 : BOOLEAN
+DECL c3 : BOOLEAN
+LET c1 = num>100
+LET c2 = num<1000
+LET c3 = num>500
+
+IF c1 THEN
+  PRINT "Maior que 100"
+  IF c2 THEN
+    PRINT "Menor que 1000"
+    IF c3 THEN
+      PRINT "Maior que 500"
+    ENDIF
+  ENDIF
+ENDIF
+ENDPROGRAM
