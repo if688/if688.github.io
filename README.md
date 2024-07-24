@@ -97,8 +97,8 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 | 09.07.24         | Terça-feira    | [Geração de Código](2024-07-09.md)                      |                       |
 | 11.07.24         | Quinta-feira   | [Geração de Código](2024-07-11.md)                |                      |
 | 16.07.24         | Terça-feira    | **FERIADO** - Dia de Nossa Senhora do Carmo  |                       |
-| 18.07.24         | Quinta-feira   | Atividade ANTLR                      |                       |
-| 23.07.24         | Terça-feira    | APS                      |                       |
+| 18.07.24         | Quinta-feira   | APS                      |                       |
+| 23.07.24         | Terça-feira    | [Atividade ANTLR](2024-07-23.md)                      |                       |
 | 25.07.24         | Quinta-feira   | APS |                      |
 | 30.07.24         | Terça-feira    | Revisão/Tira-Dúvidas                      |                       |
 | 01.08.24         | Quinta-feira   | **2 Exercício Escolar**                      |                       |
