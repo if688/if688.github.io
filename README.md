@@ -66,8 +66,6 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 *Este plano de ensino está sujeito a alterações durante o semestre, visite frequentemente a página para obter a versão mais atualizada, ou acompanhe os updates no repositório.*
 
-Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os dias da semana traduzidos para português:
-
 | Data do Encontro | Dia da Semana  | Conteúdo Programático | Atividades Associadas |
 |------------------|----------------|-----------------------|-----------------------|
 | 16.04.24         | Terça-feira    | [Introdução](2024-04-16.md)            |                       |
@@ -103,5 +101,5 @@ Aqui está a tabela completa das aulas programadas até o dia 03.08.24, com os d
 | 30.07.24         | Terça-feira    | Revisão/Tira-Dúvidas                      |                       |
 | 01.08.24         | Quinta-feira   | **2 Exercício Escolar**                      |                       |
 | 06.08.24         | Terça-feira    | **Segunda Chamada** |                      |
-| 08.08.24         | Terça-feira    | APS                      |                       |
-| 13.08.24         | Quinta-feira   | **Prova Final**                |                      |
+| 08.08.24         | Quinta-feira    | APS                      |                       |
+| 13.08.24         | Terça-feira   | **Prova Final**                |                      |
