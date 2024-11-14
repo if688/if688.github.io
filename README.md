@@ -73,7 +73,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | Data      | DIA    | Aula | Conteúdo                                 | Atividades Associadas                    | 
 |-----------|--------|------|------------------------------------------|------------------------------------------|
 | 12.11.24  | Terça  |  --- | **SEM AULA**                             | ---                                      |
-| 14.11.24  | Quinta | 1    | Introdução, admin                        |                                          | 
+| 14.11.24  | Quinta | 1    | [Introdução, admin](2024-11-14.md) | Pesquisa inicial da disciplina (Google Classroom) | 
 | 19.11.24  | Terça  | 2    | Análise Léxica                           |                                          | 
 | 21.11.24  | Quinta | 3    | Implementando e gerando Analisadores Léxicos | Exercício 1 - Análise Léxica         | 
 | 26.11.24  | Terça  | 4    | Análise Sintática Top-Down               |                                          | 
