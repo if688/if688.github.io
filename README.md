@@ -72,7 +72,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | Data      | DIA    | Aula | Conteúdo                                 | Atividades Associadas                    | 
 |-----------|--------|------|------------------------------------------|------------------------------------------|
-| 12.11.24  | Terça  |  --- | **Sem Aula**                             | ---                                      |
+| 12.11.24  | Terça  |  --- | **SEM AULA**                             | ---                                      |
 | 14.11.24  | Quinta | 1    | Introdução, admin                        |                                          | 
 | 19.11.24  | Terça  | 2    | Análise Léxica                           |                                          | 
 | 21.11.24  | Quinta | 3    | Implementando e gerando Analisadores Léxicos | Exercício 1 - Análise Léxica         | 
@@ -95,8 +95,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 20.02.25  | Quinta | 19   | Análise e Otimização de Código           | Exercício 9 - Data-Flow Analyses         | 
 | 25.02.25  | Terça  | 20   | Análise e Otimização de Código           |                                          | 
 | 27.02.25  | Quinta | 21   | Análise e Otimização de Código           | Exercício 10 - Data-Flow Analyses        | 
-| 04.03.25  | Terça  |   -   | **Carnaval**                            | ---                                      |
-| 06.03.25  | Quinta |   -   | **Data Magna de Pernambuco**            | ---                                      |
+| 04.03.25  | Terça  | ---  | **Carnaval**                             | ---                                      |
+| 06.03.25  | Quinta | ---  | **Data Magna de Pernambuco**             | ---                                      |
 | 11.03.25  | Terça  | 22   | Ambientes de Execução                    |                                          | 
 | 13.03.25  | Quinta | 23   | Ambientes de Execução                    |                                          | 
 | 18.03.25  | Terça  | 24   | Geração de Código                        | Exercício 11 - Garbage Collection        |
