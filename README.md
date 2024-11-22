@@ -73,9 +73,9 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | Data      | DIA    | Aula | Conteúdo                                 | Atividades Associadas                    | 
 |-----------|--------|------|------------------------------------------|------------------------------------------|
 | 12.11.24  | Terça  |  --- | **SEM AULA**                             | ---                                      |
-| 14.11.24  | Quinta | 1    | [Introdução, admin](2024-11-14.md) | Pesquisa inicial da disciplina (Google Classroom) | 
-| 19.11.24  | Terça  | 2    | [Análise Léxica](2024-11-19.md)                           |                                          | 
-| 21.11.24  | Quinta | 3    | Implementando e gerando Analisadores Léxicos | Exercício 1 - Análise Léxica         | 
+| 14.11.24  | Quinta | 1    | [Introdução, admin](2024-11-14.md)       | Pesquisa inicial da disciplina (Google Classroom) | 
+| 19.11.24  | Terça  | 2    | [Análise Léxica](2024-11-19.md)          |                                          | 
+| 21.11.24  | Quinta | 3    | [Implementando e gerando Analisadores Léxicos](2024-11-21.md) | Exercício 1 - Análise Léxica         | 
 | 26.11.24  | Terça  | 4    | Análise Sintática Top-Down               |                                          | 
 | 28.11.24  | Quinta | 5    | Análise Sintática Top-Down               | Exercício 2 - Recursive-descent parsing  |
 | 03.12.24  | Terça  | 6    | Análise Sintática Bottom-up              |                                          |
