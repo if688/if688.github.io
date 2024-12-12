@@ -9,8 +9,12 @@ def main():
 
     lexer = Lexer(input)
     parser = Parser(lexer)
-    expressions = parser.parse()
+    program = parser.parse()
+    # program = SumExpr(NumExpr(21), NumExpr(32))
+    # program = MulExpr(NumExpr(42), SumExpr(NumExpr(57), NumExpr(22)))
+    for exp in program: 
+        print(exp)
+
     print("Terminamos.")
 
-    
 main()

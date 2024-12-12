@@ -1,5 +1,6 @@
 import sys
 from lexer import *
+from astnodes import *
 
 class Parser: 
     def __init__(self, lexer):
@@ -40,38 +41,57 @@ class Parser:
     
     #     S' ::= S$
     def parse(self):
-        self.S()
+        prog = self.S()
         self.match(TokenType.EOF)
-
-
+        return prog
+        
     #     S ::= (E";")*
     def S(self):
-        while not self.checkToken(TokenType.EOF):
-            self.E()
+        explist = []
+        while not(self.checkToken(TokenType.EOF)):
+            explist.append(self.E())
             self.match(TokenType.SEMICOLON)
+        return explist
 
     #     E ::= T (("+"|"-") T)*
     def E(self):
-        self.T()
+        astnode = self.T()
         while (self.checkToken(TokenType.PLUS) or self.checkToken(TokenType.MINUS)):
-            self.nextToken()
-            self.T()
-    
+            if self.checkToken(TokenType.PLUS):
+                self.match(TokenType.PLUS)
+                t = self.T()
+                astnode = SumExpr(astnode, t)
+            elif self.checkToken(TokenType.MINUS):
+                self.match(TokenType.MINUS)
+                t = self.T()
+                astnode = SubExpr(astnode, t)
+        return astnode
     #     T ::= F (("*"|"/") F)* 
     def T(self):
-        self.F()
+        astnode = self.F()
         while (self.checkToken(TokenType.ASTERISK) or self.checkToken(TokenType.SLASH)):
-            self.nextToken()
-            self.F()
-
+            if self.checkToken(TokenType.ASTERISK):
+                self.match(TokenType.ASTERISK)
+                f = self.F()
+                astnode = MulExpr(astnode, f)
+            elif self.checkToken(TokenType.SLASH):
+                self.match(TokenType.SLASH)
+                f = self.F()
+                astnode = DivExpr(astnode, f)
+        return astnode
     #     F ::= num | id | "(" E ")"
     def F(self):
+        astnode = None
         if self.checkToken(TokenType.NUMBER):
+            astnode = NumExpr(int(self.tokenAtual.text))
             self.match(TokenType.NUMBER)
         elif self.checkToken(TokenType.IDENT):
+            astnode = IdExpr(self.tokenAtual.text)
             self.match(TokenType.IDENT)
         elif self.checkToken(TokenType.L_PAREN):
             self.match(TokenType.L_PAREN)
-            self.E()
+            astnode = self.E()
             self.match(TokenType.R_PAREN)
-        
+        else:
+            self.abort("Token inesperado, esperava número, identificador ou abre parênteses.")
+        return astnode

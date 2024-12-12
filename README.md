@@ -77,32 +77,32 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 19.11.24  | Terça  | 2    | [Análise Léxica](2024-11-19.md)          |                                          | 
 | 21.11.24  | Quinta | 3    | [Implementando e gerando Analisadores Léxicos](2024-11-21.md) | Exercício 1 - Análise Léxica         | 
 | 26.11.24  | Terça  | 4    | [Análise Sintática _Top-Down_ - _Recursive Descent Parsing_](2024-11-26.md)               |                                          | 
-| 28.11.24  | Quinta | 5    | Análise Sintática _Top-Down_ - LL(1) _Parsing_               | Exercício 2 - Recursive-descent parsing  |
-| 03.12.24  | Terça  | 6    | Análise Sintática Bottom-up              |                                          |
-| 05.12.24  | Quinta | 7    | Análise Sintática Bottom-up              | Exercício 3 - LL(1) parsing              |
-| 10.12.24  | Terça  | 8    | Análise Semântica                        |                                          |
-| 12.12.24  | Quinta | 9    | Análise Semântica                        | Exercício 4 - LR(1) parsing              |
+| 28.11.24  | Quinta | 5    | [Análise Sintática _Top-Down_ - LL(1) _Parsing_](2024-11-28.md)               | ~~Exercício 2 - Recursive-descent parsing~~  |
+| 03.12.24  | Terça  | 6    | [Análise Sintática Bottom-up - LR(0)](2024-12-03.md)              |                                          |
+| 05.12.24  | Quinta | 7    | [Análise Sintática Bottom-up - LR(1)](2024-12-05.md)             | Exercício 2 - LL(1) parsing              |
+| 10.12.24  | Terça  | 8    | [Análise Semântica - Intro e ASTs](2024-12-10.md) |                                          |
+| 12.12.24  | Quinta | 9    | [Análise Semântica - Visitors](2024-12-12.md) | Exercício 3 - _Recursive-descent parsing_              |
 | 17.12.24  | Terça  | 10   | Análise Semântica                        |                                          |
-| 19.12.24  | Quinta | 11   | Análise Semântica                        | Exercício 5 - ANTLR                      |
+| 19.12.24  | Quinta | 11   | Análise Semântica                        | Exercício 4 - ANTLR                      |
 | 22.12 a 26.01 | --- | --- | **RECESSO ESCOLAR**                      | ---                                      |
 | 28.01.25  | Terça  | 12   | Revisão                                  |                                          |
-| 30.01.25  | Quinta | 13   | **1 Exercício Escolar**                  | Exercício 6 - Type-Checking              |
+| 30.01.25  | Quinta | 13   | **1 Exercício Escolar**                  | Exercício 5 - Type-Checking              |
 | 04.02.25  | Terça  | 14   | Representações Intermediárias de Código  |                                          |
-| 06.02.25  | Quinta | 15   | Representações Intermediárias de Código  | Exercício 7 - Interpretador simples      |
+| 06.02.25  | Quinta | 15   | Representações Intermediárias de Código  | Exercício 6 - Interpretador simples      |
 | 11.02.25  | Terça  | 16   | Representações Intermediárias de Código  |                                          | 
-| 13.02.25  | Quinta | 17   | Representações Intermediárias de Código  | Exercício 8 - LLVM?                      | 
+| 13.02.25  | Quinta | 17   | Representações Intermediárias de Código  | Exercício 7 - LLVM?                      | 
 | 18.02.25  | Terça  | 18   | Análise e Otimização de Código           |                                          | 
-| 20.02.25  | Quinta | 19   | Análise e Otimização de Código           | Exercício 9 - Data-Flow Analyses         | 
+| 20.02.25  | Quinta | 19   | Análise e Otimização de Código           | Exercício 8 - Data-Flow Analyses         | 
 | 25.02.25  | Terça  | 20   | Análise e Otimização de Código           |                                          | 
-| 27.02.25  | Quinta | 21   | Análise e Otimização de Código           | Exercício 10 - Data-Flow Analyses        | 
+| 27.02.25  | Quinta | 21   | Análise e Otimização de Código           | Exercício 9 - Data-Flow Analyses        | 
 | 04.03.25  | Terça  | ---  | **Carnaval**                             | ---                                      |
 | 06.03.25  | Quinta | ---  | **Data Magna de Pernambuco**             | ---                                      |
 | 11.03.25  | Terça  | 22   | Ambientes de Execução                    |                                          | 
 | 13.03.25  | Quinta | 23   | Ambientes de Execução                    |                                          | 
-| 18.03.25  | Terça  | 24   | Geração de Código                        | Exercício 11 - Garbage Collection        |
+| 18.03.25  | Terça  | 24   | Geração de Código                        | Exercício 10 - Garbage Collection        |
 | 20.03.25  | Quinta | 25   | Geração de Código                        |                                          | 
 | 25.03.25  | Terça  | 26   | Geração de Código                        |                                          | 
-| 27.03.25  | Quinta | 27   | Geração de Código                        | Exercício 12 - Geração de Código         | 
+| 27.03.25  | Quinta | 27   | Geração de Código                        | Exercício 11 - Geração de Código         | 
 | 01.04.25  | Terça  | 28   | Revisão                                  |                                          | 
 | 03.04.25  | Quinta | 29   | **2 Exercício Escolar**                  |                                          | 
 | 08.04.25  | Terça  | 30   | _APS_                                    |                                          | 
