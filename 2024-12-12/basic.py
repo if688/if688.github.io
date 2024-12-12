@@ -10,8 +10,7 @@ def main():
 
     lexer = Lexer(input)
     parser = Parser(lexer)
-    parser.parse()
-    print("Terminamos.")
-
+    program = parser.parse()
+    print(program)
 
 main()

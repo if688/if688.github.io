@@ -49,6 +49,8 @@ class Lexer:
             token = Token(self.caractereAtual, TokenType.ASTERISK) #RETORNAR SIMBOLO DE MULTIPLICACAO
         elif self.caractereAtual == '/':
             token = Token(self.caractereAtual, TokenType.SLASH) #RETORNAR SIMBOLO DE DIVISAO
+        elif self.caractereAtual == ':':
+            token = Token(self.caractereAtual, TokenType.COLON) #RETORNAR SIMBOLO DE DOIS PONTOS - :
         elif self.caractereAtual == '\n':
             token = Token(self.caractereAtual, TokenType.QUEBRA_LINHA) #RETORNAR SIMBOLO DE QUEBRA DE LINHA
         elif self.caractereAtual == '\0':
@@ -80,7 +82,7 @@ class Lexer:
                 self.nextChar()
                 token = Token(c + self.caractereAtual, TokenType.NOTEQ) # RETORNAR Token '!='
             else: 
-                self.abort("Esperava !=, recebeu !"+self.peek())
+                token = Token(self.caractereAtual, TokenType.BANG)
         elif self.caractereAtual == '\"':
             self.nextChar()
             posicaoInicial = self.posicaoAtual
@@ -139,6 +141,9 @@ class TokenType(enum.Enum):
     NUMERO = 1
     IDENTIFICADOR = 2
     STRING_LITERAL = 3
+    COLON = 4 # :
+    L_PAREN = 5
+    R_PAREN = 6
     #PALAVRAS RESERVADAS
     LABEL = 101
     GOTO = 102
@@ -151,6 +156,17 @@ class TokenType(enum.Enum):
     WHILE = 109
     REPEAT = 110
     ENDWHILE = 111
+    DECL = 112
+    INT = 113
+    BOOLEAN = 114
+    TRUE = 115
+    FALSE = 116
+    STRING = 117
+    PROGRAM = 118
+    ENDPROGRAM = 119 
+    BLOCK = 120
+    BEGIN = 121
+    ENDBLOCK = 122
     #OPERADORES
     EQ = 201  
     PLUS = 202
@@ -163,3 +179,4 @@ class TokenType(enum.Enum):
     LTEQ = 209
     GT = 210
     GTEQ = 211
+    BANG = 212 # !
