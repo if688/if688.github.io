@@ -10,6 +10,7 @@ PROGRAM fibonacci BEGIN
     DECL f : BOOLEAN
     LET a = 0
     LET b = 1
+    
 
     WHILE nums > 0 REPEAT
         PRINT a

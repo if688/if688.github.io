@@ -1,0 +1,6 @@
+PROGRAM simples BEGIN
+  PRINT "Type a number"
+  DECL num : INT
+  INPUT num
+  PRINT num
+ENDPROGRAM

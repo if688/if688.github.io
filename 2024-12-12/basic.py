@@ -1,5 +1,6 @@
 from lexer import *
 from parse import *
+from astvisitor import *
 import sys
 
 def main(): 
@@ -12,5 +13,9 @@ def main():
     parser = Parser(lexer)
     program = parser.parse()
     print(program)
+    visitor = CountVars(program)
+    numVars = visitor.count()
+    print(numVars)
+    
 
 main()

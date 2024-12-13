@@ -1,5 +1,6 @@
 from lexer import *
 from parse import *
+from visitor import *
 
 def main():
     if len(sys.argv) != 2:
@@ -12,9 +13,32 @@ def main():
     program = parser.parse()
     # program = SumExpr(NumExpr(21), NumExpr(32))
     # program = MulExpr(NumExpr(42), SumExpr(NumExpr(57), NumExpr(22)))
+    
     for exp in program: 
-        print(exp)
+        visitor = PrettyPrint(exp)
+        resultado = visitor.prettyPrint()
+        print(resultado)
+        visitor = PosFixa(exp)
+        resultado = visitor.posFixa()
+        print(resultado)
+        visitor = Eval(exp)
+        resultado = visitor.eval()
+        print(resultado)
+        # print(exp)
 
-    print("Terminamos.")
+    # p = SumExpr( 
+    #     NumExpr(8),
+    #     SumExpr(
+    #         MulExpr(
+    #             NumExpr(10),
+    #             SubExpr(
+    #                 NumExpr(7),
+    #                 NumExpr(45)
+    #             )
+    #         ), 
+    #         NumExpr(2)
+    #     )
+    # )
+    # print("Terminamos.")
 
 main()
