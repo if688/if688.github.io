@@ -1,0 +1,10 @@
+PROGRAM simples BEGIN
+    DECL x : STRING
+    INPUT x
+    DECL y : INT
+    LET y = 500+2
+    PRINT x
+    IF y>100 THEN 
+       LET y = 2
+    ENDIF
+ENDPROGRAM

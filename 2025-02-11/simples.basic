@@ -1,0 +1,10 @@
+PROGRAM simples BEGIN
+    DECL x : STRING
+    INPUT x
+    DECL y : INT
+    DECL b : BOOLEAN
+    LET y = 500+2
+    IF y>100 THEN 
+       LET y = 2
+    ENDIF
+ENDPROGRAM
