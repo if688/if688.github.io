@@ -91,20 +91,19 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 06.02.25  | Quinta | 15   | **Aula Suspensa - CHUVAS**   |                    |
 | 11.02.25  | Terça  | 16   | [Representações Intermediárias de Código - Código de 3 endereços](2025-02-11.md)  |                                          | 
 | 13.02.25  | Quinta | 17   | [Representações Intermediárias de Código - Control-flow Graphs](2025-02-13.md)  |                                           | 
-| 18.02.25  | Terça  | 18   | Análise e Otimização de Código           |                                          | 
-| 20.02.25  | Quinta | 19   | Análise e Otimização de Código           |                                           | 
-| 25.02.25  | Terça  | 20   | Análise e Otimização de Código           |                                          | 
-| 27.02.25  | Quinta | 21   | Análise e Otimização de Código           |                                           | 
+| 18.02.25  | Terça  | 18   | [Análise e Otimização de Código - Otimizações Locais](2025-02-18.md)           |                                          | 
+| 20.02.25  | Quinta | 19   | **Aula Suspensa - Reunião ProPG e Professor sem voz**   |                    |
+| 25.02.25  | Terça  | 20   | [Análise e Otimização de Código - Otimizações globais _forward-flow_](2025-02-25.md)           |                                          | 
+| 27.02.25  | Quinta | 21   | [Análise e Otimização de Código - Otimizações globais _backward-flow_ ](2025-02-27.md)           |                                           | 
 | 04.03.25  | Terça  | ---  | **Carnaval**                             | ---                                      |
 | 06.03.25  | Quinta | ---  | **Data Magna de Pernambuco**             | ---                                      |
-| 11.03.25  | Terça  | 22   | Ambientes de Execução                    |                                          | 
+| 11.03.25  | Terça  | 22   | Análise e Otimização de Código & Ambiente de Execução                    |                                          | 
 | 13.03.25  | Quinta | 23   | Ambientes de Execução                    |                                          | 
-| 18.03.25  | Terça  | 24   | Geração de Código                        |                                           | 
+| 18.03.25  | Terça  | 24   | Ambientes de Execução                        |                                           | 
 | 20.03.25  | Quinta | 25   | Geração de Código                        |                                          | 
 | 25.03.25  | Terça  | 26   | Geração de Código                        |                                          | 
-| 27.03.25  | Quinta | 27   | Geração de Código                        |                                           | 
-| 01.04.25  | Terça  | 28   | Revisão                                  |                                          | 
-| 03.04.25  | Quinta | 29   | **2 Exercício Escolar**                  |                                          | 
+| 27.03.25  | Quinta | 27   | Revisão                        |                                           | 
+| 01.04.25  | Terça  | 28   | **2 Exercício Escolar**                                  |                                          | 
+| 03.04.25  | Quinta | 29   | **Segunda Chamada**                  |                                          | 
 | 08.04.25  | Terça  | 30   | _APS_                                    |                                          | 
-| 10.04.25  | Quinta | 31   | **Segunda Chamada**                      |                                          | 
-| 15.04.25  | Terça  | 32   | **Prova Final**                          |                                          | 
+| 10.04.25  | Quinta | 31   | **Prova Final**                      |                                          | 
