@@ -107,4 +107,4 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 03.04.25  | Quinta | 29   | Revisão                                  |                                          | 
 | 08.04.25  | Terça  | 30   | **2 Exercício Escolar**                  |                                          | 
 | 10.04.25  | Quinta | 31   | **Segunda Chamada**                      |                                          | 
-| 10.04.25  | Quinta | 31   | **Prova Final**                          |                                          | 
+| 15.04.25  | Terça |  32   | **Prova Final**                          |                                          | 
