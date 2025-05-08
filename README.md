@@ -84,7 +84,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 05.06.25 | quinta        | Análise Semântica                   |                       |
 | 10.06.25 | terça         | Análise Semântica                   |                       |
 | 12.06.25 | quinta        | Análise Semântica                      |                       |
-| 17.06.25 | terça         | 1 Exercício Escolar                      | Exercício 5 - Type-Checking                      |
+| 17.06.25 | terça         | Análise Semântica                      | Exercício 5 - Type-Checking                      |
 | 19.06.25 | quinta        | **Corpus Christi**        |                       |
 | 24.06.25 | terça         | **São João**              |                       |
 | 26.06.25 | quinta        | Representações Intermediárias de Código                      |                       |
@@ -100,6 +100,6 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 31.07.25 | quinta        | Geração de Código                      | Exercício 8                      |
 | 05.08.25 | terça         | Geração de Código                      |                       |
 | 07.08.25 | quinta        | Geração de Código                      |                       |
-| 12.08.25 | terça         | **2 Exercício Escolar**                      |                       |
+| 12.08.25 | terça         | **Exercício Escolar**                      |                       |
 | 14.08.25 | quinta        | **Segunda Chamada**                      |                       | 
 | 19.08.25 | terça         | **Prova final**                      |                       |
