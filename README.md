@@ -6,17 +6,10 @@
 
 * **Professor:** Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
 
-* **Monitores:** 
-  - João Victor Ribeiro Costa de Omena ([@Jvrco](https://github.com/Jvrco) --- jvrco@cin)
-  - João Vitor Cavalcanti Regis ([@Jvcregis](https://github.com/Jvcregis) --- jvcr@cin)
-  - Luis Guilherme Monteiro Maciel Nunes ([@nuneslg](https://github.com/nuneslg) --- lgmmn@cin)
-  - Pedro Arthur Santana Patriota ([@pedro-patriota](https://github.com/pedro-patriota) --- pasp@cin)
-  - Rodrigo Rossiter Ladvocat Cintra ([@rodrigoladvocat](https://github.com/matheusalb) --- rrlc@cin)
-
 ### Horário e Local de Aulas
 
-* Terça (13h-15h), Sala D005
-* Quinta (15h-17h), Sala D005
+* Terça (10h-12h), Anfiteatro
+* Quinta (8h-10h), Anfiteatro
 
 ### Ementa
 
@@ -49,16 +42,16 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Recursos
 
-- [Discord](https://discord.gg/GavhqBfBRM)
-- [Google Classroom](https://classroom.google.com/c/NzI5NzM2NDQwNzk4?cjc=bg4wmer)
+- [Discord](https://discord.gg/yAcEeZ3Q)
+- [Google Classroom](https://classroom.google.com/c/Nzc4MDUwMTQxNjM0?cjc=umxl6ksl)
 - Github Classroom - Ver instruções no Google Classroom após o primeiro exercício ser disparado
 
 
 ### Avaliação
 
-* `Nota` = (`Atividades` x 5 + `Provas` x 5) / 10 
+* `Nota` = (`Atividades` x 5 + `Prova` x 5) / 10 
   * `Atividades` = Atividades de programação
-  * `Provas` = Exercícios escolares
+  * `Prova` = Exercício escolar
 * `Final`
 
 - Observações:
@@ -80,7 +73,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 22.05.25 | quinta        | Análise Sintática                   |                       |
 | 27.05.25 | terça         | Análise Sintática                   | Exercício 3 - LL(1) parsing                      |
 | 29.05.25 | quinta        | Análise Semântica                   |                       |
-| 03.06.25 | terça         | APS - Análise Sintática (ANTLR)                   | Exercício 4 - ANTLR                      |
+| 03.06.25 | terça         | _APS - Análise Sintática (ANTLR)_                   | Exercício 4 - ANTLR                      |
 | 05.06.25 | quinta        | Análise Semântica                   |                       |
 | 10.06.25 | terça         | Análise Semântica                   |                       |
 | 12.06.25 | quinta        | Análise Semântica                      |                       |
@@ -94,7 +87,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 10.07.25 | quinta        | Análise e Otimização de Código                      |                       |
 | 15.07.25 | terça         | Análise e Otimização de Código                      |                       |
 | 17.07.25 | quinta        | Análise e Otimização de Código                      | Exercício 7                      |
-| 22.07.25 | terça         | APS                      |                       |
+| 22.07.25 | terça         | _APS_                      |                       |
 | 24.07.25 | quinta        | Ambientes de Execução                      |                       |
 | 29.07.25 | terça         | Ambientes de Execução                      |                       |
 | 31.07.25 | quinta        | Geração de Código                      | Exercício 8                      |
