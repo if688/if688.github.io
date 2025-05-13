@@ -67,7 +67,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 |----------|---------------|-----------------------|-----------------------|
 | 06.05.25 | terça         | [Introdução, admin](2025-05-06.md)       | Pesquisa inicial da disciplina (Google Classroom) | 
 | 08.05.25 | quinta        | [Análise Léxica](2025-05-08.md)                      |                       |
-| 13.05.25 | terça         | Implementando Analisadores Léxicos                      | Exercício 1 - Análise Léxica |
+| 13.05.25 | terça         | [Implementando Analisadores Léxicos](2025-05-13.md)                      | Exercício 1 - Análise Léxica |
 | 15.05.25 | quinta        | Análise Sintática                   |                       |
 | 20.05.25 | terça         | Análise Sintática                   | Exercício 2 - Recursive-descent parsing                      |
 | 22.05.25 | quinta        | Análise Sintática                   |                       |
