@@ -74,7 +74,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 27.05.25 | terça         | [Análise Sintática - Bottom-up parsing](2025-05-27.md)                  | 
 | 29.05.25 | quinta        | [Análise Sintática - Bottom-up parsing](2025-05-29.md)                   |                       |
 | 03.06.25 | terça         | _APS - Análise Sintática (ANTLR)_                   | Exercício 3 - ANTLR                      |
-| 05.06.25 | quinta        | Análise Sintática - Recursive-descent parsing                   |                       |
+| 05.06.25 | quinta        | [Análise Sintática - Recursive-descent parsing](2025-06-05.md)                   |                       |
 | 10.06.25 | terça         | Análise Semântica                   | Exercício 4 - Recursive-descent parsing                      |
 | 12.06.25 | quinta        | Análise Semântica                      |                       |
 | 17.06.25 | terça         | Análise Semântica                      | Exercício 5 - Type-Checking                      |
