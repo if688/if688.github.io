@@ -36,7 +36,7 @@ class Parser:
     def parse(self):
         return self.program()
 
-    # program ::= statement
+    # program ::= PROGRAM IDENTIFICADOR BEGIN nl statement* ENDPROGRAM $
     def program(self):
         stmts = []
         self.match(TokenType.PROGRAM)

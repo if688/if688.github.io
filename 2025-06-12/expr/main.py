@@ -13,6 +13,13 @@ def main():
     program = parser.parse()
     for exp in program:
         print(exp)
+        visitor = PosFixa(exp)
+        posFixa = visitor.posFixa()
+        visitor = EvalVisitor(exp)
+        valor = visitor.eval()
+        print(posFixa)
+        print(valor)
+        print()
 
     # # # 42 + (57 + 22)
     # e = SomaExpr(

@@ -65,34 +65,34 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | Data     | Dia da Semana | Conteúdo Programático | Atividades Associadas |
 |----------|---------------|-----------------------|-----------------------|
-| 06.05.25 | terça         | [Introdução, admin](2025-05-06.md)       | Pesquisa inicial da disciplina (Google Classroom) | 
-| 08.05.25 | quinta        | [Análise Léxica](2025-05-08.md)                      |                       |
-| 13.05.25 | terça         | [Implementando Analisadores Léxicos](2025-05-13.md)                      | Exercício 1 - Análise Léxica |
-| 15.05.25 | quinta        | [Análise Sintática - Introdução a Top-Down Parsing](2025-05-15.md)                  |                       |
-| 20.05.25 | terça         | [Análise Sintática - LL(1) parsing](2025-05-20.md)                   | 
-| 22.05.25 | quinta        | [Análise Sintática - ](2025-05-22.md)                   | Exercício 2 - LL(1) parsing                      |
-| 27.05.25 | terça         | [Análise Sintática - Bottom-up parsing](2025-05-27.md)                  | 
-| 29.05.25 | quinta        | [Análise Sintática - Bottom-up parsing](2025-05-29.md)                   |                       |
-| 03.06.25 | terça         | _APS - Análise Sintática (ANTLR)_                   | Exercício 3 - ANTLR                      |
-| 05.06.25 | quinta        | [Análise Sintática - Recursive-descent parsing](2025-06-05.md)                   |                       |
-| 10.06.25 | terça         | [Análise Semântica - Introdução e ASTs](2025-06-10.md)                   | Exercício 4 - Recursive-descent parsing                      |
-| 12.06.25 | quinta        | [Análise Semântica - Visitors](2025-06-12.md)                      |                       |
-| 17.06.25 | terça         | Análise Semântica                      | Exercício 5 - Type-Checking                      |
-| 19.06.25 | quinta        | **Corpus Christi**        |                       |
-| 24.06.25 | terça         | **São João**              |                       |
-| 26.06.25 | quinta        | Análise Semântica                      |                       |
-| 01.07.25 | terça         | Representações Intermediárias de Código                      | Exercício 6                      |
-| 03.07.25 | quinta        | Representações Intermediárias de Código                      |  Interpretador                      |
-| 08.07.25 | terça         | Representações Intermediárias de Código                      | Exercício 7                      |
-| 10.07.25 | quinta        | Análise e Otimização de Código                      |                       |
-| 15.07.25 | terça         | Análise e Otimização de Código                      | Exercício 8                      |
-| 17.07.25 | quinta        | Análise e Otimização de Código                      |                       |
-| 22.07.25 | terça         | _APS_                      |                       | Exercício 9
-| 24.07.25 | quinta        | Ambientes de Execução                      |                       |
-| 29.07.25 | terça         | Ambientes de Execução                      | Exercício 10                      |
-| 31.07.25 | quinta        | Geração de Código                      |                       |
-| 05.08.25 | terça         | Geração de Código                      |                       |
-| 07.08.25 | quinta        | Geração de Código                      |                       |
-| 12.08.25 | terça         | **Exercício Escolar**                      |                       |
-| 14.08.25 | quinta        | **Segunda Chamada**                      |                       | 
-| 19.08.25 | terça         | **Prova final**                      |                       |
+| 06.05.25 | terça         | [Introdução, admin](2025-05-06.md)                           | Pesquisa inicial da disciplina (Google Classroom) | 
+| 08.05.25 | quinta        | [Análise Léxica](2025-05-08.md)                              |                       |
+| 13.05.25 | terça         | [Implementando Analisadores Léxicos](2025-05-13.md)          | Exercício 1 - Análise Léxica |
+| 15.05.25 | quinta        | [Análise Sintática - Introdução a Top-Down Parsing](2025-05-15.md) |                 |
+| 20.05.25 | terça         | [Análise Sintática - LL(1) parsing](2025-05-20.md)           |                       |
+| 22.05.25 | quinta        | [Análise Sintática - ](2025-05-22.md)                        | Exercício 2 - LL(1) parsing |
+| 27.05.25 | terça         | [Análise Sintática - Bottom-up parsing](2025-05-27.md)       |                       |
+| 29.05.25 | quinta        | [Análise Sintática - Bottom-up parsing](2025-05-29.md)       |                       |
+| 03.06.25 | terça         | _APS - Análise Sintática (ANTLR)_                            | Exercício 3 - ANTLR   |
+| 05.06.25 | quinta        | [Análise Sintática - Recursive-descent parsing](2025-06-05.md) |                     |
+| 10.06.25 | terça         | [Análise Semântica - Introdução e ASTs](2025-06-10.md)       | Exercício 4 - Recursive-descent parsing |
+| 12.06.25 | quinta        | [Análise Semântica - Visitors](2025-06-12.md)                |                       |
+| 17.06.25 | terça         | [Análise Semântica - Sistemas de Tipos](2025-06-17.md)       |                       |
+| 19.06.25 | quinta        | **Corpus Christi**                                           |                       |
+| 24.06.25 | terça         | **São João**                                                 |                       |
+| 26.06.25 | quinta        | Análise Semântica - Escopo                                   | Exercício 5 - Type-Checking |
+| 01.07.25 | terça         | Representações Intermediárias de Código                      |                       |
+| 03.07.25 | quinta        | Representações Intermediárias de Código                      | Exercício 6 - Interpretador |
+| 08.07.25 | terça         | Representações Intermediárias de Código                      |                       |
+| 10.07.25 | quinta        | Análise e Otimização de Código                               |                       |
+| 15.07.25 | terça         | Análise e Otimização de Código                               | Exercício 7           |
+| 17.07.25 | quinta        | Análise e Otimização de Código                               |                       |
+| 22.07.25 | terça         | _APS_                                                        | Exercício 8           | 
+| 24.07.25 | quinta        | Ambientes de Execução                                        |                       |
+| 29.07.25 | terça         | Ambientes de Execução                                        | Exercício 9           |
+| 31.07.25 | quinta        | Geração de Código                                            |                       |
+| 05.08.25 | terça         | Geração de Código                                            | Exercício 10          |
+| 07.08.25 | quinta        | Geração de Código                                            |                       |
+| 12.08.25 | terça         | **Exercício Escolar**                                        |                       |
+| 14.08.25 | quinta        | **Segunda Chamada**                                          |                       | 
+| 19.08.25 | terça         | **Prova final**                                              |                       |

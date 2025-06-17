@@ -1,6 +1,13 @@
 PROGRAM simples BEGIN
   PRINT "Type a number"
-  DECL num : INT
+  DECL num1 : INT
+  DECL num2 : INT
+  DECL num3 : INT
+  DECL num4 : INT
+  DECL num5 : INT
   INPUT num
   PRINT num
+  DECL num6 : INT
+  DECL num7 : INT
+  DECL num8 : INT
 ENDPROGRAM

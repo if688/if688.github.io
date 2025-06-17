@@ -5,11 +5,16 @@ PROGRAM fibonacci BEGIN
     DECL a : INT
     DECL b : INT
     DECL c : INT
+    DECL nome : STRING
+    LET nome = "Leopoldo"
     LET a = 0
-    LET b = 1    
+    LET b = 1   
+    
 
     WHILE nums > 0 REPEAT
         PRINT a
+            DECL outra : INT
+
         LET c = a + b
         LET a = b
         LET b = c
