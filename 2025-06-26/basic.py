@@ -23,13 +23,14 @@ def main():
     # visitor = PrintAST(program)
     # print(visitor.printAST())
 
-    # visitor = BuildSymbolTable(program)
-    # symbolTable = visitor.build()
-    # print(symbolTable)
-    
-    visitor = TypeCheckVisitor(program)
-    visitor.typecheck()
+    visitor = BuildSymbolTable(program)
     print(visitor.symbolTable)
+    symbolTable = visitor.buildTable()
+    print(symbolTable)
+    
+    # visitor = TypeCheckVisitor(program)
+    # visitor.typecheck()
+    # print(visitor.symbolTable)
     
 
 main()

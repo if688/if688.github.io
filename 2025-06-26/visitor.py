@@ -89,3 +89,21 @@ class CountVars(GenericVisitor):
     
     def visit_VarDeclStmt(self, node):
         self.numVars += 1
+
+class BuildSymbolTable(GenericVisitor):
+    def __init__(self, tree):
+        super().__init__(tree)
+        self.symbolTable = SymbolTable()
+    
+    def buildTable(self):
+        self.traverse()
+        return self.symbolTable
+    
+    def visit_VarDeclStmt(self, node):
+        nomeVariavel = node.id
+        if self.symbolTable.lookup(nomeVariavel) is None:
+            tipoVariavel = self.symbolTable.lookup(node.type)
+            simbolo = VarSymbol(nomeVariavel, tipoVariavel)
+            self.symbolTable.insert(nomeVariavel, simbolo)
+        else:
+            self.erro('Variável ' + nomeVariavel + ' já foi declarada.')
