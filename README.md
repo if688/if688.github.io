@@ -80,10 +80,10 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 17.06.25 | terça         | [Análise Semântica - Sistemas de Tipos](2025-06-17.md)       |                       |
 | 19.06.25 | quinta        | **Corpus Christi**                                           |                       |
 | 24.06.25 | terça         | **São João**                                                 |                       |
-| 26.06.25 | quinta        | Análise Semântica - Escopo                                   | Exercício 5 - Type-Checking |
-| 01.07.25 | terça         | Representações Intermediárias de Código                      |                       |
-| 03.07.25 | quinta        | Representações Intermediárias de Código                      | Exercício 6 - Interpretador |
-| 08.07.25 | terça         | Representações Intermediárias de Código                      |                       |
+| 26.06.25 | quinta        | [Análise Semântica - Escopo](2025-06-26.md)                  |                       |
+| 01.07.25 | terça         | Representações Intermediárias de Código                      | Exercício 5 - Type-Checking |
+| 03.07.25 | quinta        | Representações Intermediárias de Código                      |                       |
+| 08.07.25 | terça         | Representações Intermediárias de Código                      | Exercício 6           |
 | 10.07.25 | quinta        | Análise e Otimização de Código                               |                       |
 | 15.07.25 | terça         | Análise e Otimização de Código                               | Exercício 7           |
 | 17.07.25 | quinta        | Análise e Otimização de Código                               |                       |
