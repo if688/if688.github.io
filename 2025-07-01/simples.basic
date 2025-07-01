@@ -1,0 +1,13 @@
+PROGRAM simples BEGIN
+    DECL x : STRING
+    INPUT x
+    DECL y : INT
+    DECL z : INT
+    DECL b : BOOLEAN
+    LET y = 12
+    LET z = y + 15
+    LET b = y>z
+    IF y>z THEN 
+       LET y = "2"
+    ENDIF
+ENDPROGRAM

@@ -1,0 +1,15 @@
+PROGRAM fibonacci BEGIN
+    DECL w : INT
+    LET w = 120
+    PRINT w
+    DECL s : STRING
+    LET s = "Algum valor"
+
+    BLOCK teste BEGIN
+        DECL w : STRING
+        LET w = "Algum valor"
+        PRINT w
+        PRINT x
+    ENDBLOCK
+    
+ENDPROGRAM
