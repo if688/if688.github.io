@@ -1,0 +1,10 @@
+PROGRAM maissimples BEGIN
+    PRINT "Digite o seu nome"
+    DECL x : STRING
+    DECL y : STRING
+    INPUT x
+    LET y = "Vou imprimir o que você digitou agora:"
+    PRINT y
+    PRINT x
+    PRINT "fim"
+ENDPROGRAM

@@ -81,17 +81,17 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 19.06.25 | quinta        | **Corpus Christi**                                           |                       |
 | 24.06.25 | terça         | **São João**                                                 |                       |
 | 26.06.25 | quinta        | [Análise Semântica - Escopo](2025-06-26.md)                  |                       |
-| 01.07.25 | terça         | Representações Intermediárias de Código                      | Exercício 5 - Type-Checking |
-| 03.07.25 | quinta        | Representações Intermediárias de Código                      |                       |
-| 08.07.25 | terça         | Representações Intermediárias de Código                      | Exercício 6           |
-| 10.07.25 | quinta        | Análise e Otimização de Código                               |                       |
-| 15.07.25 | terça         | Análise e Otimização de Código                               | Exercício 7           |
-| 17.07.25 | quinta        | Análise e Otimização de Código                               |                       |
-| 22.07.25 | terça         | _APS_                                                        | Exercício 8           | 
-| 24.07.25 | quinta        | Ambientes de Execução                                        |                       |
-| 29.07.25 | terça         | Ambientes de Execução                                        | Exercício 9           |
-| 31.07.25 | quinta        | Geração de Código                                            |                       |
-| 05.08.25 | terça         | Geração de Código                                            | Exercício 10          |
+| 01.07.25 | terça         | [Análise Semântica - Implementando Checagem de Tipos](2025-07-01.md)  | Exercício 5 - Type-Checking |
+| 03.07.25 | quinta        | [Representações Intermediárias de Código](2025-07-03.md)                      |                       |
+| 08.07.25 | terça         | [Control-Flow Graphs](2025-07-08.md)                       | Exercício 6 - ASTs MiniJava          |
+| 10.07.25 | quinta        | [Gerando Código alto nível a partir de ASTs](https://github.com/if688/if688.github.io/tree/master/2025-07-01) |                       |
+| 15.07.25 | terça         | Aula Cancelada                                               |                       |
+| 17.07.25 | quinta        | [Análise e Otimização de Código - Otimizações Locais](2025-07-17.md) |               |
+| 22.07.25 | terça         | [APS - LLVM](2025-07-22.md)                                  | Exercício 7 - LLVM    | 
+| 24.07.25 | quinta        | Análise e Otimização de Código - Otimizações Globais         |                       |
+| 29.07.25 | terça         | Ambientes de Execução                                        | Exercício 8           |
+| 31.07.25 | quinta        | Ambientes de Execução                                        |                       |
+| 05.08.25 | terça         | Geração de Código                                            | Exercício 9           |
 | 07.08.25 | quinta        | Geração de Código                                            |                       |
 | 12.08.25 | terça         | **Exercício Escolar**                                        |                       |
 | 14.08.25 | quinta        | **Segunda Chamada**                                          |                       | 

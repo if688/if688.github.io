@@ -1,0 +1,18 @@
+PROGRAM maissimples BEGIN
+    DECL b : STRING
+    DECL x : INT
+    INPUT x
+    LET a = "Teste"
+    PRINT "Hello World 1"
+    PRINT 2+3
+    PRINT a
+    IF x > 10 THEN
+        PRINT "dentro do if"
+        IF x > 20 THEN
+            PRINT "if dentro do if"
+            IF x > 30 THEN
+                PRINT "if dentro do if dentro do if"
+            ENDIF
+        ENDIF
+    ENDIF
+ENDPROGRAM
