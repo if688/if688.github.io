@@ -6,10 +6,20 @@
 
 * **Professor:** Leopoldo Motta Teixeira ([@leopoldomt](https://github.com/leopoldomt) --- lmt@cin)
 
+* **Monitores:** 
+  - Ana Paula Sá Barreto Paiva da Cunha	[@anapsa](https://github.com/anapsa) --- apsbpc@cin
+  - Andre de Freitas Saghaard	[@andrefgard](https://github.com/andrefgard) --- afs15@cin
+  - Caio Nascimento Santos	[@caionsantos](https://github.com/caionsantos) --- cns@cin
+  - Gabriel Stamford Arnaud	[@GabrielStamfordDev](https://github.com/GabrielStamfordDev) --- gsa6@cin
+  - Guilherme Lins Rigaud	[@Gui-Rigaud](https://github.com/Gui-Rigaud) --- glr2@cin
+  - Gustavo Santiago Silva Mariano [@Gust4voSSM](https://github.com/Gust4voSSM) --- gssm@cin
+  - Hugo de Almeida Medeiros [@HugoZig](https://github.com/HugoZig) --- ham4@cin
+  - Pedro Vítor de Oliveira Monte [@PedroMonte](https://github.com/PedroMonte) --- pvom@cin
+
 ### Horário e Local de Aulas
 
-* Terça (10h-12h), Anfiteatro
-* Quinta (8h-10h), Anfiteatro
+* Terça (13h-15h), Sala 1 - Área 2
+* Quinta (15h-17h), Sala 1 - Área 2
 
 ### Ementa
 
@@ -42,9 +52,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 ### Recursos
 
-- [Discord](https://discord.gg/dzfg4fEx)
-- [Google Classroom](https://classroom.google.com/c/Nzc4MDUwMTQxNjM0?cjc=umxl6ksl)
-- Github Classroom - Ver instruções no Google Classroom após o primeiro exercício ser disparado
+- [Discord](https://discord.gg/tSrdXTwKvQ)
+- Github Classroom - De acordo com instruções no Discord
 
 
 ### Avaliação
@@ -65,34 +74,33 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 
 | Data     | Dia da Semana | Conteúdo Programático | Atividades Associadas |
 |----------|---------------|-----------------------|-----------------------|
-| 06.05.25 | terça         | [Introdução, admin](2025-05-06.md)                           | Pesquisa inicial da disciplina (Google Classroom) | 
-| 08.05.25 | quinta        | [Análise Léxica](2025-05-08.md)                              |                       |
-| 13.05.25 | terça         | [Implementando Analisadores Léxicos](2025-05-13.md)          | Exercício 1 - Análise Léxica |
-| 15.05.25 | quinta        | [Análise Sintática - Introdução a Top-Down Parsing](2025-05-15.md) |                 |
-| 20.05.25 | terça         | [Análise Sintática - LL(1) parsing](2025-05-20.md)           |                       |
-| 22.05.25 | quinta        | [Análise Sintática - ](2025-05-22.md)                        | Exercício 2 - LL(1) parsing |
-| 27.05.25 | terça         | [Análise Sintática - Bottom-up parsing](2025-05-27.md)       |                       |
-| 29.05.25 | quinta        | [Análise Sintática - Bottom-up parsing](2025-05-29.md)       |                       |
-| 03.06.25 | terça         | _APS - Análise Sintática (ANTLR)_                            | Exercício 3 - ANTLR   |
-| 05.06.25 | quinta        | [Análise Sintática - Recursive-descent parsing](2025-06-05.md) |                     |
-| 10.06.25 | terça         | [Análise Semântica - Introdução e ASTs](2025-06-10.md)       | Exercício 4 - Recursive-descent parsing |
-| 12.06.25 | quinta        | [Análise Semântica - Visitors](2025-06-12.md)                |                       |
-| 17.06.25 | terça         | [Análise Semântica - Sistemas de Tipos](2025-06-17.md)       |                       |
-| 19.06.25 | quinta        | **Corpus Christi**                                           |                       |
-| 24.06.25 | terça         | **São João**                                                 |                       |
-| 26.06.25 | quinta        | [Análise Semântica - Escopo](2025-06-26.md)                  |                       |
-| 01.07.25 | terça         | [Análise Semântica - Implementando Checagem de Tipos](2025-07-01.md)  | Exercício 5 - Type-Checking |
-| 03.07.25 | quinta        | [Representações Intermediárias de Código](2025-07-03.md)                      |                       |
-| 08.07.25 | terça         | [Control-Flow Graphs](2025-07-08.md)                       | Exercício 6 - ASTs MiniJava          |
-| 10.07.25 | quinta        | [Gerando Código alto nível a partir de ASTs](https://github.com/if688/if688.github.io/tree/master/2025-07-01) |                       |
-| 15.07.25 | terça         | Aula Cancelada                                               |                       |
-| 17.07.25 | quinta        | [Análise e Otimização de Código - Otimizações Locais](2025-07-17.md) |               |
-| 22.07.25 | terça         | [APS - LLVM](2025-07-22.md)                                  | Exercício 7 - LLVM    | 
-| 24.07.25 | quinta        | Análise e Otimização de Código - Otimizações Globais         |                       |
-| 29.07.25 | terça         | Ambientes de Execução                                        | Exercício 8           |
-| 31.07.25 | quinta        | Ambientes de Execução                                        |                       |
-| 05.08.25 | terça         | Geração de Código                                            | Exercício 9           |
-| 07.08.25 | quinta        | Geração de Código                                            |                       |
-| 12.08.25 | terça         | **Exercício Escolar**                                        |                       |
-| 14.08.25 | quinta        | **Segunda Chamada**                                          |                       | 
-| 19.08.25 | terça         | **Prova final**                                              |                       |
+| 09.09.25 | terça         | [Introdução, admin](2025-09-09.md)                           | [Pesquisa inicial da disciplina](https://forms.gle/ydz8Ljx9nMrVFrz46) | 
+| 11.09.25 | quinta        | Análise Léxica |                       |
+| 16.09.25 | terça         | Análise Léxica |                       |
+| 18.09.25 | quinta        | Análise Sintática |                       |
+| 23.09.25 | terça         | Análise Sintática |                       |
+| 25.09.25 | quinta        | Análise Sintática |                       |
+| 30.09.25 | terça         | Análise Sintática |                       |
+| 02.10.25 | quinta        | Análise Sintática |                       |
+| 07.10.25 | terça         | Análise Sintática |                       |
+| 09.10.25 | quinta        | Análise Semântica |                       |
+| 14.10.25 | terça         | Análise Semântica |                       |
+| 16.10.25 | quinta        | Análise Semântica |                       |
+| 21.10.25 | terça         | Análise Semântica |                       |
+| 23.10.25 | quinta        | Análise Semântica |                       |
+| 28.10.25 | terça         | **Dia do Servidor Público (Ponto Facultativo)** |   |
+| 30.10.25 | quinta        | Representações Intermediárias de Código |      |
+| 04.11.25 | terça         | Representações Intermediárias de Código |      |
+| 06.11.25 | quinta        | Representações Intermediárias de Código |      |
+| 11.11.25 | terça         | Análise e Otimização de Código |    |
+| 13.11.25 | quinta        | Análise e Otimização de Código |    |
+| 18.11.25 | terça         | Análise e Otimização de Código |    |
+| 20.11.25 | quinta        | **Consciência Negra (Feriado Nacional)** |       |
+| 25.11.25 | terça         | Análise e Otimização de Código |    |
+| 27.11.25 | quinta        | Ambientes de Execução |                       |
+| 02.12.25 | terça         | Ambientes de Execução |                       |
+| 04.12.25 | quinta        | Geração de Código     |                       |
+| 09.12.25 | terça         | Geração de Código     |                       |
+| 11.12.25 | quinta        | **Exercício Escolar** |                       |
+| 16.12.25 | terça         | **Segunda Chamada**   |                       | 
+| 18.12.25 | quinta        | **Prova final**       |                       |
