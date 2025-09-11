@@ -75,8 +75,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | Data     | Dia da Semana | Conteúdo Programático | Atividades Associadas |
 |----------|---------------|-----------------------|-----------------------|
 | 09.09.25 | terça         | [Introdução, admin](2025-09-09.md)                           | [Pesquisa inicial da disciplina](https://forms.gle/ydz8Ljx9nMrVFrz46) | 
-| 11.09.25 | quinta        | Análise Léxica |                       |
-| 16.09.25 | terça         | Análise Léxica |                       |
+| 11.09.25 | quinta        | [Análise Léxica](2025-09-11.md) |                       |
+| 16.09.25 | terça         | Implementando Analisadores Léxicos |  Atividade 1 lançada |
 | 18.09.25 | quinta        | Análise Sintática |                       |
 | 23.09.25 | terça         | Análise Sintática |                       |
 | 25.09.25 | quinta        | Análise Sintática |                       |
