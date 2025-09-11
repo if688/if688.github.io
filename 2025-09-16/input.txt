@@ -1,0 +1,6 @@
+y = 122
+x = 234 - 123
+while x > y {
+    z = x+y
+    print(z)
+}
