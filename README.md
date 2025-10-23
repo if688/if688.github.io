@@ -86,7 +86,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 09.10.25 | quinta        | Análise Semântica |                       |
 | 14.10.25 | terça         | Análise Semântica |                       |
 | 16.10.25 | quinta        | Análise Semântica |                       |
-| 21.10.25 | terça         | Análise Semântica |                       |
+| 21.10.25 | terça         | APS: ANTLR        |                       |
 | 23.10.25 | quinta        | Análise Semântica |                       |
 | 28.10.25 | terça         | **Dia do Servidor Público (Ponto Facultativo)** |   |
 | 30.10.25 | quinta        | Representações Intermediárias de Código |      |
