@@ -82,14 +82,14 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 25.09.25 | quinta        | [APS: _LL(1) Parsing_](https://classroom.github.com/a/YGAzT_Iv) | Atividade 2 lançada |
 | 30.09.25 | terça         | [Análise Sintática - _Recursive-descent parsing_ e _Bottom-up parsing_](2025-09-30.md) |                       |
 | 02.10.25 | quinta        | [Análise Sintática - LR(0) e LR(1) parsing](2025-10-02.md) | [Atividade 3 lançada](https://classroom.github.com/a/LdV-wAay) |
-| 07.10.25 | terça         | Análise Sintática - _LR(1) parsing_ |                       |
-| 09.10.25 | quinta        | Análise Semântica |                       |
-| 14.10.25 | terça         | Análise Semântica |                       |
-| 16.10.25 | quinta        | Análise Semântica |                       |
-| 21.10.25 | terça         | APS: ANTLR        |                       |
-| 23.10.25 | quinta        | Análise Semântica |                       |
-| 28.10.25 | terça         | **Dia do Servidor Público (Ponto Facultativo)** |   |
-| 30.10.25 | quinta        | Representações Intermediárias de Código |      |
+| 07.10.25 | terça         | [Análise Sintática - _LR(1) parsing_](2025-10-07.md) |                       |
+| 09.10.25 | quinta        | [Análise Semântica - Introdução e Tipos](2025-10-09.md) |                       |
+| 14.10.25 | terça         | [Análise Semântica - Tipos e Escopo](2025-10-14.md) |                       |
+| 16.10.25 | quinta        | [Análise Semântica - ASTs e Visitors](2025-10-16.md) |                       |
+| 21.10.25 | terça         | [APS: Atividade 4 LR(1) parsing](https://classroom.github.com/a/LdV-wAay)        |                       |
+| 23.10.25 | quinta        | [APS: Atividade 5 ANTLR](2025-10-23.md) |                       |
+| 28.10.25 | terça         | [APS: Atividade 6 ASTs](2025-10-28.md) |   |
+| 30.10.25 | quinta        | APS: Type-Checking |      |
 | 04.11.25 | terça         | Representações Intermediárias de Código |      |
 | 06.11.25 | quinta        | Representações Intermediárias de Código |      |
 | 11.11.25 | terça         | Análise e Otimização de Código |    |
