@@ -8,6 +8,6 @@ PROGRAM simples BEGIN
     LET z = y + 15
     LET b = y>z
     IF y>z THEN 
-       LET y = "2"
+       LET y = 2
     ENDIF
 ENDPROGRAM

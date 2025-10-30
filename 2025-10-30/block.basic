@@ -1,4 +1,4 @@
-PROGRAM fibonacci BEGIN
+PROGRAM blocks BEGIN
     DECL w : INT
     LET w = 120
     PRINT w
@@ -9,7 +9,16 @@ PROGRAM fibonacci BEGIN
         DECL w : STRING
         LET w = "Algum valor"
         PRINT w
-        PRINT x
     ENDBLOCK
-    
+
+    PRINT w
+
+    BLOCK outroteste BEGIN
+        DECL w : BOOLEAN
+        LET w = TRUE
+        PRINT w
+    ENDBLOCK
+
+    PRINT w
+
 ENDPROGRAM

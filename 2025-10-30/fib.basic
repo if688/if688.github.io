@@ -5,9 +5,6 @@ PROGRAM fibonacci BEGIN
     DECL a : INT
     DECL b : INT
     DECL c : INT
-    DECL d : INT
-    DECL e : STRING
-    DECL f : BOOLEAN
     LET a = 0
     LET b = 1
 
@@ -19,11 +16,5 @@ PROGRAM fibonacci BEGIN
         LET nums = nums - 1
     ENDWHILE
     
-    PRINT b
-    BLOCK teste BEGIN
-        DECL w : STRING
-        LET w = "Algum valor"
-        PRINT w
-    ENDBLOCK
     PRINT b
 ENDPROGRAM
