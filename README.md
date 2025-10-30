@@ -86,7 +86,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 09.10.25 | quinta        | [Análise Semântica - Introdução e Tipos](2025-10-09.md) |                       |
 | 14.10.25 | terça         | [Análise Semântica - Tipos e Escopo](2025-10-14.md) |                       |
 | 16.10.25 | quinta        | [Análise Semântica - ASTs e Visitors](2025-10-16.md) |                       |
-| 21.10.25 | terça         | [APS: Atividade 4 LR(1) parsing](https://classroom.github.com/a/LdV-wAay)        |                       |
+| 21.10.25 | terça         | [APS: Atividade 4 LR(1) parsing](https://classroom.github.com/a/nIKx2OD_)        |                       |
 | 23.10.25 | quinta        | [APS: Atividade 5 ANTLR](2025-10-23.md) |                       |
 | 28.10.25 | terça         | [APS: Atividade 6 ASTs](2025-10-28.md) |   |
 | 30.10.25 | quinta        | APS: Type-Checking |      |
