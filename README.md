@@ -89,7 +89,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 21.10.25 | terça         | [APS: Atividade 4 LR(1) parsing](https://classroom.github.com/a/nIKx2OD_)        |                       |
 | 23.10.25 | quinta        | [APS: Atividade 5 ANTLR](2025-10-23.md) |                       |
 | 28.10.25 | terça         | [APS: Atividade 6 ASTs](2025-10-28.md) |   |
-| 30.10.25 | quinta        | APS: Type-Checking |      |
+| 30.10.25 | quinta        | [Análise Semântica: Implementando Type-Checking](2025-10-30.md) |      |
 | 04.11.25 | terça         | Representações Intermediárias de Código |      |
 | 06.11.25 | quinta        | Representações Intermediárias de Código |      |
 | 11.11.25 | terça         | Análise e Otimização de Código |    |
