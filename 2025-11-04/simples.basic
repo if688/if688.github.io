@@ -1,0 +1,8 @@
+PROGRAM simples BEGIN
+    DECL x : STRING
+    PRINT "Digite algo a seguir."
+    INPUT x
+    PRINT x
+    DECL y : INT
+    LET y = 120 + 12
+ENDPROGRAM

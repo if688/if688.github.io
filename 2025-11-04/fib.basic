@@ -1,0 +1,20 @@
+PROGRAM fibonacci BEGIN
+    PRINT "How many fibonacci numbers do you want?"
+    DECL nums : INT
+    INPUT nums
+    DECL a : INT
+    DECL b : INT
+    DECL c : INT
+    LET a = 0
+    LET b = 1
+
+    WHILE nums > 0 REPEAT
+        PRINT a
+        LET c = a + b
+        LET a = b
+        LET b = c
+        LET nums = nums - 1
+    ENDWHILE
+    
+    PRINT b
+ENDPROGRAM
