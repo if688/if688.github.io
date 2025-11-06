@@ -90,8 +90,8 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 23.10.25 | quinta        | [APS: Atividade 5 ANTLR](2025-10-23.md) |                       |
 | 28.10.25 | terça         | [APS: Atividade 6 ASTs](2025-10-28.md) |   |
 | 30.10.25 | quinta        | [Análise Semântica: Implementando Type-Checking](2025-10-30.md) |      |
-| 04.11.25 | terça         | Representações Intermediárias de Código |      |
-| 06.11.25 | quinta        | Representações Intermediárias de Código |      |
+| 04.11.25 | terça         | [Representações Intermediárias de Código - Código de 3 endereços](2025-11-04.md) |      |
+| 06.11.25 | quinta        | [Representações Intermediárias de Código - _Control-Flow Graphs_](2025-11-06.md) |      |
 | 11.11.25 | terça         | Análise e Otimização de Código |    |
 | 13.11.25 | quinta        | Análise e Otimização de Código |    |
 | 18.11.25 | terça         | Análise e Otimização de Código |    |
