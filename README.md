@@ -78,7 +78,7 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 11.09.25 | quinta        | [Análise Léxica](2025-09-11.md) |                       |
 | 16.09.25 | terça         | [Análise Sintática Top-Down (intro, first, follow)](2025-09-16.md) |   |
 | 18.09.25 | quinta        | [Análise Sintática Top-Down - LL(1) _parsing_](2025-09-18.md) |                       |
-| 16.09.25 | terça         | [APS: Implementando Analisadores Léxicos](https://classroom.github.com/a/xG7wXD0l) |  Atividade 1 lançada |
+| 23.09.25 | terça         | [APS: Implementando Analisadores Léxicos](https://classroom.github.com/a/xG7wXD0l) |  Atividade 1 lançada |
 | 25.09.25 | quinta        | [APS: _LL(1) Parsing_](https://classroom.github.com/a/YGAzT_Iv) | Atividade 2 lançada |
 | 30.09.25 | terça         | [Análise Sintática - _Recursive-descent parsing_ e _Bottom-up parsing_](2025-09-30.md) |                       |
 | 02.10.25 | quinta        | [Análise Sintática - LR(0) e LR(1) parsing](2025-10-02.md) | [Atividade 3 lançada](https://classroom.github.com/a/LdV-wAay) |
