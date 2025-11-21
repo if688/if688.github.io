@@ -92,11 +92,11 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 30.10.25 | quinta        | [Análise Semântica: Implementando Type-Checking](2025-10-30.md) |      |
 | 04.11.25 | terça         | [Representações Intermediárias de Código - Código de 3 endereços](2025-11-04.md) |      |
 | 06.11.25 | quinta        | [Representações Intermediárias de Código - _Control-Flow Graphs_](2025-11-06.md) | [Atividade 7 lançada](https://classroom.github.com/a/Vlr25Bjv)     |
-| 11.11.25 | terça         | Análise e Otimização de Código |    |
-| 13.11.25 | quinta        | Análise e Otimização de Código |    |
-| 18.11.25 | terça         | Análise e Otimização de Código |    |
+| 11.11.25 | terça         | [Análise e Otimização de Código - Introdução e Otimizações Locais](2025-11-11.md) |    |
+| 13.11.25 | quinta        | [Análise e Otimização de Código - Otimizações Globais _Forward-Flow_](2025-11-13.md) |    |
+| 18.11.25 | terça         | [Análise e Otimização de Código - Otimizações Globais _Backward-Flow_](2025-11-18.md) | [Atividade 8 lançada](https://classroom.github.com/a/o4gCZVe7)     |
 | 20.11.25 | quinta        | **Consciência Negra (Feriado Nacional)** |       |
-| 25.11.25 | terça         | Análise e Otimização de Código |    |
+| 25.11.25 | terça         | Análise e Otimização de Código - _Liveness_ e _Dominance_ |    |
 | 27.11.25 | quinta        | Ambientes de Execução |                       |
 | 02.12.25 | terça         | Ambientes de Execução |                       |
 | 04.12.25 | quinta        | Geração de Código     |                       |
