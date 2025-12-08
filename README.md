@@ -96,11 +96,11 @@ Na disciplina, utilizaremos uma mistura de aulas tradicionais com exercícios e 
 | 13.11.25 | quinta        | [Análise e Otimização de Código - Otimizações Globais _Forward-Flow_](2025-11-13.md) |    |
 | 18.11.25 | terça         | [Análise e Otimização de Código - Otimizações Globais _Backward-Flow_](2025-11-18.md) | [Atividade 8 lançada](https://classroom.github.com/a/o4gCZVe7)     |
 | 20.11.25 | quinta        | **Consciência Negra (Feriado Nacional)** |       |
-| 25.11.25 | terça         | Análise e Otimização de Código - _Liveness_ e _Dominance_ |    |
-| 27.11.25 | quinta        | Ambientes de Execução |                       |
-| 02.12.25 | terça         | Ambientes de Execução |                       |
-| 04.12.25 | quinta        | Geração de Código     |                       |
-| 09.12.25 | terça         | Geração de Código     |                       |
+| 25.11.25 | terça         | [Análise e Otimização de Código / Ambientes de Execução (Pilha)](2025-11-25.md) |    |
+| 27.11.25 | quinta        | [Ambientes de Execução e Geração de Código](2025-11-27.md) |                       |
+| 02.12.25 | terça         | [Geração de Código](2025-12-02.md) |                       |
+| 04.12.25 | quinta        | Exercícios     |                       |
+| 09.12.25 | terça         | Revisão     |                       |
 | 11.12.25 | quinta        | **Exercício Escolar** |                       |
 | 16.12.25 | terça         | **Segunda Chamada**   |                       | 
 | 18.12.25 | quinta        | **Prova final**       |                       |
